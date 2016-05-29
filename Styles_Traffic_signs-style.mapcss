@@ -60231,16 +60231,6 @@ icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23.png"  ;
  }
-node["traffic_sign"="A:H23node["traffic_sign"="A:grrrg.png"]["side"="right"]{
-icon-offset-x:"20" ;
-icon-width:"20" ;
-icon-image:"traffic_signs/A/A_H23a_grrrg.png"  ;
- }
-node["traffic_sign"="A:H23node["traffic_sign"="A:rllg.png"]["side"="right"]{
-icon-offset-x:"20" ;
-icon-width:"20" ;
-icon-image:"traffic_signs/A/A_H23a_rllg.png"  ;
- }
 node["traffic_sign"="A:H23b1p2-1.png"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
