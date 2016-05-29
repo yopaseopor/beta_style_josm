@@ -56526,1220 +56526,1220 @@ icon-image:"traffic_signs/A/A_Z_l.png" ;
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
 
-node["traffic_sign"="A:fv"]["side"="right"]{
+node["traffic_sign:forward"="A:fv"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_fv.png" ;
 }
 
-node["traffic_sign"="A:G1"]["side"="right"]{
+node["traffic_sign:forward"="A:G1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G1.png" ;
 }
 
-node["traffic_sign"="A:G10"]["side"="right"]{
+node["traffic_sign:forward"="A:G10"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10.png" ;
 }
 
-node["traffic_sign"="A:G10a"]["side"="right"]{
+node["traffic_sign:forward"="A:G10a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10a.png" ;
 }
 
-node["traffic_sign"="A:G10b"]["side"="right"]{
+node["traffic_sign:forward"="A:G10b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10b.png" ;
 }
 
-node["traffic_sign"="A:G10c"]["side"="right"]{
+node["traffic_sign:forward"="A:G10c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10c.png" ;
 }
 
-node["traffic_sign"="A:G11"]["side"="right"]{
+node["traffic_sign:forward"="A:G11"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G11.png" ;
 }
 
-node["traffic_sign"="A:G11a"]["side"="right"]{
+node["traffic_sign:forward"="A:G11a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G11a.png" ;
 }
 
-node["traffic_sign"="A:G12"]["side"="right"]{
+node["traffic_sign:forward"="A:G12"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G12.png" ;
 }
 
-node["traffic_sign"="A:G13a"]["side"="right"]{
+node["traffic_sign:forward"="A:G13a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G13a.png" ;
 }
 
-node["traffic_sign"="A:G13b"]["side"="right"]{
+node["traffic_sign:forward"="A:G13b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G13b.png" ;
 }
 
-node["traffic_sign"="A:G14"]["side"="right"]{
+node["traffic_sign:forward"="A:G14"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G14.png" ;
 }
 
-node["traffic_sign"="A:G14a"]["side"="right"]{
+node["traffic_sign:forward"="A:G14a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G14a.png" ;
 }
 
-node["traffic_sign"="A:G15"]["side"="right"]{
+node["traffic_sign:forward"="A:G15"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G15.png" ;
 }
 
-node["traffic_sign"="A:G16"]["side"="right"]{
+node["traffic_sign:forward"="A:G16"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G16.png" ;
 }
 
-node["traffic_sign"="A:G2a"]["side"="right"]{
+node["traffic_sign:forward"="A:G2a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2a.png" ;
 }
 
-node["traffic_sign"="A:G2b"]["side"="right"]{
+node["traffic_sign:forward"="A:G2b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2b.png" ;
 }
 
-node["traffic_sign"="A:G2c"]["side"="right"]{
+node["traffic_sign:forward"="A:G2c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2c.png" ;
 }
 
-node["traffic_sign"="A:G2d"]["side"="right"]{
+node["traffic_sign:forward"="A:G2d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2d.png" ;
 }
 
-node["traffic_sign"="A:G3"]["side"="right"]{
+node["traffic_sign:forward"="A:G3"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G3.png" ;
 }
 
-node["traffic_sign"="A:G3a"]["side"="right"]{
+node["traffic_sign:forward"="A:G3a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G3a.png" ;
 }
 
-node["traffic_sign"="A:G4"]["side"="right"]{
+node["traffic_sign:forward"="A:G4"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G4.png" ;
 }
 
-node["traffic_sign"="A:G6a"]["side"="right"]{
+node["traffic_sign:forward"="A:G6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6a.png" ;
 }
 
-node["traffic_sign"="A:G6b"]["side"="right"]{
+node["traffic_sign:forward"="A:G6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6b.png" ;
 }
 
-node["traffic_sign"="A:G6c1l"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c1l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c1l.png" ;
 }
 
-node["traffic_sign"="A:G6c1r"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c1r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c1r.png" ;
 }
 
-node["traffic_sign"="A:G6c2l"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c2l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c2l.png" ;
 }
 
-node["traffic_sign"="A:G6c2r"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c2r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c2r.png" ;
 }
 
-node["traffic_sign"="A:G6c3l"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c3l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3l.png" ;
 }
 
-node["traffic_sign"="A:G6c3l6b"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c3l6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3l6b.png" ;
 }
 
-node["traffic_sign"="A:G6c3r"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c3r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3r.png" ;
 }
 
-node["traffic_sign"="A:G6c3r6a"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c3r6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3r6a.png" ;
 }
 
-node["traffic_sign"="A:G6c3r6b"]["side"="right"]{
+node["traffic_sign:forward"="A:G6c3r6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3r6b.png" ;
 }
 
-node["traffic_sign"="A:G6d"]["side"="right"]{
+node["traffic_sign:forward"="A:G6d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6d.png" ;
 }
 
-node["traffic_sign"="A:G6dd"]["side"="right"]{
+node["traffic_sign:forward"="A:G6dd"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6dd.png" ;
 }
 
-node["traffic_sign"="A:G6ddl"]["side"="right"]{
+node["traffic_sign:forward"="A:G6ddl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6ddl.png" ;
 }
 
-node["traffic_sign"="A:G6ddt"]["side"="right"]{
+node["traffic_sign:forward"="A:G6ddt"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6ddt.png" ;
 }
 
-node["traffic_sign"="A:G6dl"]["side"="right"]{
+node["traffic_sign:forward"="A:G6dl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6dl.png" ;
 }
 
-node["traffic_sign"="A:G6dt"]["side"="right"]{
+node["traffic_sign:forward"="A:G6dt"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6dt.png" ;
 }
 
-node["traffic_sign"="A:G7"]["side"="right"]{
+node["traffic_sign:forward"="A:G7"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G7.png" ;
 }
 
-node["traffic_sign"="A:G7a"]["side"="right"]{
+node["traffic_sign:forward"="A:G7a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G7a.png" ;
 }
 
-node["traffic_sign"="A:G8a"]["side"="right"]{
+node["traffic_sign:forward"="A:G8a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G8a.png" ;
 }
 
-node["traffic_sign"="A:G8b"]["side"="right"]{
+node["traffic_sign:forward"="A:G8b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G8b.png" ;
 }
 
-node["traffic_sign"="A:G8c"]["side"="right"]{
+node["traffic_sign:forward"="A:G8c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G8c.png" ;
 }
 
-node["traffic_sign"="A:G9"]["side"="right"]{
+node["traffic_sign:forward"="A:G9"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G9.png" ;
 }
 
-node["traffic_sign"="A:H10a"]["side"="right"]{
+node["traffic_sign:forward"="A:H10a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H10a.png" ;
 }
 
-node["traffic_sign"="A:H10l"]["side"="right"]{
+node["traffic_sign:forward"="A:H10l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H10l.png" ;
 }
 
-node["traffic_sign"="A:H10r"]["side"="right"]{
+node["traffic_sign:forward"="A:H10r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H10r.png" ;
 }
 
-node["traffic_sign"="A:H11"]["side"="right"]{
+node["traffic_sign:forward"="A:H11"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H11.png" ;
 }
 
-node["traffic_sign"="A:H12"]["side"="right"]{
+node["traffic_sign:forward"="A:H12"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H12.png" ;
 }
 
-node["traffic_sign"="A:H13ag"]["side"="right"]{
+node["traffic_sign:forward"="A:H13ag"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13ag.png" ;
 }
 
-node["traffic_sign"="A:H13ak"]["side"="right"]{
+node["traffic_sign:forward"="A:H13ak"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13ak.png" ;
 }
 
-node["traffic_sign"="A:H13bg"]["side"="right"]{
+node["traffic_sign:forward"="A:H13bg"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13bg.png" ;
 }
 
-node["traffic_sign"="A:H13bog"]["side"="right"]{
+node["traffic_sign:forward"="A:H13bog"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13bog.png" ;
 }
 
-node["traffic_sign"="A:H13br"]["side"="right"]{
+node["traffic_sign:forward"="A:H13br"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13br.png" ;
 }
 
-node["traffic_sign"="A:H13cl"]["side"="right"]{
+node["traffic_sign:forward"="A:H13cl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13cl.png" ;
 }
 
-node["traffic_sign"="A:H13dl"]["side"="right"]{
+node["traffic_sign:forward"="A:H13dl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13dl.png" ;
 }
 
-node["traffic_sign"="A:H14a"]["side"="right"]{
+node["traffic_sign:forward"="A:H14a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H14a.png" ;
 }
 
-node["traffic_sign"="A:H14br"]["side"="right"]{
+node["traffic_sign:forward"="A:H14br"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H14br.png" ;
 }
 
-node["traffic_sign"="A:H14bsr"]["side"="right"]{
+node["traffic_sign:forward"="A:H14bsr"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H14bsr.png" ;
 }
 
-node["traffic_sign"="A:H15aa"]["side"="right"]{
+node["traffic_sign:forward"="A:H15aa"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15aa.png" ;
 }
 
-node["traffic_sign"="A:H15ab"]["side"="right"]{
+node["traffic_sign:forward"="A:H15ab"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ab.png" ;
 }
 
-node["traffic_sign"="A:H15ac"]["side"="right"]{
+node["traffic_sign:forward"="A:H15ac"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ac.png" ;
 }
 
-node["traffic_sign"="A:H15ad"]["side"="right"]{
+node["traffic_sign:forward"="A:H15ad"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ad.png" ;
 }
 
-node["traffic_sign"="A:H15ba"]["side"="right"]{
+node["traffic_sign:forward"="A:H15ba"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ba.png" ;
 }
 
-node["traffic_sign"="A:H15bbh"]["side"="right"]{
+node["traffic_sign:forward"="A:H15bbh"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15bbh.png" ;
 }
 
-node["traffic_sign"="A:H15bbq"]["side"="right"]{
+node["traffic_sign:forward"="A:H15bbq"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15bbq.png" ;
 }
 
-node["traffic_sign"="A:H15c"]["side"="right"]{
+node["traffic_sign:forward"="A:H15c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15c.png" ;
 }
 
-node["traffic_sign"="A:H16a"]["side"="right"]{
+node["traffic_sign:forward"="A:H16a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16a.png" ;
 }
 
-node["traffic_sign"="A:H16b_geradeaus"]["side"="right"]{
+node["traffic_sign:forward"="A:H16b_geradeaus"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16b_geradeaus.png" ;
 }
 
-node["traffic_sign"="A:H16b_rechts"]["side"="right"]{
+node["traffic_sign:forward"="A:H16b_rechts"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16b_rechts.png" ;
 }
 
-node["traffic_sign"="A:H16b_rechts_LKW"]["side"="right"]{
+node["traffic_sign:forward"="A:H16b_rechts_LKW"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16b_rechts_LKW.png" ;
 }
 
-node["traffic_sign"="A:H16c-a"]["side"="right"]{
+node["traffic_sign:forward"="A:H16c-a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16c-a.png" ;
 }
 
-node["traffic_sign"="A:H16c-b"]["side"="right"]{
+node["traffic_sign:forward"="A:H16c-b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16c-b.png" ;
 }
 
-node["traffic_sign"="A:H17a"]["side"="right"]{
+node["traffic_sign:forward"="A:H17a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H17a.png" ;
 }
 
-node["traffic_sign"="A:H17b"]["side"="right"]{
+node["traffic_sign:forward"="A:H17b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H17b.png" ;
 }
 
-node["traffic_sign"="A:H18"]["side"="right"]{
+node["traffic_sign:forward"="A:H18"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H18.png" ;
 }
 
-node["traffic_sign"="A:H19"]["side"="right"]{
+node["traffic_sign:forward"="A:H19"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H19.png" ;
 }
 
-node["traffic_sign"="A:H1a"]["side"="right"]{
+node["traffic_sign:forward"="A:H1a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H1a.png" ;
 }
 
-node["traffic_sign"="A:H1b"]["side"="right"]{
+node["traffic_sign:forward"="A:H1b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H1b.png" ;
 }
 
-node["traffic_sign"="A:H1c"]["side"="right"]{
+node["traffic_sign:forward"="A:H1c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H1c.png" ;
 }
 
-node["traffic_sign"="A:H2"]["side"="right"]{
+node["traffic_sign:forward"="A:H2"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2.png" ;
 }
 
-node["traffic_sign"="A:H21"]["side"="right"]{
+node["traffic_sign:forward"="A:H21"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H21.png" ;
 }
 
-node["traffic_sign"="A:H22"]["side"="right"]{
+node["traffic_sign:forward"="A:H22"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H22.png" ;
 }
 
-node["traffic_sign"="A:H23"]["side"="right"]{
+node["traffic_sign:forward"="A:H23"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23.png" ;
 }
 
 
-node["traffic_sign"="A:H23b1p2-1"]["side"="right"]{
+node["traffic_sign:forward"="A:H23b1p2-1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23b1p2-1.png" ;
 }
 
-node["traffic_sign"="A:H23b1p2"]["side"="right"]{
+node["traffic_sign:forward"="A:H23b1p2"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23b1p2.png" ;
 }
 
-node["traffic_sign"="A:H23c"]["side"="right"]{
+node["traffic_sign:forward"="A:H23c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23c.png" ;
 }
 
-node["traffic_sign"="A:H24"]["side"="right"]{
+node["traffic_sign:forward"="A:H24"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H24.png" ;
 }
 
-node["traffic_sign"="A:H25"]["side"="right"]{
+node["traffic_sign:forward"="A:H25"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H25.png" ;
 }
 
-node["traffic_sign"="A:H26"]["side"="right"]{
+node["traffic_sign:forward"="A:H26"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H26.png" ;
 }
 
-node["traffic_sign"="A:H27"]["side"="right"]{
+node["traffic_sign:forward"="A:H27"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H27.png" ;
 }
 
-node["traffic_sign"="A:H28a"]["side"="right"]{
+node["traffic_sign:forward"="A:H28a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H28a.png" ;
 }
 
-node["traffic_sign"="A:H28b"]["side"="right"]{
+node["traffic_sign:forward"="A:H28b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H28b.png" ;
 }
 
-node["traffic_sign"="A:H2a"]["side"="right"]{
+node["traffic_sign:forward"="A:H2a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2a.png" ;
 }
 
-node["traffic_sign"="A:H2b"]["side"="right"]{
+node["traffic_sign:forward"="A:H2b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2b.png" ;
 }
 
-node["traffic_sign"="A:H2ca"]["side"="right"]{
+node["traffic_sign:forward"="A:H2ca"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2ca.png" ;
 }
 
-node["traffic_sign"="A:H2cb"]["side"="right"]{
+node["traffic_sign:forward"="A:H2cb"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2cb.png" ;
 }
 
-node["traffic_sign"="A:H3"]["side"="right"]{
+node["traffic_sign:forward"="A:H3"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H3.png" ;
 }
 
-node["traffic_sign"="A:H3a"]["side"="right"]{
+node["traffic_sign:forward"="A:H3a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H3a.png" ;
 }
 
-node["traffic_sign"="A:H4"]["side"="right"]{
+node["traffic_sign:forward"="A:H4"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H4.png" ;
 }
 
-node["traffic_sign"="A:H5"]["side"="right"]{
+node["traffic_sign:forward"="A:H5"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H5.png" ;
 }
 
-node["traffic_sign"="A:H6"]["side"="right"]{
+node["traffic_sign:forward"="A:H6"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H6.png" ;
 }
 
-node["traffic_sign"="A:H6a"]["side"="right"]{
+node["traffic_sign:forward"="A:H6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H6a.png" ;
 }
 
-node["traffic_sign"="A:H7"]["side"="right"]{
+node["traffic_sign:forward"="A:H7"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H7.png" ;
 }
 
-node["traffic_sign"="A:H7a"]["side"="right"]{
+node["traffic_sign:forward"="A:H7a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H7a.png" ;
 }
 
-node["traffic_sign"="A:H8a"]["side"="right"]{
+node["traffic_sign:forward"="A:H8a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8a.png" ;
 }
 
-node["traffic_sign"="A:H8b"]["side"="right"]{
+node["traffic_sign:forward"="A:H8b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8b.png" ;
 }
 
-node["traffic_sign"="A:H8c"]["side"="right"]{
+node["traffic_sign:forward"="A:H8c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8c.png" ;
 }
 
-node["traffic_sign"="A:H8d"]["side"="right"]{
+node["traffic_sign:forward"="A:H8d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8d.png" ;
 }
 
-node["traffic_sign"="A:H9a"]["side"="right"]{
+node["traffic_sign:forward"="A:H9a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9a.png" ;
 }
 
-node["traffic_sign"="A:H9b"]["side"="right"]{
+node["traffic_sign:forward"="A:H9b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9b.png" ;
 }
 
-node["traffic_sign"="A:H9c"]["side"="right"]{
+node["traffic_sign:forward"="A:H9c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9c.png" ;
 }
 
-node["traffic_sign"="A:H9d"]["side"="right"]{
+node["traffic_sign:forward"="A:H9d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9d.png" ;
 }
 
-node["traffic_sign"="A:H9e"]["side"="right"]{
+node["traffic_sign:forward"="A:H9e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9e.png" ;
 }
 
-node["traffic_sign"="A:H9en"]["side"="right"]{
+node["traffic_sign:forward"="A:H9en"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9en.png" ;
 }
 
-node["traffic_sign"="A:H9f"]["side"="right"]{
+node["traffic_sign:forward"="A:H9f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9f.png" ;
 }
 
-node["traffic_sign"="A:V1"]["side"="right"]{
+node["traffic_sign:forward"="A:V1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V1.png" ;
 }
 
-node["traffic_sign"="A:V10a"]["side"="right"]{
+node["traffic_sign:forward"="A:V10a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V10a.png" ;
 }
 
-node["traffic_sign"="A:V10b"]["side"="right"]{
+node["traffic_sign:forward"="A:V10b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V10b.png" ;
 }
 
-node["traffic_sign"="A:V11"]["side"="right"]{
+node["traffic_sign:forward"="A:V11"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V11.png" ;
 }
 
-node["traffic_sign"="A:V11a"]["side"="right"]{
+node["traffic_sign:forward"="A:V11a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V11a.png" ;
 }
 
-node["traffic_sign"="A:V11b"]["side"="right"]{
+node["traffic_sign:forward"="A:V11b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V11b.png" ;
 }
 
-node["traffic_sign"="A:V12"]["side"="right"]{
+node["traffic_sign:forward"="A:V12"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V12.png" ;
 }
 
-node["traffic_sign"="A:V13a"]["side"="right"]{
+node["traffic_sign:forward"="A:V13a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13a.png" ;
 }
 
-node["traffic_sign"="A:V13b"]["side"="right"]{
+node["traffic_sign:forward"="A:V13b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13b.png" ;
 }
 
-node["traffic_sign"="A:V13c-a"]["side"="right"]{
+node["traffic_sign:forward"="A:V13c-a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13c-a.png" ;
 }
 
-node["traffic_sign"="A:V13c-b"]["side"="right"]{
+node["traffic_sign:forward"="A:V13c-b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13c-b.png" ;
 }
 
-node["traffic_sign"="A:V13d"]["side"="right"]{
+node["traffic_sign:forward"="A:V13d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13d.png" ;
 }
 
-node["traffic_sign"="A:V13e"]["side"="right"]{
+node["traffic_sign:forward"="A:V13e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13e.png" ;
 }
 
-node["traffic_sign"="A:V14"]["side"="right"]{
+node["traffic_sign:forward"="A:V14"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V14.png" ;
 }
 
-node["traffic_sign"="A:V14a"]["side"="right"]{
+node["traffic_sign:forward"="A:V14a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V14a.png" ;
 }
 
-node["traffic_sign"="A:V15a"]["side"="right"]{
+node["traffic_sign:forward"="A:V15a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15a.png" ;
 }
 
-node["traffic_sign"="A:V15g"]["side"="right"]{
+node["traffic_sign:forward"="A:V15g"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15g.png" ;
 }
 
-node["traffic_sign"="A:V15gl"]["side"="right"]{
+node["traffic_sign:forward"="A:V15gl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15gl.png" ;
 }
 
-node["traffic_sign"="A:V15gr"]["side"="right"]{
+node["traffic_sign:forward"="A:V15gr"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15gr.png" ;
 }
 
-node["traffic_sign"="A:V15l"]["side"="right"]{
+node["traffic_sign:forward"="A:V15l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15l.png" ;
 }
 
-node["traffic_sign"="A:V15la"]["side"="right"]{
+node["traffic_sign:forward"="A:V15la"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15la.png" ;
 }
 
-node["traffic_sign"="A:V15lg"]["side"="right"]{
+node["traffic_sign:forward"="A:V15lg"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15lg.png" ;
 }
 
-node["traffic_sign"="A:V15r"]["side"="right"]{
+node["traffic_sign:forward"="A:V15r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15r.png" ;
 }
 
-node["traffic_sign"="A:V15ra"]["side"="right"]{
+node["traffic_sign:forward"="A:V15ra"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15ra.png" ;
 }
 
-node["traffic_sign"="A:V15rg"]["side"="right"]{
+node["traffic_sign:forward"="A:V15rg"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15rg.png" ;
 }
 
-node["traffic_sign"="A:V16"]["side"="right"]{
+node["traffic_sign:forward"="A:V16"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V16.png" ;
 }
 
-node["traffic_sign"="A:V16a"]["side"="right"]{
+node["traffic_sign:forward"="A:V16a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V16a.png" ;
 }
 
-node["traffic_sign"="A:V17"]["side"="right"]{
+node["traffic_sign:forward"="A:V17"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17.png" ;
 }
 
-node["traffic_sign"="A:V17aa"]["side"="right"]{
+node["traffic_sign:forward"="A:V17aa"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17aa.png" ;
 }
 
-node["traffic_sign"="A:V17ab"]["side"="right"]{
+node["traffic_sign:forward"="A:V17ab"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17ab.png" ;
 }
 
-node["traffic_sign"="A:V17ac"]["side"="right"]{
+node["traffic_sign:forward"="A:V17ac"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17ac.png" ;
 }
 
-node["traffic_sign"="A:V17ad"]["side"="right"]{
+node["traffic_sign:forward"="A:V17ad"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17ad.png" ;
 }
 
-node["traffic_sign"="A:V17b"]["side"="right"]{
+node["traffic_sign:forward"="A:V17b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17b.png" ;
 }
 
-node["traffic_sign"="A:V17c"]["side"="right"]{
+node["traffic_sign:forward"="A:V17c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17c.png" ;
 }
 
-node["traffic_sign"="A:V18"]["side"="right"]{
+node["traffic_sign:forward"="A:V18"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V18.png" ;
 }
 
-node["traffic_sign"="A:V19"]["side"="right"]{
+node["traffic_sign:forward"="A:V19"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V19.png" ;
 }
 
-node["traffic_sign"="A:V19a"]["side"="right"]{
+node["traffic_sign:forward"="A:V19a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V19a.png" ;
 }
 
-node["traffic_sign"="A:V2"]["side"="right"]{
+node["traffic_sign:forward"="A:V2"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V2.png" ;
 }
 
-node["traffic_sign"="A:V21"]["side"="right"]{
+node["traffic_sign:forward"="A:V21"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V21.png" ;
 }
 
-node["traffic_sign"="A:V21a"]["side"="right"]{
+node["traffic_sign:forward"="A:V21a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V21a.png" ;
 }
 
-node["traffic_sign"="A:V22"]["side"="right"]{
+node["traffic_sign:forward"="A:V22"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V22.png" ;
 }
 
-node["traffic_sign"="A:V22a"]["side"="right"]{
+node["traffic_sign:forward"="A:V22a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V22a.png" ;
 }
 
-node["traffic_sign"="A:V23"]["side"="right"]{
+node["traffic_sign:forward"="A:V23"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V23.png" ;
 }
 
-node["traffic_sign"="A:V24"]["side"="right"]{
+node["traffic_sign:forward"="A:V24"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V24.png" ;
 }
 
-node["traffic_sign"="A:V25a"]["side"="right"]{
+node["traffic_sign:forward"="A:V25a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V25a.png" ;
 }
 
-node["traffic_sign"="A:V25b"]["side"="right"]{
+node["traffic_sign:forward"="A:V25b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V25b.png" ;
 }
 
-node["traffic_sign"="A:V3a"]["side"="right"]{
+node["traffic_sign:forward"="A:V3a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V3a.png" ;
 }
 
-node["traffic_sign"="A:V3b"]["side"="right"]{
+node["traffic_sign:forward"="A:V3b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V3b.png" ;
 }
 
-node["traffic_sign"="A:V3c"]["side"="right"]{
+node["traffic_sign:forward"="A:V3c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V3c.png" ;
 }
 
-node["traffic_sign"="A:V4a-1"]["side"="right"]{
+node["traffic_sign:forward"="A:V4a-1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4a-1.png" ;
 }
 
-node["traffic_sign"="A:V4a"]["side"="right"]{
+node["traffic_sign:forward"="A:V4a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4a.png" ;
 }
 
-node["traffic_sign"="A:V4b"]["side"="right"]{
+node["traffic_sign:forward"="A:V4b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4b.png" ;
 }
 
-node["traffic_sign"="A:V4c"]["side"="right"]{
+node["traffic_sign:forward"="A:V4c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4c.png" ;
 }
 
-node["traffic_sign"="A:V4d"]["side"="right"]{
+node["traffic_sign:forward"="A:V4d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4d.png" ;
 }
 
-node["traffic_sign"="A:V5"]["side"="right"]{
+node["traffic_sign:forward"="A:V5"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V5.png" ;
 }
 
-node["traffic_sign"="A:V6a"]["side"="right"]{
+node["traffic_sign:forward"="A:V6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6a.png" ;
 }
 
-node["traffic_sign"="A:V6b"]["side"="right"]{
+node["traffic_sign:forward"="A:V6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6b.png" ;
 }
 
-node["traffic_sign"="A:V6c"]["side"="right"]{
+node["traffic_sign:forward"="A:V6c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6c.png" ;
 }
 
-node["traffic_sign"="A:V6d"]["side"="right"]{
+node["traffic_sign:forward"="A:V6d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6d.png" ;
 }
 
-node["traffic_sign"="A:V7a"]["side"="right"]{
+node["traffic_sign:forward"="A:V7a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7a.png" ;
 }
 
-node["traffic_sign"="A:V7ag"]["side"="right"]{
+node["traffic_sign:forward"="A:V7ag"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7ag.png" ;
 }
 
-node["traffic_sign"="A:V7al"]["side"="right"]{
+node["traffic_sign:forward"="A:V7al"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7al.png" ;
 }
 
-node["traffic_sign"="A:V7b"]["side"="right"]{
+node["traffic_sign:forward"="A:V7b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7b.png" ;
 }
 
-node["traffic_sign"="A:V7c"]["side"="right"]{
+node["traffic_sign:forward"="A:V7c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7c.png" ;
 }
 
-node["traffic_sign"="A:V7e"]["side"="right"]{
+node["traffic_sign:forward"="A:V7e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7e.png" ;
 }
 
-node["traffic_sign"="A:V7f"]["side"="right"]{
+node["traffic_sign:forward"="A:V7f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7f.png" ;
 }
 
-node["traffic_sign"="A:V8a"]["side"="right"]{
+node["traffic_sign:forward"="A:V8a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V8a.png" ;
 }
 
-node["traffic_sign"="A:V8b"]["side"="right"]{
+node["traffic_sign:forward"="A:V8b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V8b.png" ;
 }
 
-node["traffic_sign"="A:V8c"]["side"="right"]{
+node["traffic_sign:forward"="A:V8c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V8c.png" ;
 }
 
-node["traffic_sign"="A:V9a"]["side"="right"]{
+node["traffic_sign:forward"="A:V9a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9a.png" ;
 }
 
-node["traffic_sign"="A:V9b"]["side"="right"]{
+node["traffic_sign:forward"="A:V9b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9b.png" ;
 }
 
-node["traffic_sign"="A:V9c"]["side"="right"]{
+node["traffic_sign:forward"="A:V9c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9c.png" ;
 }
 
-node["traffic_sign"="A:V9d"]["side"="right"]{
+node["traffic_sign:forward"="A:V9d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9d.png" ;
 }
 
-node["traffic_sign"="A:Vflr"]["side"="right"]{
+node["traffic_sign:forward"="A:Vflr"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Vflr.png" ;
 }
 
-node["traffic_sign"="A:Z_a"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_a.png" ;
 }
 
-node["traffic_sign"="A:Z_b"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_b.png" ;
 }
 
-node["traffic_sign"="A:Z_c"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_c.png" ;
 }
 
-node["traffic_sign"="A:Z_d"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_d.png" ;
 }
 
-node["traffic_sign"="A:Z_e"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_e.png" ;
 }
 
-node["traffic_sign"="A:Z_f"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_f.png" ;
 }
 
-node["traffic_sign"="A:Z_g"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_g"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_g.png" ;
 }
 
-node["traffic_sign"="A:Z_h"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_h"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_h.png" ;
 }
 
-node["traffic_sign"="A:Z_i"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_i"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_i.png" ;
 }
 
-node["traffic_sign"="A:Z_j"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_j"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_j.png" ;
 }
 
-node["traffic_sign"="A:Z_k"]["side"="right"]{
+node["traffic_sign:forward"="A:Z_k"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_k.png" ;
 }
 
-node["traffic_sign"="A:Z_l"	]["side"="right"]{
+node["traffic_sign:forward"="A:Z_l"	]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_l.png" ;
@@ -58956,6 +58956,12 @@ icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_l.png";
 }
 
+node["traffic_sign:forward"="A:fv"]["side"="both"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_fv.png";
+}
+
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
@@ -58974,6 +58980,11 @@ icon-image:"traffic_signs/A/A_Z_l.png";
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
 
+node["traffic_sign:backward"="A:fv"]["side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_fv.png" ; 
+}
 
 node["traffic_sign:backward"="A:G1"]["side"="left"]{
 icon-offset-x:"-2" ;
@@ -60416,1226 +60427,1226 @@ icon-image:"traffic_signs/A/A_Z_l.png" ;
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
 
-node["traffic_sign"="A:fv"]["side"="right"]{
+node["traffic_sign:backward"="A:fv"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_fv.png" ;
 }
 
-node["traffic_sign"="A:G1"]["side"="right"]{
+node["traffic_sign:backward"="A:G1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G1.png" ;
 }
 
-node["traffic_sign"="A:G10"]["side"="right"]{
+node["traffic_sign:backward"="A:G10"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10.png" ;
 }
 
-node["traffic_sign"="A:G10a"]["side"="right"]{
+node["traffic_sign:backward"="A:G10a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10a.png" ;
 }
 
-node["traffic_sign"="A:G10b"]["side"="right"]{
+node["traffic_sign:backward"="A:G10b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10b.png" ;
 }
 
-node["traffic_sign"="A:G10c"]["side"="right"]{
+node["traffic_sign:backward"="A:G10c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G10c.png" ;
 }
 
-node["traffic_sign"="A:G11"]["side"="right"]{
+node["traffic_sign:backward"="A:G11"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G11.png" ;
 }
 
-node["traffic_sign"="A:G11a"]["side"="right"]{
+node["traffic_sign:backward"="A:G11a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G11a.png" ;
 }
 
-node["traffic_sign"="A:G12"]["side"="right"]{
+node["traffic_sign:backward"="A:G12"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G12.png" ;
 }
 
-node["traffic_sign"="A:G13a"]["side"="right"]{
+node["traffic_sign:backward"="A:G13a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G13a.png" ;
 }
 
-node["traffic_sign"="A:G13b"]["side"="right"]{
+node["traffic_sign:backward"="A:G13b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G13b.png" ;
 }
 
-node["traffic_sign"="A:G14"]["side"="right"]{
+node["traffic_sign:backward"="A:G14"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G14.png" ;
 }
 
-node["traffic_sign"="A:G14a"]["side"="right"]{
+node["traffic_sign:backward"="A:G14a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G14a.png" ;
 }
 
-node["traffic_sign"="A:G15"]["side"="right"]{
+node["traffic_sign:backward"="A:G15"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G15.png" ;
 }
 
-node["traffic_sign"="A:G16"]["side"="right"]{
+node["traffic_sign:backward"="A:G16"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G16.png" ;
 }
 
-node["traffic_sign"="A:G2a"]["side"="right"]{
+node["traffic_sign:backward"="A:G2a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2a.png" ;
 }
 
-node["traffic_sign"="A:G2b"]["side"="right"]{
+node["traffic_sign:backward"="A:G2b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2b.png" ;
 }
 
-node["traffic_sign"="A:G2c"]["side"="right"]{
+node["traffic_sign:backward"="A:G2c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2c.png" ;
 }
 
-node["traffic_sign"="A:G2d"]["side"="right"]{
+node["traffic_sign:backward"="A:G2d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G2d.png" ;
 }
 
-node["traffic_sign"="A:G3"]["side"="right"]{
+node["traffic_sign:backward"="A:G3"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G3.png" ;
 }
 
-node["traffic_sign"="A:G3a"]["side"="right"]{
+node["traffic_sign:backward"="A:G3a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G3a.png" ;
 }
 
-node["traffic_sign"="A:G4"]["side"="right"]{
+node["traffic_sign:backward"="A:G4"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G4.png" ;
 }
 
-node["traffic_sign"="A:G6a"]["side"="right"]{
+node["traffic_sign:backward"="A:G6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6a.png" ;
 }
 
-node["traffic_sign"="A:G6b"]["side"="right"]{
+node["traffic_sign:backward"="A:G6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6b.png" ;
 }
 
-node["traffic_sign"="A:G6c1l"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c1l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c1l.png" ;
 }
 
-node["traffic_sign"="A:G6c1r"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c1r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c1r.png" ;
 }
 
-node["traffic_sign"="A:G6c2l"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c2l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c2l.png" ;
 }
 
-node["traffic_sign"="A:G6c2r"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c2r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c2r.png" ;
 }
 
-node["traffic_sign"="A:G6c3l"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c3l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3l.png" ;
 }
 
-node["traffic_sign"="A:G6c3l6b"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c3l6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3l6b.png" ;
 }
 
-node["traffic_sign"="A:G6c3r"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c3r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3r.png" ;
 }
 
-node["traffic_sign"="A:G6c3r6a"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c3r6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3r6a.png" ;
 }
 
-node["traffic_sign"="A:G6c3r6b"]["side"="right"]{
+node["traffic_sign:backward"="A:G6c3r6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6c3r6b.png" ;
 }
 
-node["traffic_sign"="A:G6d"]["side"="right"]{
+node["traffic_sign:backward"="A:G6d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6d.png" ;
 }
 
-node["traffic_sign"="A:G6dd"]["side"="right"]{
+node["traffic_sign:backward"="A:G6dd"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6dd.png" ;
 }
 
-node["traffic_sign"="A:G6ddl"]["side"="right"]{
+node["traffic_sign:backward"="A:G6ddl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6ddl.png" ;
 }
 
-node["traffic_sign"="A:G6ddt"]["side"="right"]{
+node["traffic_sign:backward"="A:G6ddt"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6ddt.png" ;
 }
 
-node["traffic_sign"="A:G6dl"]["side"="right"]{
+node["traffic_sign:backward"="A:G6dl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6dl.png" ;
 }
 
-node["traffic_sign"="A:G6dt"]["side"="right"]{
+node["traffic_sign:backward"="A:G6dt"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G6dt.png" ;
 }
 
-node["traffic_sign"="A:G7"]["side"="right"]{
+node["traffic_sign:backward"="A:G7"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G7.png" ;
 }
 
-node["traffic_sign"="A:G7a"]["side"="right"]{
+node["traffic_sign:backward"="A:G7a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G7a.png" ;
 }
 
-node["traffic_sign"="A:G8a"]["side"="right"]{
+node["traffic_sign:backward"="A:G8a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G8a.png" ;
 }
 
-node["traffic_sign"="A:G8b"]["side"="right"]{
+node["traffic_sign:backward"="A:G8b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G8b.png" ;
 }
 
-node["traffic_sign"="A:G8c"]["side"="right"]{
+node["traffic_sign:backward"="A:G8c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G8c.png" ;
 }
 
-node["traffic_sign"="A:G9"]["side"="right"]{
+node["traffic_sign:backward"="A:G9"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_G9.png" ;
 }
 
-node["traffic_sign"="A:H10a"]["side"="right"]{
+node["traffic_sign:backward"="A:H10a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H10a.png" ;
 }
 
-node["traffic_sign"="A:H10l"]["side"="right"]{
+node["traffic_sign:backward"="A:H10l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H10l.png" ;
 }
 
-node["traffic_sign"="A:H10r"]["side"="right"]{
+node["traffic_sign:backward"="A:H10r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H10r.png" ;
 }
 
-node["traffic_sign"="A:H11"]["side"="right"]{
+node["traffic_sign:backward"="A:H11"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H11.png" ;
 }
 
-node["traffic_sign"="A:H12"]["side"="right"]{
+node["traffic_sign:backward"="A:H12"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H12.png" ;
 }
 
-node["traffic_sign"="A:H13ag"]["side"="right"]{
+node["traffic_sign:backward"="A:H13ag"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13ag.png" ;
 }
 
-node["traffic_sign"="A:H13ak"]["side"="right"]{
+node["traffic_sign:backward"="A:H13ak"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13ak.png" ;
 }
 
-node["traffic_sign"="A:H13bg"]["side"="right"]{
+node["traffic_sign:backward"="A:H13bg"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13bg.png" ;
 }
 
-node["traffic_sign"="A:H13bog"]["side"="right"]{
+node["traffic_sign:backward"="A:H13bog"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13bog.png" ;
 }
 
-node["traffic_sign"="A:H13br"]["side"="right"]{
+node["traffic_sign:backward"="A:H13br"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13br.png" ;
 }
 
-node["traffic_sign"="A:H13cl"]["side"="right"]{
+node["traffic_sign:backward"="A:H13cl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13cl.png" ;
 }
 
-node["traffic_sign"="A:H13dl"]["side"="right"]{
+node["traffic_sign:backward"="A:H13dl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H13dl.png" ;
 }
 
-node["traffic_sign"="A:H14a"]["side"="right"]{
+node["traffic_sign:backward"="A:H14a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H14a.png" ;
 }
 
-node["traffic_sign"="A:H14br"]["side"="right"]{
+node["traffic_sign:backward"="A:H14br"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H14br.png" ;
 }
 
-node["traffic_sign"="A:H14bsr"]["side"="right"]{
+node["traffic_sign:backward"="A:H14bsr"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H14bsr.png" ;
 }
 
-node["traffic_sign"="A:H15aa"]["side"="right"]{
+node["traffic_sign:backward"="A:H15aa"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15aa.png" ;
 }
 
-node["traffic_sign"="A:H15ab"]["side"="right"]{
+node["traffic_sign:backward"="A:H15ab"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ab.png" ;
 }
 
-node["traffic_sign"="A:H15ac"]["side"="right"]{
+node["traffic_sign:backward"="A:H15ac"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ac.png" ;
 }
 
-node["traffic_sign"="A:H15ad"]["side"="right"]{
+node["traffic_sign:backward"="A:H15ad"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ad.png" ;
 }
 
-node["traffic_sign"="A:H15ba"]["side"="right"]{
+node["traffic_sign:backward"="A:H15ba"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15ba.png" ;
 }
 
-node["traffic_sign"="A:H15bbh"]["side"="right"]{
+node["traffic_sign:backward"="A:H15bbh"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15bbh.png" ;
 }
 
-node["traffic_sign"="A:H15bbq"]["side"="right"]{
+node["traffic_sign:backward"="A:H15bbq"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15bbq.png" ;
 }
 
-node["traffic_sign"="A:H15c"]["side"="right"]{
+node["traffic_sign:backward"="A:H15c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H15c.png" ;
 }
 
-node["traffic_sign"="A:H16a"]["side"="right"]{
+node["traffic_sign:backward"="A:H16a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16a.png" ;
 }
 
-node["traffic_sign"="A:H16b_geradeaus"]["side"="right"]{
+node["traffic_sign:backward"="A:H16b_geradeaus"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16b_geradeaus.png" ;
 }
 
-node["traffic_sign"="A:H16b_rechts"]["side"="right"]{
+node["traffic_sign:backward"="A:H16b_rechts"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16b_rechts.png" ;
 }
 
-node["traffic_sign"="A:H16b_rechts_LKW"]["side"="right"]{
+node["traffic_sign:backward"="A:H16b_rechts_LKW"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16b_rechts_LKW.png" ;
 }
 
-node["traffic_sign"="A:H16c-a"]["side"="right"]{
+node["traffic_sign:backward"="A:H16c-a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16c-a.png" ;
 }
 
-node["traffic_sign"="A:H16c-b"]["side"="right"]{
+node["traffic_sign:backward"="A:H16c-b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H16c-b.png" ;
 }
 
-node["traffic_sign"="A:H17a"]["side"="right"]{
+node["traffic_sign:backward"="A:H17a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H17a.png" ;
 }
 
-node["traffic_sign"="A:H17b"]["side"="right"]{
+node["traffic_sign:backward"="A:H17b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H17b.png" ;
 }
 
-node["traffic_sign"="A:H18"]["side"="right"]{
+node["traffic_sign:backward"="A:H18"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H18.png" ;
 }
 
-node["traffic_sign"="A:H19"]["side"="right"]{
+node["traffic_sign:backward"="A:H19"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H19.png" ;
 }
 
-node["traffic_sign"="A:H1a"]["side"="right"]{
+node["traffic_sign:backward"="A:H1a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H1a.png" ;
 }
 
-node["traffic_sign"="A:H1b"]["side"="right"]{
+node["traffic_sign:backward"="A:H1b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H1b.png" ;
 }
 
-node["traffic_sign"="A:H1c"]["side"="right"]{
+node["traffic_sign:backward"="A:H1c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H1c.png" ;
 }
 
-node["traffic_sign"="A:H2"]["side"="right"]{
+node["traffic_sign:backward"="A:H2"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2.png" ;
 }
 
-node["traffic_sign"="A:H21"]["side"="right"]{
+node["traffic_sign:backward"="A:H21"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H21.png" ;
 }
 
-node["traffic_sign"="A:H22"]["side"="right"]{
+node["traffic_sign:backward"="A:H22"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H22.png" ;
 }
 
-node["traffic_sign"="A:H23"]["side"="right"]{
+node["traffic_sign:backward"="A:H23"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23.png" ;
 }
 
-node["traffic_sign"="A:H23b1p2-1"]["side"="right"]{
+node["traffic_sign:backward"="A:H23b1p2-1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23b1p2-1.png" ;
 }
 
-node["traffic_sign"="A:H23b1p2"]["side"="right"]{
+node["traffic_sign:backward"="A:H23b1p2"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23b1p2.png" ;
 }
 
-node["traffic_sign"="A:H23c"]["side"="right"]{
+node["traffic_sign:backward"="A:H23c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H23c.png" ;
 }
 
-node["traffic_sign"="A:H24"]["side"="right"]{
+node["traffic_sign:backward"="A:H24"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H24.png" ;
 }
 
-node["traffic_sign"="A:H25"]["side"="right"]{
+node["traffic_sign:backward"="A:H25"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H25.png" ;
 }
 
-node["traffic_sign"="A:H26"]["side"="right"]{
+node["traffic_sign:backward"="A:H26"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H26.png" ;
 }
 
-node["traffic_sign"="A:H27"]["side"="right"]{
+node["traffic_sign:backward"="A:H27"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H27.png" ;
 }
 
-node["traffic_sign"="A:H28a"]["side"="right"]{
+node["traffic_sign:backward"="A:H28a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H28a.png" ;
 }
 
-node["traffic_sign"="A:H28b"]["side"="right"]{
+node["traffic_sign:backward"="A:H28b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H28b.png" ;
 }
 
-node["traffic_sign"="A:H2a"]["side"="right"]{
+node["traffic_sign:backward"="A:H2a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2a.png" ;
 }
 
-node["traffic_sign"="A:H2b"]["side"="right"]{
+node["traffic_sign:backward"="A:H2b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2b.png" ;
 }
 
-node["traffic_sign"="A:H2ca"]["side"="right"]{
+node["traffic_sign:backward"="A:H2ca"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2ca.png" ;
 }
 
-node["traffic_sign"="A:H2cb"]["side"="right"]{
+node["traffic_sign:backward"="A:H2cb"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H2cb.png" ;
 }
 
-node["traffic_sign"="A:H3"]["side"="right"]{
+node["traffic_sign:backward"="A:H3"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H3.png" ;
 }
 
-node["traffic_sign"="A:H3a"]["side"="right"]{
+node["traffic_sign:backward"="A:H3a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H3a.png" ;
 }
 
-node["traffic_sign"="A:H4"]["side"="right"]{
+node["traffic_sign:backward"="A:H4"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H4.png" ;
 }
 
-node["traffic_sign"="A:H5"]["side"="right"]{
+node["traffic_sign:backward"="A:H5"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H5.png" ;
 }
 
-node["traffic_sign"="A:H6"]["side"="right"]{
+node["traffic_sign:backward"="A:H6"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H6.png" ;
 }
 
-node["traffic_sign"="A:H6a"]["side"="right"]{
+node["traffic_sign:backward"="A:H6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H6a.png" ;
 }
 
-node["traffic_sign"="A:H7"]["side"="right"]{
+node["traffic_sign:backward"="A:H7"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H7.png" ;
 }
 
-node["traffic_sign"="A:H7a"]["side"="right"]{
+node["traffic_sign:backward"="A:H7a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H7a.png" ;
 }
 
-node["traffic_sign"="A:H8a"]["side"="right"]{
+node["traffic_sign:backward"="A:H8a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8a.png" ;
 }
 
-node["traffic_sign"="A:H8b"]["side"="right"]{
+node["traffic_sign:backward"="A:H8b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8b.png" ;
 }
 
-node["traffic_sign"="A:H8c"]["side"="right"]{
+node["traffic_sign:backward"="A:H8c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8c.png" ;
 }
 
-node["traffic_sign"="A:H8d"]["side"="right"]{
+node["traffic_sign:backward"="A:H8d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H8d.png" ;
 }
 
-node["traffic_sign"="A:H9a"]["side"="right"]{
+node["traffic_sign:backward"="A:H9a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9a.png" ;
 }
 
-node["traffic_sign"="A:H9b"]["side"="right"]{
+node["traffic_sign:backward"="A:H9b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9b.png" ;
 }
 
-node["traffic_sign"="A:H9c"]["side"="right"]{
+node["traffic_sign:backward"="A:H9c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9c.png" ;
 }
 
-node["traffic_sign"="A:H9d"]["side"="right"]{
+node["traffic_sign:backward"="A:H9d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9d.png" ;
 }
 
-node["traffic_sign"="A:H9e"]["side"="right"]{
+node["traffic_sign:backward"="A:H9e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9e.png" ;
 }
 
-node["traffic_sign"="A:H9en"]["side"="right"]{
+node["traffic_sign:backward"="A:H9en"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9en.png" ;
 }
 
-node["traffic_sign"="A:H9f"]["side"="right"]{
+node["traffic_sign:backward"="A:H9f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_H9f.png" ;
 }
 
-node["traffic_sign"="A:V1"]["side"="right"]{
+node["traffic_sign:backward"="A:V1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V1.png" ;
 }
 
-node["traffic_sign"="A:V10a"]["side"="right"]{
+node["traffic_sign:backward"="A:V10a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V10a.png" ;
 }
 
-node["traffic_sign"="A:V10b"]["side"="right"]{
+node["traffic_sign:backward"="A:V10b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V10b.png" ;
 }
 
-node["traffic_sign"="A:V11"]["side"="right"]{
+node["traffic_sign:backward"="A:V11"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V11.png" ;
 }
 
-node["traffic_sign"="A:V11a"]["side"="right"]{
+node["traffic_sign:backward"="A:V11a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V11a.png" ;
 }
 
-node["traffic_sign"="A:V11b"]["side"="right"]{
+node["traffic_sign:backward"="A:V11b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V11b.png" ;
 }
 
-node["traffic_sign"="A:V12"]["side"="right"]{
+node["traffic_sign:backward"="A:V12"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V12.png" ;
 }
 
-node["traffic_sign"="A:V13a"]["side"="right"]{
+node["traffic_sign:backward"="A:V13a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13a.png" ;
 }
 
-node["traffic_sign"="A:V13b"]["side"="right"]{
+node["traffic_sign:backward"="A:V13b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13b.png" ;
 }
 
-node["traffic_sign"="A:V13c-a"]["side"="right"]{
+node["traffic_sign:backward"="A:V13c-a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13c-a.png" ;
 }
 
-node["traffic_sign"="A:V13c-b"]["side"="right"]{
+node["traffic_sign:backward"="A:V13c-b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13c-b.png" ;
 }
 
-node["traffic_sign"="A:V13d"]["side"="right"]{
+node["traffic_sign:backward"="A:V13d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13d.png" ;
 }
 
-node["traffic_sign"="A:V13e"]["side"="right"]{
+node["traffic_sign:backward"="A:V13e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V13e.png" ;
 }
 
-node["traffic_sign"="A:V14"]["side"="right"]{
+node["traffic_sign:backward"="A:V14"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V14.png" ;
 }
 
-node["traffic_sign"="A:V14a"]["side"="right"]{
+node["traffic_sign:backward"="A:V14a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V14a.png" ;
 }
 
-node["traffic_sign"="A:V15a"]["side"="right"]{
+node["traffic_sign:backward"="A:V15a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15a.png" ;
 }
 
-node["traffic_sign"="A:V15g"]["side"="right"]{
+node["traffic_sign:backward"="A:V15g"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15g.png" ;
 }
 
-node["traffic_sign"="A:V15gl"]["side"="right"]{
+node["traffic_sign:backward"="A:V15gl"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15gl.png" ;
 }
 
-node["traffic_sign"="A:V15gr"]["side"="right"]{
+node["traffic_sign:backward"="A:V15gr"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15gr.png" ;
 }
 
-node["traffic_sign"="A:V15l"]["side"="right"]{
+node["traffic_sign:backward"="A:V15l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15l.png" ;
 }
 
-node["traffic_sign"="A:V15la"]["side"="right"]{
+node["traffic_sign:backward"="A:V15la"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15la.png" ;
 }
 
-node["traffic_sign"="A:V15lg"]["side"="right"]{
+node["traffic_sign:backward"="A:V15lg"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15lg.png" ;
 }
 
-node["traffic_sign"="A:V15r"]["side"="right"]{
+node["traffic_sign:backward"="A:V15r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15r.png" ;
 }
 
-node["traffic_sign"="A:V15ra"]["side"="right"]{
+node["traffic_sign:backward"="A:V15ra"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15ra.png" ;
 }
 
-node["traffic_sign"="A:V15rg"]["side"="right"]{
+node["traffic_sign:backward"="A:V15rg"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V15rg.png" ;
 }
 
-node["traffic_sign"="A:V16"]["side"="right"]{
+node["traffic_sign:backward"="A:V16"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V16.png" ;
 }
 
-node["traffic_sign"="A:V16a"]["side"="right"]{
+node["traffic_sign:backward"="A:V16a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V16a.png" ;
 }
 
-node["traffic_sign"="A:V17"]["side"="right"]{
+node["traffic_sign:backward"="A:V17"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17.png" ;
 }
 
-node["traffic_sign"="A:V17aa"]["side"="right"]{
+node["traffic_sign:backward"="A:V17aa"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17aa.png" ;
 }
 
-node["traffic_sign"="A:V17ab"]["side"="right"]{
+node["traffic_sign:backward"="A:V17ab"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17ab.png" ;
 }
 
-node["traffic_sign"="A:V17ac"]["side"="right"]{
+node["traffic_sign:backward"="A:V17ac"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17ac.png" ;
 }
 
-node["traffic_sign"="A:V17ad"]["side"="right"]{
+node["traffic_sign:backward"="A:V17ad"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17ad.png" ;
 }
 
-node["traffic_sign"="A:V17b"]["side"="right"]{
+node["traffic_sign:backward"="A:V17b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17b.png" ;
 }
 
-node["traffic_sign"="A:V17c"]["side"="right"]{
+node["traffic_sign:backward"="A:V17c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V17c.png" ;
 }
 
-node["traffic_sign"="A:V18"]["side"="right"]{
+node["traffic_sign:backward"="A:V18"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V18.png" ;
 }
 
-node["traffic_sign"="A:V19"]["side"="right"]{
+node["traffic_sign:backward"="A:V19"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V19.png" ;
 }
 
-node["traffic_sign"="A:V19a"]["side"="right"]{
+node["traffic_sign:backward"="A:V19a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V19a.png" ;
 }
 
-node["traffic_sign"="A:V2"]["side"="right"]{
+node["traffic_sign:backward"="A:V2"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V2.png" ;
 }
 
-node["traffic_sign"="A:V21"]["side"="right"]{
+node["traffic_sign:backward"="A:V21"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V21.png" ;
 }
 
-node["traffic_sign"="A:V21a"]["side"="right"]{
+node["traffic_sign:backward"="A:V21a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V21a.png" ;
 }
 
-node["traffic_sign"="A:V22"]["side"="right"]{
+node["traffic_sign:backward"="A:V22"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V22.png" ;
 }
 
-node["traffic_sign"="A:V22a"]["side"="right"]{
+node["traffic_sign:backward"="A:V22a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V22a.png" ;
 }
 
-node["traffic_sign"="A:V23"]["side"="right"]{
+node["traffic_sign:backward"="A:V23"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V23.png" ;
 }
 
-node["traffic_sign"="A:V24"]["side"="right"]{
+node["traffic_sign:backward"="A:V24"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V24.png" ;
 }
 
-node["traffic_sign"="A:V25a"]["side"="right"]{
+node["traffic_sign:backward"="A:V25a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V25a.png" ;
 }
 
-node["traffic_sign"="A:V25b"]["side"="right"]{
+node["traffic_sign:backward"="A:V25b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V25b.png" ;
 }
 
-node["traffic_sign"="A:V3a"]["side"="right"]{
+node["traffic_sign:backward"="A:V3a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V3a.png" ;
 }
 
-node["traffic_sign"="A:V3b"]["side"="right"]{
+node["traffic_sign:backward"="A:V3b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V3b.png" ;
 }
 
-node["traffic_sign"="A:V3c"]["side"="right"]{
+node["traffic_sign:backward"="A:V3c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V3c.png" ;
 }
 
-node["traffic_sign"="A:V4a-1"]["side"="right"]{
+node["traffic_sign:backward"="A:V4a-1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4a-1.png" ;
 }
 
-node["traffic_sign"="A:V4a"]["side"="right"]{
+node["traffic_sign:backward"="A:V4a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4a.png" ;
 }
 
-node["traffic_sign"="A:V4b"]["side"="right"]{
+node["traffic_sign:backward"="A:V4b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4b.png" ;
 }
 
-node["traffic_sign"="A:V4c"]["side"="right"]{
+node["traffic_sign:backward"="A:V4c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4c.png" ;
 }
 
-node["traffic_sign"="A:V4d"]["side"="right"]{
+node["traffic_sign:backward"="A:V4d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V4d.png" ;
 }
 
-node["traffic_sign"="A:V5"]["side"="right"]{
+node["traffic_sign:backward"="A:V5"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V5.png" ;
 }
 
-node["traffic_sign"="A:V6a"]["side"="right"]{
+node["traffic_sign:backward"="A:V6a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6a.png" ;
 }
 
-node["traffic_sign"="A:V6b"]["side"="right"]{
+node["traffic_sign:backward"="A:V6b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6b.png" ;
 }
 
-node["traffic_sign"="A:V6c"]["side"="right"]{
+node["traffic_sign:backward"="A:V6c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6c.png" ;
 }
 
-node["traffic_sign"="A:V6d"]["side"="right"]{
+node["traffic_sign:backward"="A:V6d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V6d.png" ;
 }
 
-node["traffic_sign"="A:V7a"]["side"="right"]{
+node["traffic_sign:backward"="A:V7a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7a.png" ;
 }
 
-node["traffic_sign"="A:V7ag"]["side"="right"]{
+node["traffic_sign:backward"="A:V7ag"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7ag.png" ;
 }
 
-node["traffic_sign"="A:V7al"]["side"="right"]{
+node["traffic_sign:backward"="A:V7al"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7al.png" ;
 }
 
-node["traffic_sign"="A:V7b"]["side"="right"]{
+node["traffic_sign:backward"="A:V7b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7b.png" ;
 }
 
-node["traffic_sign"="A:V7c"]["side"="right"]{
+node["traffic_sign:backward"="A:V7c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7c.png" ;
 }
 
-node["traffic_sign"="A:V7e"]["side"="right"]{
+node["traffic_sign:backward"="A:V7e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7e.png" ;
 }
 
-node["traffic_sign"="A:V7f"]["side"="right"]{
+node["traffic_sign:backward"="A:V7f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V7f.png" ;
 }
 
-node["traffic_sign"="A:V8a"]["side"="right"]{
+node["traffic_sign:backward"="A:V8a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V8a.png" ;
 }
 
-node["traffic_sign"="A:V8b"]["side"="right"]{
+node["traffic_sign:backward"="A:V8b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V8b.png" ;
 }
 
-node["traffic_sign"="A:V8c"]["side"="right"]{
+node["traffic_sign:backward"="A:V8c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V8c.png" ;
 }
 
-node["traffic_sign"="A:V9a"]["side"="right"]{
+node["traffic_sign:backward"="A:V9a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9a.png" ;
 }
 
-node["traffic_sign"="A:V9b"]["side"="right"]{
+node["traffic_sign:backward"="A:V9b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9b.png" ;
 }
 
-node["traffic_sign"="A:V9c"]["side"="right"]{
+node["traffic_sign:backward"="A:V9c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9c.png" ;
 }
 
-node["traffic_sign"="A:V9d"]["side"="right"]{
+node["traffic_sign:backward"="A:V9d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_V9d.png" ;
 }
 
-node["traffic_sign"="A:Vflr"]["side"="right"]{
+node["traffic_sign:backward"="A:Vflr"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Vflr.png" ;
 }
 
-node["traffic_sign"="A:Z_a"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_a.png" ;
 }
 
-node["traffic_sign"="A:Z_b"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_b.png" ;
 }
 
-node["traffic_sign"="A:Z_c"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_c.png" ;
 }
 
-node["traffic_sign"="A:Z_d"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_d.png" ;
 }
 
-node["traffic_sign"="A:Z_e"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_e.png" ;
 }
 
-node["traffic_sign"="A:Z_f"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_f.png" ;
 }
 
-node["traffic_sign"="A:Z_g"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_g"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_g.png" ;
 }
 
-node["traffic_sign"="A:Z_h"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_h"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_h.png" ;
 }
 
-node["traffic_sign"="A:Z_i"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_i"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_i.png" ;
 }
 
-node["traffic_sign"="A:Z_j"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_j"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_j.png" ;
 }
 
-node["traffic_sign"="A:Z_k"]["side"="right"]{
+node["traffic_sign:backward"="A:Z_k"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_k.png" ;
 }
 
-node["traffic_sign"="A:Z_l"	]["side"="right"]{
+node["traffic_sign:backward"="A:Z_l"	]["side"="right"]{
 icon-offset-x:"20" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_l.png" ;
 }
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
-/*---------------AUSTRIA side both forward
+/*---------------AUSTRIA side both backward
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
 
@@ -62843,6 +62854,12 @@ node["traffic_sign:backward"="A:Z_l"]["side"="both"]{
 icon-offset-x:"-2" ;
 icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_l.png";
+}
+
+node["traffic_sign:backward"="A:fv"]["side"="both"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_fv.png";
 }
 
 /*---------------------------------------------------------------------------------*/
