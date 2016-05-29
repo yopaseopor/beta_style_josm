@@ -55211,12 +55211,6 @@ icon-width:"20" ;
 icon-image:"traffic_signs/A/A_Z_a.png" ; 
 }
 
-node["traffic_sign"="A:Z_auf_Pfeifsignal_achten.jpg]{
-icon-offset-x:"-2" ;
-icon-width:"20" ;
-icon-image:"traffic_signs/A/A_Z_auf_Pfeifsignal_achten.jpg ; 
-}
-
 node["traffic_sign"="A:Z_b"]{
 icon-offset-x:"-2" ;
 icon-width:"20" ;
