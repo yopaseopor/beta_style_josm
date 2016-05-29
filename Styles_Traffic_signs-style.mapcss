@@ -54055,215 +54055,2498 @@ icon-image:"https://raw.githubusercontent.com/yopaseopor/traffic_signs_style_JOS
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
 /*---------------------------------------------------------------------------------*/
-node["traffic_sign"="A:fv"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_fv.png" ; }
-node["traffic_sign"="A:G1"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G1.png" ; }
-node["traffic_sign"="A:G10"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10.png" ; }
-node["traffic_sign"="A:G10a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10a.png" ; }
-node["traffic_sign"="A:G10b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10b.png" ; }
-node["traffic_sign"="A:G10c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10c.png" ; }
-node["traffic_sign"="A:G11"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G11.png" ; }
-node["traffic_sign"="A:G11a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G11a.png" ; }
-node["traffic_sign"="A:G12"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G12.png" ; }
-node["traffic_sign"="A:G13a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G13a.png" ; }
-node["traffic_sign"="A:G13b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G13b.png" ; }
-node["traffic_sign"="A:G14"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G14.png" ; }
-node["traffic_sign"="A:G14a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G14a.png" ; }
-node["traffic_sign"="A:G15"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G15.png" ; }
-node["traffic_sign"="A:G16"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G16.png" ; }
-node["traffic_sign"="A:G2a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2a.png" ; }
-node["traffic_sign"="A:G2b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2b.png" ; }
-node["traffic_sign"="A:G2c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2c.png" ; }
-node["traffic_sign"="A:G2d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2d.png" ; }
-node["traffic_sign"="A:G3"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G3.png" ; }
-node["traffic_sign"="A:G3a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G3a.png" ; }
-node["traffic_sign"="A:G4"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G4.png" ; }
-node["traffic_sign"="A:G6a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6a.png" ; }
-node["traffic_sign"="A:G6b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6b.png" ; }
-node["traffic_sign"="A:G6c1l"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c1l.png" ; }
-node["traffic_sign"="A:G6c1r"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c1r.png" ; }
-node["traffic_sign"="A:G6c2l"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c2l.png" ; }
-node["traffic_sign"="A:G6c2r"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c2r.png" ; }
-node["traffic_sign"="A:G6c3l"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3l.png" ; }
-node["traffic_sign"="A:G6c3l6b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3l6b.png" ; }
-node["traffic_sign"="A:G6c3r"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3r.png" ; }
-node["traffic_sign"="A:G6c3r6a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3r6a.png" ; }
-node["traffic_sign"="A:G6c3r6b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3r6b.png" ; }
-node["traffic_sign"="A:G6d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6d.png" ; }
-node["traffic_sign"="A:G6dd"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6dd.png" ; }
-node["traffic_sign"="A:G6ddl"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6ddl.png" ; }
-node["traffic_sign"="A:G6ddt"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6ddt.png" ; }
-node["traffic_sign"="A:G6dl"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6dl.png" ; }
-node["traffic_sign"="A:G6dt"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6dt.png" ; }
-node["traffic_sign"="A:G7"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G7.png" ; }
-node["traffic_sign"="A:G7a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G7a.png" ; }
-node["traffic_sign"="A:G8a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G8a.png" ; }
-node["traffic_sign"="A:G8b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G8b.png" ; }
-node["traffic_sign"="A:G8c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G8c.png" ; }
-node["traffic_sign"="A:G9"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G9.png" ; }
-node["traffic_sign"="A:H10a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H10a.png" ; }
-node["traffic_sign"="A:H10l"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H10l.png" ; }
-node["traffic_sign"="A:H10r"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H10r.png" ; }
-node["traffic_sign"="A:H11"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H11.png" ; }
-node["traffic_sign"="A:H12"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H12.png" ; }
-node["traffic_sign"="A:H13ag"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13ag.png" ; }
-node["traffic_sign"="A:H13ak"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13ak.png" ; }
-node["traffic_sign"="A:H13bg"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13bg.png" ; }
-node["traffic_sign"="A:H13bog"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13bog.png" ; }
-node["traffic_sign"="A:H13br"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13br.png" ; }
-node["traffic_sign"="A:H13cl"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13cl.png" ; }
-node["traffic_sign"="A:H13dl"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13dl.png" ; }
-node["traffic_sign"="A:H14a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H14a.png" ; }
-node["traffic_sign"="A:H14br"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H14br.png" ; }
-node["traffic_sign"="A:H14bsr"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H14bsr.png" ; }
-node["traffic_sign"="A:H15aa"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15aa.png" ; }
-node["traffic_sign"="A:H15ab"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ab.png" ; }
-node["traffic_sign"="A:H15ac"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ac.png" ; }
-node["traffic_sign"="A:H15ad"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ad.png" ; }
-node["traffic_sign"="A:H15ba"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ba.png" ; }
-node["traffic_sign"="A:H15bbh"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15bbh.png" ; }
-node["traffic_sign"="A:H15bbq"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15bbq.png" ; }
-node["traffic_sign"="A:H15c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15c.png" ; }
-node["traffic_sign"="A:H16a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16a.png" ; }
-node["traffic_sign"="A:H16b_geradeaus"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16b_geradeaus.png" ; }
-node["traffic_sign"="A:H16b_rechts"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16b_rechts.png" ; }
-node["traffic_sign"="A:H16b_rechts_LKW"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16b_rechts_LKW.png" ; }
-node["traffic_sign"="A:H16c-a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16c-a.png" ; }
-node["traffic_sign"="A:H16c-b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16c-b.png" ; }
-node["traffic_sign"="A:H17a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H17a.png" ; }
-node["traffic_sign"="A:H17b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H17b.png" ; }
-node["traffic_sign"="A:H18"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H18.png" ; }
-node["traffic_sign"="A:H19"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H19.png" ; }
-node["traffic_sign"="A:H1a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H1a.png" ; }
-node["traffic_sign"="A:H1b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H1b.png" ; }
-node["traffic_sign"="A:H1c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H1c.png" ; }
-node["traffic_sign"="A:H2"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2.png" ; }
-node["traffic_sign"="A:H21"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H21.png" ; }
-node["traffic_sign"="A:H22"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H22.png" ; }
-node["traffic_sign"="A:H23"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23.png" ; }
-node["traffic_sign"="A:H23node["traffic_sign"="A:grrrg"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23a_grrrg.png" ; }
-node["traffic_sign"="A:H23node["traffic_sign"="A:rllg"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23a_rllg.png" ; }
-node["traffic_sign"="A:H23b1p2-1"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23b1p2-1.png" ; }
-node["traffic_sign"="A:H23b1p2"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23b1p2.png" ; }
-node["traffic_sign"="A:H23c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23c.png" ; }
-node["traffic_sign"="A:H24"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H24.png" ; }
-node["traffic_sign"="A:H25"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H25.png" ; }
-node["traffic_sign"="A:H26"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H26.png" ; }
-node["traffic_sign"="A:H27"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H27.png" ; }
-node["traffic_sign"="A:H28a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H28a.png" ; }
-node["traffic_sign"="A:H28b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H28b.png" ; }
-node["traffic_sign"="A:H2a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2a.png" ; }
-node["traffic_sign"="A:H2b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2b.png" ; }
-node["traffic_sign"="A:H2ca"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2ca.png" ; }
-node["traffic_sign"="A:H2cb"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2cb.png" ; }
-node["traffic_sign"="A:H3"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H3.png" ; }
-node["traffic_sign"="A:H3a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H3a.png" ; }
-node["traffic_sign"="A:H4"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H4.png" ; }
-node["traffic_sign"="A:H5"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H5.png" ; }
-node["traffic_sign"="A:H6"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H6.png" ; }
-node["traffic_sign"="A:H6a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H6a.png" ; }
-node["traffic_sign"="A:H7"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H7.png" ; }
-node["traffic_sign"="A:H7a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H7a.png" ; }
-node["traffic_sign"="A:H8a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8a.png" ; }
-node["traffic_sign"="A:H8b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8b.png" ; }
-node["traffic_sign"="A:H8c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8c.png" ; }
-node["traffic_sign"="A:H8d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8d.png" ; }
-node["traffic_sign"="A:H9a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9a.png" ; }
-node["traffic_sign"="A:H9b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9b.png" ; }
-node["traffic_sign"="A:H9c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9c.png" ; }
-node["traffic_sign"="A:H9d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9d.png" ; }
-node["traffic_sign"="A:H9e"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9e.png" ; }
-node["traffic_sign"="A:H9en"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9en.png" ; }
-node["traffic_sign"="A:H9f"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9f.png" ; }
-node["traffic_sign"="A:V1"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V1.png" ; }
-node["traffic_sign"="A:V10a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V10a.png" ; }
-node["traffic_sign"="A:V10b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V10b.png" ; }
-node["traffic_sign"="A:V11"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V11.png" ; }
-node["traffic_sign"="A:V11a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V11a.png" ; }
-node["traffic_sign"="A:V11b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V11b.png" ; }
-node["traffic_sign"="A:V12"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V12.png" ; }
-node["traffic_sign"="A:V13a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13a.png" ; }
-node["traffic_sign"="A:V13b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13b.png" ; }
-node["traffic_sign"="A:V13c-a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13c-a.png" ; }
-node["traffic_sign"="A:V13c-b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13c-b.png" ; }
-node["traffic_sign"="A:V13d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13d.png" ; }
-node["traffic_sign"="A:V13e"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13e.png" ; }
-node["traffic_sign"="A:V14"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V14.png" ; }
-node["traffic_sign"="A:V14a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V14a.png" ; }
-node["traffic_sign"="A:V15a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15a.png" ; }
-node["traffic_sign"="A:V15g"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15g.png" ; }
-node["traffic_sign"="A:V15gl"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15gl.png" ; }
-node["traffic_sign"="A:V15gr"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15gr.png" ; }
-node["traffic_sign"="A:V15l"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15l.png" ; }
-node["traffic_sign"="A:V15la"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15la.png" ; }
-node["traffic_sign"="A:V15lg"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15lg.png" ; }
-node["traffic_sign"="A:V15r"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15r.png" ; }
-node["traffic_sign"="A:V15ra"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15ra.png" ; }
-node["traffic_sign"="A:V15rg"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15rg.png" ; }
-node["traffic_sign"="A:V16"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V16.png" ; }
-node["traffic_sign"="A:V16a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V16a.png" ; }
-node["traffic_sign"="A:V17"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17.png" ; }
-node["traffic_sign"="A:V17aa"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17aa.png" ; }
-node["traffic_sign"="A:V17ab"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17ab.png" ; }
-node["traffic_sign"="A:V17ac"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17ac.png" ; }
-node["traffic_sign"="A:V17ad"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17ad.png" ; }
-node["traffic_sign"="A:V17b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17b.png" ; }
-node["traffic_sign"="A:V17c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17c.png" ; }
-node["traffic_sign"="A:V18"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V18.png" ; }
-node["traffic_sign"="A:V19"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V19.png" ; }
-node["traffic_sign"="A:V19a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V19a.png" ; }
-node["traffic_sign"="A:V2"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V2.png" ; }
-node["traffic_sign"="A:V21"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V21.png" ; }
-node["traffic_sign"="A:V21a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V21a.png" ; }
-node["traffic_sign"="A:V22"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V22.png" ; }
-node["traffic_sign"="A:V22a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V22a.png" ; }
-node["traffic_sign"="A:V23"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V23.png" ; }
-node["traffic_sign"="A:V24"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V24.png" ; }
-node["traffic_sign"="A:V25a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V25a.png" ; }
-node["traffic_sign"="A:V25b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V25b.png" ; }
-node["traffic_sign"="A:V3a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V3a.png" ; }
-node["traffic_sign"="A:V3b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V3b.png" ; }
-node["traffic_sign"="A:V3c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V3c.png" ; }
-node["traffic_sign"="A:V4a-1"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4a-1.png" ; }
-node["traffic_sign"="A:V4a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4a.png" ; }
-node["traffic_sign"="A:V4b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4b.png" ; }
-node["traffic_sign"="A:V4c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4c.png" ; }
-node["traffic_sign"="A:V4d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4d.png" ; }
-node["traffic_sign"="A:V5"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V5.png" ; }
-node["traffic_sign"="A:V6a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6a.png" ; }
-node["traffic_sign"="A:V6b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6b.png" ; }
-node["traffic_sign"="A:V6c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6c.png" ; }
-node["traffic_sign"="A:V6d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6d.png" ; }
-node["traffic_sign"="A:V7a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7a.png" ; }
-node["traffic_sign"="A:V7ag"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7ag.png" ; }
-node["traffic_sign"="A:V7al"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7al.png" ; }
-node["traffic_sign"="A:V7b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7b.png" ; }
-node["traffic_sign"="A:V7c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7c.png" ; }
-node["traffic_sign"="A:V7e"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7e.png" ; }
-node["traffic_sign"="A:V7f"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7f.png" ; }
-node["traffic_sign"="A:V8a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V8a.png" ; }
-node["traffic_sign"="A:V8b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V8b.png" ; }
-node["traffic_sign"="A:V8c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V8c.png" ; }
-node["traffic_sign"="A:V9a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9a.png" ; }
-node["traffic_sign"="A:V9b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9b.png" ; }
-node["traffic_sign"="A:V9c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9c.png" ; }
-node["traffic_sign"="A:V9d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9d.png" ; }
-node["traffic_sign"="A:Vflr"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Vflr.png" ; }
-node["traffic_sign"="A:Z_a"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_a.png" ; }
-node["traffic_sign"="A:Z_auf_Pfeifsignal_achten.jpg]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_auf_Pfeifsignal_achten.jpg ; }
-node["traffic_sign"="A:Z_b"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_b.png" ; }
-node["traffic_sign"="A:Z_c"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_c.png" ; }
-node["traffic_sign"="A:Z_d"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_d.png" ; }
-node["traffic_sign"="A:Z_e"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_e.png" ; }
-node["traffic_sign"="A:Z_f"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_f.png" ; }
-node["traffic_sign"="A:Z_g"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_g.png" ; }
-node["traffic_sign"="A:Z_h"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_h.png" ; }
-node["traffic_sign"="A:Z_i"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_i.png" ; }
-node["traffic_sign"="A:Z_j"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_j.png" ; }
-node["traffic_sign"="A:Z_k"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_k.png" ; }
-node["traffic_sign"="A:Z_l"]{icon-offset-x:-2" ;icon-width:"20" ;icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_l.png" ; }
+/*---------------------AUSTRIA WITHOUT-------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+node["traffic_sign"="A:fv"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_fv.png" ; 
+}
+
+node["traffic_sign"="A:G1"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G1.png" ; 
+}
+
+node["traffic_sign"="A:G10"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10.png" ; 
+}
+
+node["traffic_sign"="A:G10a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10a.png" ; 
+}
+
+node["traffic_sign"="A:G10b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10b.png" ; 
+}
+
+node["traffic_sign"="A:G10c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G10c.png" ; 
+}
+
+node["traffic_sign"="A:G11"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G11.png" ; 
+}
+
+node["traffic_sign"="A:G11a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G11a.png" ; 
+}
+
+node["traffic_sign"="A:G12"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G12.png" ; 
+}
+
+node["traffic_sign"="A:G13a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G13a.png" ; 
+}
+
+node["traffic_sign"="A:G13b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G13b.png" ; 
+}
+
+node["traffic_sign"="A:G14"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G14.png" ; 
+}
+
+node["traffic_sign"="A:G14a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G14a.png" ; 
+}
+
+node["traffic_sign"="A:G15"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G15.png" ; 
+}
+
+node["traffic_sign"="A:G16"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G16.png" ; 
+}
+
+node["traffic_sign"="A:G2a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2a.png" ; 
+}
+
+node["traffic_sign"="A:G2b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2b.png" ; 
+}
+
+node["traffic_sign"="A:G2c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2c.png" ; 
+}
+
+node["traffic_sign"="A:G2d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G2d.png" ; 
+}
+
+node["traffic_sign"="A:G3"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G3.png" ; 
+}
+
+node["traffic_sign"="A:G3a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G3a.png" ; 
+}
+
+node["traffic_sign"="A:G4"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G4.png" ; 
+}
+
+node["traffic_sign"="A:G6a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6a.png" ; 
+}
+
+node["traffic_sign"="A:G6b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6b.png" ; 
+}
+
+node["traffic_sign"="A:G6c1l"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c1l.png" ; 
+}
+
+node["traffic_sign"="A:G6c1r"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c1r.png" ; 
+}
+
+node["traffic_sign"="A:G6c2l"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c2l.png" ; 
+}
+
+node["traffic_sign"="A:G6c2r"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c2r.png" ; 
+}
+
+node["traffic_sign"="A:G6c3l"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3l.png" ; 
+}
+
+node["traffic_sign"="A:G6c3l6b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3l6b.png" ; 
+}
+
+node["traffic_sign"="A:G6c3r"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3r.png" ; 
+}
+
+node["traffic_sign"="A:G6c3r6a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3r6a.png" ; 
+}
+
+node["traffic_sign"="A:G6c3r6b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6c3r6b.png" ; 
+}
+
+node["traffic_sign"="A:G6d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6d.png" ; 
+}
+
+node["traffic_sign"="A:G6dd"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6dd.png" ; 
+}
+
+node["traffic_sign"="A:G6ddl"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6ddl.png" ; 
+}
+
+node["traffic_sign"="A:G6ddt"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6ddt.png" ; 
+}
+
+node["traffic_sign"="A:G6dl"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6dl.png" ; 
+}
+
+node["traffic_sign"="A:G6dt"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G6dt.png" ; 
+}
+
+node["traffic_sign"="A:G7"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G7.png" ; 
+}
+
+node["traffic_sign"="A:G7a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G7a.png" ; 
+}
+
+node["traffic_sign"="A:G8a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G8a.png" ; 
+}
+
+node["traffic_sign"="A:G8b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G8b.png" ; 
+}
+
+node["traffic_sign"="A:G8c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G8c.png" ; 
+}
+
+node["traffic_sign"="A:G9"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_G9.png" ; 
+}
+
+node["traffic_sign"="A:H10a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H10a.png" ; 
+}
+
+node["traffic_sign"="A:H10l"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H10l.png" ; 
+}
+
+node["traffic_sign"="A:H10r"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H10r.png" ; 
+}
+
+node["traffic_sign"="A:H11"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H11.png" ; 
+}
+
+node["traffic_sign"="A:H12"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H12.png" ; 
+}
+
+node["traffic_sign"="A:H13ag"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13ag.png" ; 
+}
+
+node["traffic_sign"="A:H13ak"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13ak.png" ; 
+}
+
+node["traffic_sign"="A:H13bg"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13bg.png" ; 
+}
+
+node["traffic_sign"="A:H13bog"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13bog.png" ; 
+}
+
+node["traffic_sign"="A:H13br"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13br.png" ; 
+}
+
+node["traffic_sign"="A:H13cl"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13cl.png" ; 
+}
+
+node["traffic_sign"="A:H13dl"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H13dl.png" ; 
+}
+
+node["traffic_sign"="A:H14a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H14a.png" ; 
+}
+
+node["traffic_sign"="A:H14br"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H14br.png" ; 
+}
+
+node["traffic_sign"="A:H14bsr"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H14bsr.png" ; 
+}
+
+node["traffic_sign"="A:H15aa"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15aa.png" ; 
+}
+
+node["traffic_sign"="A:H15ab"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ab.png" ; 
+}
+
+node["traffic_sign"="A:H15ac"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ac.png" ; 
+}
+
+node["traffic_sign"="A:H15ad"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ad.png" ; 
+}
+
+node["traffic_sign"="A:H15ba"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15ba.png" ; 
+}
+
+node["traffic_sign"="A:H15bbh"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15bbh.png" ; 
+}
+
+node["traffic_sign"="A:H15bbq"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15bbq.png" ; 
+}
+
+node["traffic_sign"="A:H15c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H15c.png" ; 
+}
+
+node["traffic_sign"="A:H16a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16a.png" ; 
+}
+
+node["traffic_sign"="A:H16b_geradeaus"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16b_geradeaus.png" ; 
+}
+
+node["traffic_sign"="A:H16b_rechts"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16b_rechts.png" ; 
+}
+
+node["traffic_sign"="A:H16b_rechts_LKW"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16b_rechts_LKW.png" ; 
+}
+
+node["traffic_sign"="A:H16c-a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16c-a.png" ; 
+}
+
+node["traffic_sign"="A:H16c-b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H16c-b.png" ; 
+}
+
+node["traffic_sign"="A:H17a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H17a.png" ; 
+}
+
+node["traffic_sign"="A:H17b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H17b.png" ; 
+}
+
+node["traffic_sign"="A:H18"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H18.png" ; 
+}
+
+node["traffic_sign"="A:H19"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H19.png" ; 
+}
+
+node["traffic_sign"="A:H1a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H1a.png" ; 
+}
+
+node["traffic_sign"="A:H1b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H1b.png" ; 
+}
+
+node["traffic_sign"="A:H1c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H1c.png" ; 
+}
+
+node["traffic_sign"="A:H2"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2.png" ; 
+}
+
+node["traffic_sign"="A:H21"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H21.png" ; 
+}
+
+node["traffic_sign"="A:H22"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H22.png" ; 
+}
+
+node["traffic_sign"="A:H23"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23.png" ; 
+}
+
+node["traffic_sign"="A:H23
+node["traffic_sign"="A:grrrg"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23a_grrrg.png" ; 
+}
+
+node["traffic_sign"="A:H23
+node["traffic_sign"="A:rllg"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23a_rllg.png" ; 
+}
+
+node["traffic_sign"="A:H23b1p2-1"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23b1p2-1.png" ; 
+}
+
+node["traffic_sign"="A:H23b1p2"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23b1p2.png" ; 
+}
+
+node["traffic_sign"="A:H23c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H23c.png" ; 
+}
+
+node["traffic_sign"="A:H24"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H24.png" ; 
+}
+
+node["traffic_sign"="A:H25"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H25.png" ; 
+}
+
+node["traffic_sign"="A:H26"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H26.png" ; 
+}
+
+node["traffic_sign"="A:H27"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H27.png" ; 
+}
+
+node["traffic_sign"="A:H28a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H28a.png" ; 
+}
+
+node["traffic_sign"="A:H28b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H28b.png" ; 
+}
+
+node["traffic_sign"="A:H2a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2a.png" ; 
+}
+
+node["traffic_sign"="A:H2b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2b.png" ; 
+}
+
+node["traffic_sign"="A:H2ca"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2ca.png" ; 
+}
+
+node["traffic_sign"="A:H2cb"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H2cb.png" ; 
+}
+
+node["traffic_sign"="A:H3"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H3.png" ; 
+}
+
+node["traffic_sign"="A:H3a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H3a.png" ; 
+}
+
+node["traffic_sign"="A:H4"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H4.png" ; 
+}
+
+node["traffic_sign"="A:H5"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H5.png" ; 
+}
+
+node["traffic_sign"="A:H6"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H6.png" ; 
+}
+
+node["traffic_sign"="A:H6a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H6a.png" ; 
+}
+
+node["traffic_sign"="A:H7"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H7.png" ; 
+}
+
+node["traffic_sign"="A:H7a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H7a.png" ; 
+}
+
+node["traffic_sign"="A:H8a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8a.png" ; 
+}
+
+node["traffic_sign"="A:H8b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8b.png" ; 
+}
+
+node["traffic_sign"="A:H8c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8c.png" ; 
+}
+
+node["traffic_sign"="A:H8d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H8d.png" ; 
+}
+
+node["traffic_sign"="A:H9a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9a.png" ; 
+}
+
+node["traffic_sign"="A:H9b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9b.png" ; 
+}
+
+node["traffic_sign"="A:H9c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9c.png" ; 
+}
+
+node["traffic_sign"="A:H9d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9d.png" ; 
+}
+
+node["traffic_sign"="A:H9e"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9e.png" ; 
+}
+
+node["traffic_sign"="A:H9en"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9en.png" ; 
+}
+
+node["traffic_sign"="A:H9f"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_H9f.png" ; 
+}
+
+node["traffic_sign"="A:V1"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V1.png" ; 
+}
+
+node["traffic_sign"="A:V10a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V10a.png" ; 
+}
+
+node["traffic_sign"="A:V10b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V10b.png" ; 
+}
+
+node["traffic_sign"="A:V11"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V11.png" ; 
+}
+
+node["traffic_sign"="A:V11a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V11a.png" ; 
+}
+
+node["traffic_sign"="A:V11b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V11b.png" ; 
+}
+
+node["traffic_sign"="A:V12"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V12.png" ; 
+}
+
+node["traffic_sign"="A:V13a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13a.png" ; 
+}
+
+node["traffic_sign"="A:V13b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13b.png" ; 
+}
+
+node["traffic_sign"="A:V13c-a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13c-a.png" ; 
+}
+
+node["traffic_sign"="A:V13c-b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13c-b.png" ; 
+}
+
+node["traffic_sign"="A:V13d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13d.png" ; 
+}
+
+node["traffic_sign"="A:V13e"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V13e.png" ; 
+}
+
+node["traffic_sign"="A:V14"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V14.png" ; 
+}
+
+node["traffic_sign"="A:V14a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V14a.png" ; 
+}
+
+node["traffic_sign"="A:V15a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15a.png" ; 
+}
+
+node["traffic_sign"="A:V15g"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15g.png" ; 
+}
+
+node["traffic_sign"="A:V15gl"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15gl.png" ; 
+}
+
+node["traffic_sign"="A:V15gr"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15gr.png" ; 
+}
+
+node["traffic_sign"="A:V15l"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15l.png" ; 
+}
+
+node["traffic_sign"="A:V15la"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15la.png" ; 
+}
+
+node["traffic_sign"="A:V15lg"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15lg.png" ; 
+}
+
+node["traffic_sign"="A:V15r"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15r.png" ; 
+}
+
+node["traffic_sign"="A:V15ra"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15ra.png" ; 
+}
+
+node["traffic_sign"="A:V15rg"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V15rg.png" ; 
+}
+
+node["traffic_sign"="A:V16"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V16.png" ; 
+}
+
+node["traffic_sign"="A:V16a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V16a.png" ; 
+}
+
+node["traffic_sign"="A:V17"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17.png" ; 
+}
+
+node["traffic_sign"="A:V17aa"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17aa.png" ; 
+}
+
+node["traffic_sign"="A:V17ab"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17ab.png" ; 
+}
+
+node["traffic_sign"="A:V17ac"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17ac.png" ; 
+}
+
+node["traffic_sign"="A:V17ad"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17ad.png" ; 
+}
+
+node["traffic_sign"="A:V17b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17b.png" ; 
+}
+
+node["traffic_sign"="A:V17c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V17c.png" ; 
+}
+
+node["traffic_sign"="A:V18"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V18.png" ; 
+}
+
+node["traffic_sign"="A:V19"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V19.png" ; 
+}
+
+node["traffic_sign"="A:V19a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V19a.png" ; 
+}
+
+node["traffic_sign"="A:V2"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V2.png" ; 
+}
+
+node["traffic_sign"="A:V21"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V21.png" ; 
+}
+
+node["traffic_sign"="A:V21a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V21a.png" ; 
+}
+
+node["traffic_sign"="A:V22"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V22.png" ; 
+}
+
+node["traffic_sign"="A:V22a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V22a.png" ; 
+}
+
+node["traffic_sign"="A:V23"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V23.png" ; 
+}
+
+node["traffic_sign"="A:V24"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V24.png" ; 
+}
+
+node["traffic_sign"="A:V25a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V25a.png" ; 
+}
+
+node["traffic_sign"="A:V25b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V25b.png" ; 
+}
+
+node["traffic_sign"="A:V3a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V3a.png" ; 
+}
+
+node["traffic_sign"="A:V3b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V3b.png" ; 
+}
+
+node["traffic_sign"="A:V3c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V3c.png" ; 
+}
+
+node["traffic_sign"="A:V4a-1"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4a-1.png" ; 
+}
+
+node["traffic_sign"="A:V4a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4a.png" ; 
+}
+
+node["traffic_sign"="A:V4b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4b.png" ; 
+}
+
+node["traffic_sign"="A:V4c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4c.png" ; 
+}
+
+node["traffic_sign"="A:V4d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V4d.png" ; 
+}
+
+node["traffic_sign"="A:V5"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V5.png" ; 
+}
+
+node["traffic_sign"="A:V6a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6a.png" ; 
+}
+
+node["traffic_sign"="A:V6b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6b.png" ; 
+}
+
+node["traffic_sign"="A:V6c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6c.png" ; 
+}
+
+node["traffic_sign"="A:V6d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V6d.png" ; 
+}
+
+node["traffic_sign"="A:V7a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7a.png" ; 
+}
+
+node["traffic_sign"="A:V7ag"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7ag.png" ; 
+}
+
+node["traffic_sign"="A:V7al"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7al.png" ; 
+}
+
+node["traffic_sign"="A:V7b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7b.png" ; 
+}
+
+node["traffic_sign"="A:V7c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7c.png" ; 
+}
+
+node["traffic_sign"="A:V7e"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7e.png" ; 
+}
+
+node["traffic_sign"="A:V7f"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V7f.png" ; 
+}
+
+node["traffic_sign"="A:V8a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V8a.png" ; 
+}
+
+node["traffic_sign"="A:V8b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V8b.png" ; 
+}
+
+node["traffic_sign"="A:V8c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V8c.png" ; 
+}
+
+node["traffic_sign"="A:V9a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9a.png" ; 
+}
+
+node["traffic_sign"="A:V9b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9b.png" ; 
+}
+
+node["traffic_sign"="A:V9c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9c.png" ; 
+}
+
+node["traffic_sign"="A:V9d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_V9d.png" ; 
+}
+
+node["traffic_sign"="A:Vflr"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Vflr.png" ; 
+}
+
+node["traffic_sign"="A:Z_a"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_a.png" ; 
+}
+
+node["traffic_sign"="A:Z_auf_Pfeifsignal_achten.jpg]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_auf_Pfeifsignal_achten.jpg ; 
+}
+
+node["traffic_sign"="A:Z_b"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_b.png" ; 
+}
+
+node["traffic_sign"="A:Z_c"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_c.png" ; 
+}
+
+node["traffic_sign"="A:Z_d"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_d.png" ; 
+}
+
+node["traffic_sign"="A:Z_e"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_e.png" ; 
+}
+
+node["traffic_sign"="A:Z_f"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_f.png" ; 
+}
+
+node["traffic_sign"="A:Z_g"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_g.png" ; 
+}
+
+node["traffic_sign"="A:Z_h"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_h.png" ; 
+}
+
+node["traffic_sign"="A:Z_i"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_i.png" ; 
+}
+
+node["traffic_sign"="A:Z_j"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_j.png" ; 
+}
+
+node["traffic_sign"="A:Z_k"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_k.png" ; 
+}
+
+node["traffic_sign"="A:Z_l"]{
+icon-offset-x:-2" ;
+icon-width:"20" ;
+icon-image:"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_Z_l.png" ; 
+}
 
 
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------AUSTRIA side left-------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
 
+
+node["traffic_sign:forward"="A:fv"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_fv.png" ; 
+}
+
+node["traffic_sign:forward"="A:G1"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G1.png"; 
+}
+
+node["traffic_sign:forward"="A:G10"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G10.png"; 
+}
+
+node["traffic_sign:forward"="A:G10a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G10a.png"; 
+}
+
+node["traffic_sign:forward"="A:G10b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G10b.png"; 
+}
+
+node["traffic_sign:forward"="A:G10c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G10c.png"; 
+}
+
+node["traffic_sign:forward"="A:G11"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G11.png"; 
+}
+
+node["traffic_sign:forward"="A:G11a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G11a.png"; 
+}
+
+node["traffic_sign:forward"="A:G12"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G12.png"; 
+}
+
+node["traffic_sign:forward"="A:G13a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G13a.png"; 
+}
+
+node["traffic_sign:forward"="A:G13b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G13b.png"; 
+}
+
+node["traffic_sign:forward"="A:G14"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G14.png"; 
+}
+
+node["traffic_sign:forward"="A:G14a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G14a.png"; 
+}
+
+node["traffic_sign:forward"="A:G15"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G15.png"; 
+}
+
+node["traffic_sign:forward"="A:G16"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G16.png"; 
+}
+
+node["traffic_sign:forward"="A:G2a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G2a.png"; 
+}
+
+node["traffic_sign:forward"="A:G2b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G2b.png"; 
+}
+
+node["traffic_sign:forward"="A:G2c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G2c.png"; 
+}
+
+node["traffic_sign:forward"="A:G2d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G2d.png"; 
+}
+
+node["traffic_sign:forward"="A:G3"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G3.png"; 
+}
+
+node["traffic_sign:forward"="A:G3a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G3a.png"; 
+}
+
+node["traffic_sign:forward"="A:G4"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G4.png"; 
+}
+
+node["traffic_sign:forward"="A:G6a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6a.png"; 
+}
+
+node["traffic_sign:forward"="A:G6b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6b.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c1l"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c1l.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c1r"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c1r.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c2l"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c2l.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c2r"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c2r.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c3l"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c3l.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c3l6b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c3l6b.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c3r"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c3r.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c3r6a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c3r6a.png"; 
+}
+
+node["traffic_sign:forward"="A:G6c3r6b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6c3r6b.png"; 
+}
+
+node["traffic_sign:forward"="A:G6d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6d.png"; 
+}
+
+node["traffic_sign:forward"="A:G6dd"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6dd.png"; 
+}
+
+node["traffic_sign:forward"="A:G6ddl"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6ddl.png"; 
+}
+
+node["traffic_sign:forward"="A:G6ddt"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6ddt.png"; 
+}
+
+node["traffic_sign:forward"="A:G6dl"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6dl.png"; 
+}
+
+node["traffic_sign:forward"="A:G6dt"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G6dt.png"; 
+}
+
+node["traffic_sign:forward"="A:G7"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G7.png"; 
+}
+
+node["traffic_sign:forward"="A:G7a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G7a.png"; 
+}
+
+node["traffic_sign:forward"="A:G8a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G8a.png"; 
+}
+
+node["traffic_sign:forward"="A:G8b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G8b.png"; 
+}
+
+node["traffic_sign:forward"="A:G8c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G8c.png"; 
+}
+
+node["traffic_sign:forward"="A:G9"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_G9.png"; 
+}
+
+node["traffic_sign:forward"="A:H10a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H10a.png"; 
+}
+
+node["traffic_sign:forward"="A:H10l"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H10l.png"; 
+}
+
+node["traffic_sign:forward"="A:H10r"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H10r.png"; 
+}
+
+node["traffic_sign:forward"="A:H11"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H11.png"; 
+}
+
+node["traffic_sign:forward"="A:H12"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H12.png"; 
+}
+
+node["traffic_sign:forward"="A:H13ag"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H13ag.png"; 
+}
+
+node["traffic_sign:forward"="A:H13ak"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H13ak.png"; 
+}
+
+node["traffic_sign:forward"="A:H13bg"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H13bg.png"; 
+}
+
+node["traffic_sign:forward"="A:H13bog"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H13bog.png"; 
+}
+
+node["traffic_sign:forward"="A:H13br"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H13br.png"; 
+}
+
+node["traffic_sign:forward"="A:H13cl"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H13cl.png"; 
+}
+
+node["traffic_sign:forward"="A:H13dl"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H13dl.png"; 
+}
+
+node["traffic_sign:forward"="A:H14a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H14a.png"; 
+}
+
+node["traffic_sign:forward"="A:H14br"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H14br.png"; 
+}
+
+node["traffic_sign:forward"="A:H14bsr"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H14bsr.png"; 
+}
+
+node["traffic_sign:forward"="A:H15aa"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15aa.png"; 
+}
+
+node["traffic_sign:forward"="A:H15ab"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15ab.png"; 
+}
+
+node["traffic_sign:forward"="A:H15ac"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15ac.png"; 
+}
+
+node["traffic_sign:forward"="A:H15ad"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15ad.png"; 
+}
+
+node["traffic_sign:forward"="A:H15ba"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15ba.png"; 
+}
+
+node["traffic_sign:forward"="A:H15bbh"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15bbh.png"; 
+}
+
+node["traffic_sign:forward"="A:H15bbq"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15bbq.png"; 
+}
+
+node["traffic_sign:forward"="A:H15c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H15c.png"; 
+}
+
+node["traffic_sign:forward"="A:H16a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H16a.png"; 
+}
+
+node["traffic_sign:forward"="A:H16b_geradeaus"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H16b_geradeaus.png"; 
+}
+
+node["traffic_sign:forward"="A:H16b_rechts"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H16b_rechts.png"; 
+}
+
+node["traffic_sign:forward"="A:H16b_rechts_LKW"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H16b_rechts_LKW.png"; 
+}
+
+node["traffic_sign:forward"="A:H16c-a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H16c-a.png"; 
+}
+
+node["traffic_sign:forward"="A:H16c-b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H16c-b.png"; 
+}
+
+node["traffic_sign:forward"="A:H17a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H17a.png"; 
+}
+
+node["traffic_sign:forward"="A:H17b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H17b.png"; 
+}
+
+node["traffic_sign:forward"="A:H18"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H18.png"; 
+}
+
+node["traffic_sign:forward"="A:H19"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H19.png"; 
+}
+
+node["traffic_sign:forward"="A:H1a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H1a.png"; 
+}
+
+node["traffic_sign:forward"="A:H1b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H1b.png"; 
+}
+
+node["traffic_sign:forward"="A:H1c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H1c.png"; 
+}
+
+node["traffic_sign:forward"="A:H2"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H2.png"; 
+}
+
+node["traffic_sign:forward"="A:H21"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H21.png"; 
+}
+
+node["traffic_sign:forward"="A:H22"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H22.png"; 
+}
+
+node["traffic_sign:forward"="A:H23"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H23.png"; 
+}
+
+node["traffic_sign:forward"="A:H23
+node["traffic_sign:forward"="A:grrrg"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H23a_grrrg.png"; 
+}
+
+node["traffic_sign:forward"="A:H23
+node["traffic_sign:forward"="A:rllg"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H23a_rllg.png"; 
+}
+
+node["traffic_sign:forward"="A:H23b1p2-1"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H23b1p2-1.png"; 
+}
+
+node["traffic_sign:forward"="A:H23b1p2"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H23b1p2.png"; 
+}
+
+node["traffic_sign:forward"="A:H23c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H23c.png"; 
+}
+
+node["traffic_sign:forward"="A:H24"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H24.png"; 
+}
+
+node["traffic_sign:forward"="A:H25"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H25.png"; 
+}
+
+node["traffic_sign:forward"="A:H26"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H26.png"; 
+}
+
+node["traffic_sign:forward"="A:H27"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H27.png"; 
+}
+
+node["traffic_sign:forward"="A:H28a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H28a.png"; 
+}
+
+node["traffic_sign:forward"="A:H28b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H28b.png"; 
+}
+
+node["traffic_sign:forward"="A:H2a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H2a.png"; 
+}
+
+node["traffic_sign:forward"="A:H2b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H2b.png"; 
+}
+
+node["traffic_sign:forward"="A:H2ca"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H2ca.png"; 
+}
+
+node["traffic_sign:forward"="A:H2cb"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H2cb.png"; 
+}
+
+node["traffic_sign:forward"="A:H3"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H3.png"; 
+}
+
+node["traffic_sign:forward"="A:H3a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H3a.png"; 
+}
+
+node["traffic_sign:forward"="A:H4"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H4.png"; 
+}
+
+node["traffic_sign:forward"="A:H5"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H5.png"; 
+}
+
+node["traffic_sign:forward"="A:H6"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H6.png"; 
+}
+
+node["traffic_sign:forward"="A:H6a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H6a.png"; 
+}
+
+node["traffic_sign:forward"="A:H7"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H7.png"; 
+}
+
+node["traffic_sign:forward"="A:H7a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H7a.png"; 
+}
+
+node["traffic_sign:forward"="A:H8a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H8a.png"; 
+}
+
+node["traffic_sign:forward"="A:H8b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H8b.png"; 
+}
+
+node["traffic_sign:forward"="A:H8c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H8c.png"; 
+}
+
+node["traffic_sign:forward"="A:H8d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H8d.png"; 
+}
+
+node["traffic_sign:forward"="A:H9a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H9a.png"; 
+}
+
+node["traffic_sign:forward"="A:H9b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H9b.png"; 
+}
+
+node["traffic_sign:forward"="A:H9c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H9c.png"; 
+}
+
+node["traffic_sign:forward"="A:H9d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H9d.png"; 
+}
+
+node["traffic_sign:forward"="A:H9e"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H9e.png"; 
+}
+
+node["traffic_sign:forward"="A:H9en"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H9en.png"; 
+}
+
+node["traffic_sign:forward"="A:H9f"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_H9f.png"; 
+}
+
+node["traffic_sign:forward"="A:V1"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V1.png"; 
+}
+
+node["traffic_sign:forward"="A:V10a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V10a.png"; 
+}
+
+node["traffic_sign:forward"="A:V10b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V10b.png"; 
+}
+
+node["traffic_sign:forward"="A:V11"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V11.png"; 
+}
+
+node["traffic_sign:forward"="A:V11a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V11a.png"; 
+}
+
+node["traffic_sign:forward"="A:V11b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V11b.png"; 
+}
+
+node["traffic_sign:forward"="A:V12"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V12.png"; 
+}
+
+node["traffic_sign:forward"="A:V13a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V13a.png"; 
+}
+
+node["traffic_sign:forward"="A:V13b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V13b.png"; 
+}
+
+node["traffic_sign:forward"="A:V13c-a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V13c-a.png"; 
+}
+
+node["traffic_sign:forward"="A:V13c-b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V13c-b.png"; 
+}
+
+node["traffic_sign:forward"="A:V13d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V13d.png"; 
+}
+
+node["traffic_sign:forward"="A:V13e"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V13e.png"; 
+}
+
+node["traffic_sign:forward"="A:V14"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V14.png"; 
+}
+
+node["traffic_sign:forward"="A:V14a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V14a.png"; 
+}
+
+node["traffic_sign:forward"="A:V15a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15a.png"; 
+}
+
+node["traffic_sign:forward"="A:V15g"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15g.png"; 
+}
+
+node["traffic_sign:forward"="A:V15gl"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15gl.png"; 
+}
+
+node["traffic_sign:forward"="A:V15gr"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15gr.png"; 
+}
+
+node["traffic_sign:forward"="A:V15l"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15l.png"; 
+}
+
+node["traffic_sign:forward"="A:V15la"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15la.png"; 
+}
+
+node["traffic_sign:forward"="A:V15lg"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15lg.png"; 
+}
+
+node["traffic_sign:forward"="A:V15r"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15r.png"; 
+}
+
+node["traffic_sign:forward"="A:V15ra"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15ra.png"; 
+}
+
+node["traffic_sign:forward"="A:V15rg"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V15rg.png"; 
+}
+
+node["traffic_sign:forward"="A:V16"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V16.png"; 
+}
+
+node["traffic_sign:forward"="A:V16a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V16a.png"; 
+}
+
+node["traffic_sign:forward"="A:V17"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V17.png"; 
+}
+
+node["traffic_sign:forward"="A:V17aa"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V17aa.png"; 
+}
+
+node["traffic_sign:forward"="A:V17ab"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V17ab.png"; 
+}
+
+node["traffic_sign:forward"="A:V17ac"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V17ac.png"; 
+}
+
+node["traffic_sign:forward"="A:V17ad"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V17ad.png"; 
+}
+
+node["traffic_sign:forward"="A:V17b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V17b.png"; 
+}
+
+node["traffic_sign:forward"="A:V17c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V17c.png"; 
+}
+
+node["traffic_sign:forward"="A:V18"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V18.png"; 
+}
+
+node["traffic_sign:forward"="A:V19"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V19.png"; 
+}
+
+node["traffic_sign:forward"="A:V19a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V19a.png"; 
+}
+
+node["traffic_sign:forward"="A:V2"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V2.png"; 
+}
+
+node["traffic_sign:forward"="A:V21"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V21.png"; 
+}
+
+node["traffic_sign:forward"="A:V21a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V21a.png"; 
+}
+
+node["traffic_sign:forward"="A:V22"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V22.png"; 
+}
+
+node["traffic_sign:forward"="A:V22a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V22a.png"; 
+}
+
+node["traffic_sign:forward"="A:V23"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V23.png"; 
+}
+
+node["traffic_sign:forward"="A:V24"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V24.png"; 
+}
+
+node["traffic_sign:forward"="A:V25a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V25a.png"; 
+}
+
+node["traffic_sign:forward"="A:V25b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V25b.png"; 
+}
+
+node["traffic_sign:forward"="A:V3a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V3a.png"; 
+}
+
+node["traffic_sign:forward"="A:V3b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V3b.png"; 
+}
+
+node["traffic_sign:forward"="A:V3c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V3c.png"; 
+}
+
+node["traffic_sign:forward"="A:V4a-1"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V4a-1.png"; 
+}
+
+node["traffic_sign:forward"="A:V4a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V4a.png"; 
+}
+
+node["traffic_sign:forward"="A:V4b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V4b.png"; 
+}
+
+node["traffic_sign:forward"="A:V4c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V4c.png"; 
+}
+
+node["traffic_sign:forward"="A:V4d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V4d.png"; 
+}
+
+node["traffic_sign:forward"="A:V5"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V5.png"; 
+}
+
+node["traffic_sign:forward"="A:V6a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V6a.png"; 
+}
+
+node["traffic_sign:forward"="A:V6b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V6b.png"; 
+}
+
+node["traffic_sign:forward"="A:V6c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V6c.png"; 
+}
+
+node["traffic_sign:forward"="A:V6d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V6d.png"; 
+}
+
+node["traffic_sign:forward"="A:V7a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V7a.png"; 
+}
+
+node["traffic_sign:forward"="A:V7ag"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V7ag.png"; 
+}
+
+node["traffic_sign:forward"="A:V7al"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V7al.png"; 
+}
+
+node["traffic_sign:forward"="A:V7b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V7b.png"; 
+}
+
+node["traffic_sign:forward"="A:V7c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V7c.png"; 
+}
+
+node["traffic_sign:forward"="A:V7e"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V7e.png"; 
+}
+
+node["traffic_sign:forward"="A:V7f"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V7f.png"; 
+}
+
+node["traffic_sign:forward"="A:V8a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V8a.png"; 
+}
+
+node["traffic_sign:forward"="A:V8b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V8b.png"; 
+}
+
+node["traffic_sign:forward"="A:V8c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V8c.png"; 
+}
+
+node["traffic_sign:forward"="A:V9a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V9a.png"; 
+}
+
+node["traffic_sign:forward"="A:V9b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V9b.png"; 
+}
+
+node["traffic_sign:forward"="A:V9c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V9c.png"; 
+}
+
+node["traffic_sign:forward"="A:V9d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_V9d.png"; 
+}
+
+node["traffic_sign:forward"="A:Vflr"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Vflr.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_a"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_a.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_auf_Pfeifsignal_achten.jpg"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_auf_Pfeifsignal_achten.jpg ; 
+}
+
+node["traffic_sign:forward"="A:Z_b"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_b.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_c"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_c.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_d"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_d.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_e"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_e.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_f"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_f.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_g"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_g.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_h"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_h.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_i"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_i.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_j"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_j.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_k"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_k.png"; 
+}
+
+node["traffic_sign:forward"="A:Z_l"][side"="left"]{
+icon-offset-x:"-2" ;
+icon-width:"20" ;
+icon-image:"traffic_signs/A/A_Z_l.png"; 
+}
 
 
 
