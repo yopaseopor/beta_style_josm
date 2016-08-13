@@ -2376,7 +2376,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "BE:F101a",["access"="yes",["bicycle"="no",["horse"="no",
+"value": "BE:F101a",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -2384,7 +2384,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "BE:F101a",["access"="yes",["horse"="no",
+"value": "BE:F101a",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -2392,7 +2392,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "BE:F101b",["access"="yes",["segregated"="yes",["horse"="no",
+"value": "BE:F101b",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -3040,7 +3040,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "BE:F99b",["segregated"="yes",["horse"="no",
+"value": "BE:F99b",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -14875,7 +14875,8 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_Ruta_europea.png" 	}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_Ruta_europea.png"
+},
 {
 "key": "traffic_sign",
 "value": "ES:ruta_europea",
@@ -15158,7 +15159,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "ES:s200",["junction"="roundabout",
+"value": "ES:s200",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -15350,7 +15351,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "ES:s26a",["distance"="300",
+"value": "ES:s26a",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -15358,7 +15359,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "ES:s26b",["distance"="200",
+"value": "ES:s26b",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -15366,7 +15367,7 @@
 },
 {
 "key": "traffic_sign",
-"value": "ES:s26c",["distance"="100",
+"value": "ES:s26c",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -15850,7 +15851,8 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s940.png" 	}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s940.png"
+},
 {
 "key": "traffic_sign",
 "value": "ES:s940",
@@ -30797,9 +30799,6 @@
 },
 {
 "key": "traffic_sign:backward",
-"value": "A:V8b","objec	
-{
-"key": "traffic_sign:backward",
 "value": "A:G1",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
@@ -36245,14 +36244,6 @@
 "description": "",
 "doc_url": "",
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/BY/BY_1.1.png"
-},
-{
-"key": "traffic_sign:backward",
-"value": "CAT:com:s860	ES:p50",
-"object_types": ["way", "area", "node", "relation"],
-"description": "",
-"doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/CAT_com_s860.png"
 },
 {
 "key": "traffic_sign:backward",
@@ -44892,7 +44883,8 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_Ruta_europea.png" 	}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_Ruta_europea.png"
+},
 {
 "key": "traffic_sign:backward",
 "value": "ES:p1a",
@@ -45887,7 +45879,7 @@
 },
 {
 "key": "traffic_sign:backward",
-"value": "ES:s200",["junction"="roundabout",
+"value": "ES:s200",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -46079,7 +46071,7 @@
 },
 {
 "key": "traffic_sign:backward",
-"value": "ES:s26a",["distance"="300",
+"value": "ES:s26a",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -46087,7 +46079,7 @@
 },
 {
 "key": "traffic_sign:backward",
-"value": "ES:s26b",["distance"="200",
+"value": "ES:s26b",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -46095,7 +46087,7 @@
 },
 {
 "key": "traffic_sign:backward",
-"value": "ES:s26c",["distance"="100",
+"value": "ES:s26c",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
@@ -46579,7 +46571,8 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s940.png" 	   }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s940.png"
+},
 {
 "key": "traffic_sign:backward",
 "value": "ES:s940",
@@ -60116,7 +60109,7 @@
 "doc_url": "",
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/SE/SE_X6-1.png"
 },
-{}
+{
 "key": "traffic_sign:forward",
 "value": "A:fv",
 "object_types": ["way", "area", "node", "relation"],
