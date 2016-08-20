@@ -343,6 +343,102 @@
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s23.png"
 },
 {
+"key": "destination:symbol",
+"value": "doctors",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s23.png"
+},
+{
+"key": "destination:symbol",
+"value": "clinic",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s23.png"
+},
+{
+"key": "destination:symbol",
+"value": "hardware",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s103.png"
+},
+{
+"key": "destination:symbol",
+"value": "phone",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s104.png"
+},
+{
+"key": "destination:symbol",
+"value": "fuel",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s105.png"
+},
+{
+"key": "destination:symbol",
+"value": "spring",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s108.png"
+},
+{
+"key": "destination:symbol",
+"value": "viewpoint",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s109.png"
+},
+{
+"key": "destination:symbol",
+"value": "restaurant",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s111.png"
+},
+{
+"key": "destination:symbol",
+"value": "cafe",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s112.png"
+},
+{
+"key": "destination:symbol",
+"value": "information",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s118.png"
+},
+{
+"key": "destination:symbol",
+"value": "camp_site",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s113.png"
+},
+{
+"key": "destination:symbol",
+"value": "hostel",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s117.png"
+},
+{
 "key": "traffic_sign",
 "value": "A:G1",
 "object_types": ["way", "area", "node", "relation"],
