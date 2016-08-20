@@ -21,14 +21,326 @@
        "description": "Used in Search results, Nearest command (search with emoji) and Inline bot",
        "doc_url": "http://wiki.openstreetmap.org/wiki/Tag:aerialway%3Dcable_car",
        "icon_url": "http://emojipedia-us.s3.amazonaws.com/cache/53/db/53db31a71187838c69baff5576dfa27b.png"
-   },
-   {
-"key": "traffic_sign",
-"value": "A:fv",
+},
+{
+"key": "highway",
+"value": "stop",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/A/A_fv.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r2.png"
+},
+{
+"key": "traffic_sign",
+"value": "stop",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r2.png"
+},
+{
+"key": "traffic_sign:forward",
+"value": "stop",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r2.png"
+},
+{
+"key": "traffic_sign:backward",
+"value": "stop",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r2.png"
+},
+{
+"key": "highway",
+"value": "give_way",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r1.png"
+},
+{
+"key": "traffic_sign",
+"value": "give_way",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r1.png"
+},
+{
+"key": "traffic_sign:forward",
+"value": "give_way",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r1.png"
+},
+{
+"key": "traffic_sign:backward",
+"value": "give_way",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r1.png"
+},
+{
+"key": "traffic_sign",
+"value": "maxspeed",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r301-50.png"
+},
+{
+"key": "traffic_sign:forward",
+"value": "maxspeed",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r301-50.png"
+},
+{
+"key": "traffic_sign:backward",
+"value": "maxspeed",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r301-50.png"
+},
+{
+"key": "traffic_sign",
+"value": "overtaking",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r305.png"
+},
+{
+"key": "traffic_sign:forward",
+"value": "overtaking",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r305.png"
+},
+{
+"key": "traffic_sign:backward",
+"value": "overtaking",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r305.png"
+},
+{
+"key": "traffic_sign",
+"value": "maxwidth",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r204.png"
+},
+{
+"key": "traffic_sign:forward",
+"value": "maxwidth",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r204.png"
+},
+{
+"key": "traffic_sign:backward",
+"value": "maxwidth",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r204.png"
+},
+{
+"key": "traffic_sign",
+"value": "maxheight",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r205.png"
+},
+{
+"key": "traffic_sign:forward",
+"value": "maxheight",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r205.png"
+},
+{
+"key": "traffic_sign:backward",
+"value": "maxheight",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r205.png"
+},
+{
+"key": "traffic_sign",
+"value": "maxweight",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r201.png"
+},
+{
+"key": "traffic_sign:forward",
+"value": "maxweight",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r201.png"
+},
+{
+"key": "traffic_sign:backward",
+"value": "maxweight",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r201.png"
+},
+{
+"key": "destination:symbol",
+"value": "*",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s122.png"
+},
+{
+"key": "destination:symbol",
+"value": "drawbridge",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_p5.png"
+},
+{
+"key": "destination:symbol",
+"value": "hostel",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s117.png"
+},
+{
+"key": "destination:symbol",
+"value": "tram",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_p6.png"
+},
+{
+"key": "destination:symbol",
+"value": "level_crossing",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_p7.png"
+},
+{
+"key": "destination:symbol",
+"value": "aerodrome",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_p12.png"
+},
+{
+"key": "destination:symbol",
+"value": "windsock",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_p29.png"
+},
+{
+"key": "destination:symbol",
+"value": "dock",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_p27.png"
+},
+{
+"key": "destination:symbol",
+"value": "passing_place",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_p20.png"
+},
+{
+"key": "destination:symbol",
+"value": "border_control",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r200.png"
+},
+{
+"key": "destination:symbol",
+"value": "toll_booth",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_r200a.png"
+},
+{
+"key": "destination:symbol",
+"value": "escape",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s16.png"
+},
+{
+"key": "destination:symbol",
+"value": "noexit",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s15a.png"
+},
+{
+"key": "destination:symbol",
+"value": "parking",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s17.png"
+},
+{
+"key": "destination:symbol",
+"value": "bus_stop",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s19.png"
+},
+{
+"key": "destination:symbol",
+"value": "taxi",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s19.png"
+},
+{
+"key": "destination:symbol",
+"value": "hospital",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs/ES/ES_s23.png"
 },
 {
 "key": "traffic_sign",
