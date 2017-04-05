@@ -2877,7 +2877,7 @@ icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png" ;
 }
 
-node["traffic_sign"="JP:118-4-A"]{
+node["traffic_sign"="JP:118-4-A-2"]{
 icon-offset-x:"-2" ;
 icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png" ;
@@ -7984,7 +7984,7 @@ icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png" ;
 }
 
-node["traffic_sign:forward"="JP:118-4-A"]["side"="left"]{
+node["traffic_sign:forward"="JP:118-4-A-2"]["side"="left"]{
 icon-offset-x:"-12" ;
 icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png" ;
@@ -13092,7 +13092,7 @@ icon-width:"20";
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png";
 }
 
-node["traffic_sign:forward"="JP:118-4-A"]["side"="right"]{
+node["traffic_sign:forward"="JP:118-4-A-2"]["side"="right"]{
 icon-offset-x:"20";
 icon-width:"20";
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png";
@@ -18200,7 +18200,7 @@ icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png" ;
 }
 
-node["traffic_sign:forward"="JP:118-4-A"]["side"="both"]{
+node["traffic_sign:forward"="JP:118-4-A-2"]["side"="both"]{
 icon-offset-x:"-2" ;
 icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png" ;
@@ -23309,7 +23309,7 @@ icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png" ;
 }
 
-node["traffic_sign"="JP:118-4-A"]{
+node["traffic_sign"="JP:118-4-A-2"]{
 icon-offset-x:"-2" ;
 icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png" ;
@@ -28416,7 +28416,7 @@ icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png" ;
 }
 
-node["traffic_sign:backward"="JP:118-4-A"]["side"="left"]{
+node["traffic_sign:backward"="JP:118-4-A-2"]["side"="left"]{
 icon-offset-x:"-12" ;
 icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png" ;
@@ -33524,7 +33524,7 @@ icon-width:"20";
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png";
 }
 
-node["traffic_sign:backward"="JP:118-4-A"]["side"="right"]{
+node["traffic_sign:backward"="JP:118-4-A-2"]["side"="right"]{
 icon-offset-x:"20";
 icon-width:"20";
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png";
@@ -38632,7 +38632,7 @@ icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-3_and_4-B.png" ;
 }
 
-node["traffic_sign:backward"="JP:118-4-A"]["side"="both"]{
+node["traffic_sign:backward"="JP:118-4-A-2"]["side"="both"]{
 icon-offset-x:"-2" ;
 icon-width:"20" ;
 icon-image:"traffic_signs_PAC/JP/JP_118-4-A-2.png" ;
