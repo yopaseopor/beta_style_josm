@@ -23,18 +23,6 @@ meta[lang=es]
 title: "Señales Tráfico";
 description: "Muestra las señales de tráfico introducidas en osm.Especialmente recomendado con el plugin roadsigns preset España y preset Traffic_signs de JOSM.";
 }
-node["traffic_sign"="ES:Ruta_europea"]{
-icon-image:"traffic_signs_AME/ES/ES_Ruta_europea.png" ;
-}
-
-*[maxspeed=100][direction=backward][side=both]{
-icon-image:"traffic_signs_AME/ES/ES_r301-100.png";
-}
-
-node["highway"="milestone"]{
-icon-image:"traffic_signs_AME/ES/ES_s573.png" ; 
-}
-
 /*--------------------------------------------------------------------------TEST------*/
 /*---------------------------------------------------------------------------------*/
 
