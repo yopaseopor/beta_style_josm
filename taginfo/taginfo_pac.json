@@ -6,7 +6,7 @@
    		"description": "Style and preset in JOSM to make easier the use and introduction of traffic signs of the Pacific Zone in OpenStreetMap via JOSM",
    		"project_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging",
    		"doc_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging#Tools",
-   		"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_PAC/ES/ES_road_beacon_big.png",
+   		"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/ES/ES_road_beacon_big.png",
    		"contact_name": "yopaseopor",
    		"contact_email": "yopaseopor@gmail.com",
    		"keywords": [
