@@ -24612,6 +24612,20 @@
 "doc_url": "",
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"			
    		}, {
+"key": "traffic_sign:direction"
+"value": "90"
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"			
+   		}, {
+"key": "traffic_sign:direction"
+"value": "270"
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"			
+   		}, {
 "key": "traffic_sign",
 "value": "SE:X6-1",
 "object_types": ["way", "area", "node", "relation"],
