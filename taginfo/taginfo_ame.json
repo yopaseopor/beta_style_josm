@@ -39842,21 +39842,21 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/ES/ES_traffic_sign_dir.png"	
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"	
    		}, {
 "key": "traffic_sign:direction",
 "value": "backward",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/ES/ES_traffic_sign_dir.png"	
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"	
    		}, {
 "key": "traffic_sign:direction",
 "value": "both",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/ES/ES_traffic_sign_dir.png"	
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"	
  		}, {
 "key": "traffic_sign",
 "value": "SE:X6-1",
