@@ -17,8 +17,8 @@
 "key": "aerialway",
 "value": "cable_car",
 "object_types": ["way", "area", "node", "relation"],
-"description": "Used in Search results, Nearest command (search with emoji) and Inline bot",
-"doc_url": "http://wiki.openstreetmap.org/wiki/Tag:aerialway%3Dcable_car",
+"description": "Used in Search results, Nearest command (search with emoji) and Inline bot"
+"doc_url": "http://wiki.openstreetmap.org/wiki/Tag:aerialway%3Dcable_car"
 "icon_url": "http://emojipedia-us.s3.amazonaws.com/cache/53/db/53db31a71187838c69baff5576dfa27b.png"
 		}, {
 "key": "traffic_sign",
@@ -24612,15 +24612,15 @@
 "doc_url": "",
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"			
    		}, {
-"key": "traffic_sign:direction",
-"value": "90",
+"key": "traffic_sign:direction"
+"value": "90"
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/AU/AU_W9-4R.png"			
    		}, {
-"key": "traffic_sign:direction",
-"value": "270",
+"key": "traffic_sign:direction"
+"value": "270"
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
