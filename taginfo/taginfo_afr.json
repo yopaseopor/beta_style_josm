@@ -26,7 +26,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_.png"
 
 }, {
 "key": "traffic_sign",
@@ -34,7 +34,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_IN14.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_IN14.png"
 
 }, {
 "key": "traffic_sign",
@@ -42,7 +42,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_IN15.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_IN15.png"
 
 }, {
 "key": "traffic_sign",
@@ -50,7 +50,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_IN16.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_IN16.png"
 
 }, {
 "key": "traffic_sign",
@@ -58,7 +58,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_IN4.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_IN4.png"
 
 }, {
 "key": "traffic_sign",
@@ -66,7 +66,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_IN5.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_IN5.png"
 
 }, {
 "key": "traffic_sign",
@@ -74,7 +74,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_IN6.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_IN6.png"
 
 }, {
 "key": "traffic_sign",
@@ -82,7 +82,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_IN7.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_IN7.png"
 
 }, {
 "key": "traffic_sign",
@@ -90,7 +90,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R1.1.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R1.1.png"
 
 }, {
 "key": "traffic_sign",
@@ -98,7 +98,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R1.2.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R1.2.png"
 
 }, {
 "key": "traffic_sign",
@@ -106,7 +106,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R1.3.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R1.3.png"
 
 }, {
 "key": "traffic_sign",
@@ -114,7 +114,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R1.4.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R1.4.png"
 
 }, {
 "key": "traffic_sign",
@@ -122,7 +122,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R1.5.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R1.5.png"
 
 }, {
 "key": "traffic_sign",
@@ -130,7 +130,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R1.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R1.png"
 
 }, {
 "key": "traffic_sign",
@@ -138,7 +138,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R101.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R101.png"
 
 }, {
 "key": "traffic_sign",
@@ -146,7 +146,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R102.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R102.png"
 
 }, {
 "key": "traffic_sign",
@@ -154,7 +154,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R103.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R103.png"
 
 }, {
 "key": "traffic_sign",
@@ -162,7 +162,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R104.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R104.png"
 
 }, {
 "key": "traffic_sign",
@@ -170,7 +170,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R105.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R105.png"
 
 }, {
 "key": "traffic_sign",
@@ -178,7 +178,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R106.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R106.png"
 
 }, {
 "key": "traffic_sign",
@@ -186,7 +186,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R107.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R107.png"
 
 }, {
 "key": "traffic_sign",
@@ -194,7 +194,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R108.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R108.png"
 
 }, {
 "key": "traffic_sign",
@@ -202,7 +202,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R109.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R109.png"
 
 }, {
 "key": "traffic_sign",
@@ -210,7 +210,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R110.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R110.png"
 
 }, {
 "key": "traffic_sign",
@@ -218,7 +218,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R111.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R111.png"
 
 }, {
 "key": "traffic_sign",
@@ -226,7 +226,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R112.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R112.png"
 
 }, {
 "key": "traffic_sign",
@@ -234,7 +234,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R113.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R113.png"
 
 }, {
 "key": "traffic_sign",
@@ -242,7 +242,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R114.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R114.png"
 
 }, {
 "key": "traffic_sign",
@@ -250,7 +250,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R115.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R115.png"
 
 }, {
 "key": "traffic_sign",
@@ -258,7 +258,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R116.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R116.png"
 
 }, {
 "key": "traffic_sign",
@@ -266,7 +266,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R117.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R117.png"
 
 }, {
 "key": "traffic_sign",
@@ -274,7 +274,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R118.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R118.png"
 
 }, {
 "key": "traffic_sign",
@@ -282,7 +282,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R119.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R119.png"
 
 }, {
 "key": "traffic_sign",
@@ -290,7 +290,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R120.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R120.png"
 
 }, {
 "key": "traffic_sign",
@@ -298,7 +298,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R121.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R121.png"
 
 }, {
 "key": "traffic_sign",
@@ -306,7 +306,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R122.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R122.png"
 
 }, {
 "key": "traffic_sign",
@@ -314,7 +314,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R123.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R123.png"
 
 }, {
 "key": "traffic_sign",
@@ -322,7 +322,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R124.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R124.png"
 
 }, {
 "key": "traffic_sign",
@@ -330,7 +330,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R125.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R125.png"
 
 }, {
 "key": "traffic_sign",
@@ -338,7 +338,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R126.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R126.png"
 
 }, {
 "key": "traffic_sign",
@@ -346,7 +346,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R127.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R127.png"
 
 }, {
 "key": "traffic_sign",
@@ -354,7 +354,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R128.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R128.png"
 
 }, {
 "key": "traffic_sign",
@@ -362,7 +362,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R129.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R129.png"
 
 }, {
 "key": "traffic_sign",
@@ -370,7 +370,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R130.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R130.png"
 
 }, {
 "key": "traffic_sign",
@@ -378,7 +378,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R131.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R131.png"
 
 }, {
 "key": "traffic_sign",
@@ -386,7 +386,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R132-600.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R132-600.png"
 
 }, {
 "key": "traffic_sign",
@@ -394,7 +394,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R132.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R132.png"
 
 }, {
 "key": "traffic_sign",
@@ -402,7 +402,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R133-600.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R133-600.png"
 
 }, {
 "key": "traffic_sign",
@@ -410,7 +410,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R133.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R133.png"
 
 }, {
 "key": "traffic_sign",
@@ -418,7 +418,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R134.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R134.png"
 
 }, {
 "key": "traffic_sign",
@@ -426,7 +426,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R135.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R135.png"
 
 }, {
 "key": "traffic_sign",
@@ -434,7 +434,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R136.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R136.png"
 
 }, {
 "key": "traffic_sign",
@@ -442,7 +442,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R137.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R137.png"
 
 }, {
 "key": "traffic_sign",
@@ -450,7 +450,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R138.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R138.png"
 
 }, {
 "key": "traffic_sign",
@@ -458,7 +458,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R139.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R139.png"
 
 }, {
 "key": "traffic_sign",
@@ -466,7 +466,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R140.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R140.png"
 
 }, {
 "key": "traffic_sign",
@@ -474,7 +474,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R2.1.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R2.1.png"
 
 }, {
 "key": "traffic_sign",
@@ -482,7 +482,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R2.2.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R2.2.png"
 
 }, {
 "key": "traffic_sign",
@@ -490,7 +490,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R2.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R2.png"
 
 }, {
 "key": "traffic_sign",
@@ -498,7 +498,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-10.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-10.png"
 
 }, {
 "key": "traffic_sign",
@@ -506,7 +506,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-100-R512.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-100-R512.png"
 
 }, {
 "key": "traffic_sign",
@@ -514,7 +514,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-100.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-100.png"
 
 }, {
 "key": "traffic_sign",
@@ -522,7 +522,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-120-R511.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-120-R511.png"
 
 }, {
 "key": "traffic_sign",
@@ -530,7 +530,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-120.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-120.png"
 
 }, {
 "key": "traffic_sign",
@@ -538,7 +538,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-20.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-20.png"
 
 }, {
 "key": "traffic_sign",
@@ -546,7 +546,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-30.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-30.png"
 
 }, {
 "key": "traffic_sign",
@@ -554,7 +554,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-40.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-40.png"
 
 }, {
 "key": "traffic_sign",
@@ -562,7 +562,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-5.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-5.png"
 
 }, {
 "key": "traffic_sign",
@@ -570,7 +570,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-50.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-50.png"
 
 }, {
 "key": "traffic_sign",
@@ -578,7 +578,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-60.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-60.png"
 
 }, {
 "key": "traffic_sign",
@@ -586,7 +586,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-70.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-70.png"
 
 }, {
 "key": "traffic_sign",
@@ -594,7 +594,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-75.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-75.png"
 
 }, {
 "key": "traffic_sign",
@@ -602,7 +602,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-80.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-80.png"
 
 }, {
 "key": "traffic_sign",
@@ -610,7 +610,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R201-90.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R201-90.png"
 
 }, {
 "key": "traffic_sign",
@@ -618,7 +618,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R202.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R202.png"
 
 }, {
 "key": "traffic_sign",
@@ -626,7 +626,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R203.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R203.png"
 
 }, {
 "key": "traffic_sign",
@@ -634,7 +634,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R204.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R204.png"
 
 }, {
 "key": "traffic_sign",
@@ -642,7 +642,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R205.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R205.png"
 
 }, {
 "key": "traffic_sign",
@@ -650,7 +650,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R206.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R206.png"
 
 }, {
 "key": "traffic_sign",
@@ -658,7 +658,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R207.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R207.png"
 
 }, {
 "key": "traffic_sign",
@@ -666,7 +666,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R208.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R208.png"
 
 }, {
 "key": "traffic_sign",
@@ -674,7 +674,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R209.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R209.png"
 
 }, {
 "key": "traffic_sign",
@@ -682,7 +682,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R210.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R210.png"
 
 }, {
 "key": "traffic_sign",
@@ -690,7 +690,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R211.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R211.png"
 
 }, {
 "key": "traffic_sign",
@@ -698,7 +698,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R212.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R212.png"
 
 }, {
 "key": "traffic_sign",
@@ -706,7 +706,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R213.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R213.png"
 
 }, {
 "key": "traffic_sign",
@@ -714,7 +714,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R214.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R214.png"
 
 }, {
 "key": "traffic_sign",
@@ -722,7 +722,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R215.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R215.png"
 
 }, {
 "key": "traffic_sign",
@@ -730,7 +730,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R216.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R216.png"
 
 }, {
 "key": "traffic_sign",
@@ -738,7 +738,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R217.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R217.png"
 
 }, {
 "key": "traffic_sign",
@@ -746,7 +746,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R218.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R218.png"
 
 }, {
 "key": "traffic_sign",
@@ -754,7 +754,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R219.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R219.png"
 
 }, {
 "key": "traffic_sign",
@@ -762,7 +762,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R220.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R220.png"
 
 }, {
 "key": "traffic_sign",
@@ -770,7 +770,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R222.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R222.png"
 
 }, {
 "key": "traffic_sign",
@@ -778,7 +778,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R223.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R223.png"
 
 }, {
 "key": "traffic_sign",
@@ -786,7 +786,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R224.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R224.png"
 
 }, {
 "key": "traffic_sign",
@@ -794,7 +794,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R225.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R225.png"
 
 }, {
 "key": "traffic_sign",
@@ -802,7 +802,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R226.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R226.png"
 
 }, {
 "key": "traffic_sign",
@@ -810,7 +810,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R227.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R227.png"
 
 }, {
 "key": "traffic_sign",
@@ -818,7 +818,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R228.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R228.png"
 
 }, {
 "key": "traffic_sign",
@@ -826,7 +826,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R229.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R229.png"
 
 }, {
 "key": "traffic_sign",
@@ -834,7 +834,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R230.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R230.png"
 
 }, {
 "key": "traffic_sign",
@@ -842,7 +842,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R231.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R231.png"
 
 }, {
 "key": "traffic_sign",
@@ -850,7 +850,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R232.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R232.png"
 
 }, {
 "key": "traffic_sign",
@@ -858,7 +858,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R233.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R233.png"
 
 }, {
 "key": "traffic_sign",
@@ -866,7 +866,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R234.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R234.png"
 
 }, {
 "key": "traffic_sign",
@@ -874,7 +874,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R235.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R235.png"
 
 }, {
 "key": "traffic_sign",
@@ -882,7 +882,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R236.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R236.png"
 
 }, {
 "key": "traffic_sign",
@@ -890,7 +890,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R237.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R237.png"
 
 }, {
 "key": "traffic_sign",
@@ -898,7 +898,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R238.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R238.png"
 
 }, {
 "key": "traffic_sign",
@@ -906,7 +906,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R239.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R239.png"
 
 }, {
 "key": "traffic_sign",
@@ -914,7 +914,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R240.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R240.png"
 
 }, {
 "key": "traffic_sign",
@@ -922,7 +922,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R241.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R241.png"
 
 }, {
 "key": "traffic_sign",
@@ -930,7 +930,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R242.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R242.png"
 
 }, {
 "key": "traffic_sign",
@@ -938,7 +938,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R245.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R245.png"
 
 }, {
 "key": "traffic_sign",
@@ -946,7 +946,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R3.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R3.png"
 
 }, {
 "key": "traffic_sign",
@@ -954,7 +954,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R301-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R301-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -962,7 +962,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R301.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R301.png"
 
 }, {
 "key": "traffic_sign",
@@ -970,7 +970,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R302.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R302.png"
 
 }, {
 "key": "traffic_sign",
@@ -978,7 +978,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R303.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R303.png"
 
 }, {
 "key": "traffic_sign",
@@ -986,7 +986,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R304-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R304-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -994,7 +994,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R304.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R304.png"
 
 }, {
 "key": "traffic_sign",
@@ -1002,7 +1002,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R305-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R305-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1010,7 +1010,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R306-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R306-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1018,7 +1018,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R307-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R307-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1026,7 +1026,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R307.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R307.png"
 
 }, {
 "key": "traffic_sign",
@@ -1034,7 +1034,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R308-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R308-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1042,7 +1042,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R308.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R308.png"
 
 }, {
 "key": "traffic_sign",
@@ -1050,7 +1050,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R309-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R309-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1058,7 +1058,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R309.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R309.png"
 
 }, {
 "key": "traffic_sign",
@@ -1066,7 +1066,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R310-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R310-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1074,7 +1074,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R310.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R310.png"
 
 }, {
 "key": "traffic_sign",
@@ -1082,7 +1082,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R311-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R311-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1090,7 +1090,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R311.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R311.png"
 
 }, {
 "key": "traffic_sign",
@@ -1098,7 +1098,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R312-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R312-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1106,7 +1106,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R312.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R312.png"
 
 }, {
 "key": "traffic_sign",
@@ -1114,7 +1114,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R313-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R313-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1122,7 +1122,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R313.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R313.png"
 
 }, {
 "key": "traffic_sign",
@@ -1130,7 +1130,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R314-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R314-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1138,7 +1138,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R314.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R314.png"
 
 }, {
 "key": "traffic_sign",
@@ -1146,7 +1146,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R315-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R315-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1154,7 +1154,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R315.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R315.png"
 
 }, {
 "key": "traffic_sign",
@@ -1162,7 +1162,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R316-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R316-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1170,7 +1170,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R316.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R316.png"
 
 }, {
 "key": "traffic_sign",
@@ -1178,7 +1178,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R317-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R317-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1186,7 +1186,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R317.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R317.png"
 
 }, {
 "key": "traffic_sign",
@@ -1194,7 +1194,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R318-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R318-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1202,7 +1202,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R318.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R318.png"
 
 }, {
 "key": "traffic_sign",
@@ -1210,7 +1210,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R319-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R319-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1218,7 +1218,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R319.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R319.png"
 
 }, {
 "key": "traffic_sign",
@@ -1226,7 +1226,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R320-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R320-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1234,7 +1234,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R320.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R320.png"
 
 }, {
 "key": "traffic_sign",
@@ -1242,7 +1242,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R321-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R321-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1250,7 +1250,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R321.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R321.png"
 
 }, {
 "key": "traffic_sign",
@@ -1258,7 +1258,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R322-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R322-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1266,7 +1266,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R322.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R322.png"
 
 }, {
 "key": "traffic_sign",
@@ -1274,7 +1274,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R323-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R323-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1282,7 +1282,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R323.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R323.png"
 
 }, {
 "key": "traffic_sign",
@@ -1290,7 +1290,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R324-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R324-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1298,7 +1298,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R324.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R324.png"
 
 }, {
 "key": "traffic_sign",
@@ -1306,7 +1306,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R325.1.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R325.1.png"
 
 }, {
 "key": "traffic_sign",
@@ -1314,7 +1314,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R325.2.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R325.2.png"
 
 }, {
 "key": "traffic_sign",
@@ -1322,7 +1322,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R325.3.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R325.3.png"
 
 }, {
 "key": "traffic_sign",
@@ -1330,7 +1330,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R325.4.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R325.4.png"
 
 }, {
 "key": "traffic_sign",
@@ -1338,7 +1338,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R326.1.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R326.1.png"
 
 }, {
 "key": "traffic_sign",
@@ -1346,7 +1346,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R326.2.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R326.2.png"
 
 }, {
 "key": "traffic_sign",
@@ -1354,7 +1354,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R326.3.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R326.3.png"
 
 }, {
 "key": "traffic_sign",
@@ -1362,7 +1362,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R326.4.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R326.4.png"
 
 }, {
 "key": "traffic_sign",
@@ -1370,7 +1370,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R327-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R327-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1378,7 +1378,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R327.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R327.png"
 
 }, {
 "key": "traffic_sign",
@@ -1386,7 +1386,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R328.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R328.png"
 
 }, {
 "key": "traffic_sign",
@@ -1394,7 +1394,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R329.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R329.png"
 
 }, {
 "key": "traffic_sign",
@@ -1402,7 +1402,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R330-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R330-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1410,7 +1410,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R330.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R330.png"
 
 }, {
 "key": "traffic_sign",
@@ -1418,7 +1418,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R331.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R331.png"
 
 }, {
 "key": "traffic_sign",
@@ -1426,7 +1426,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R332.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R332.png"
 
 }, {
 "key": "traffic_sign",
@@ -1434,7 +1434,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R333-P.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R333-P.png"
 
 }, {
 "key": "traffic_sign",
@@ -1442,7 +1442,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R333.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R333.png"
 
 }, {
 "key": "traffic_sign",
@@ -1450,7 +1450,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R334.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R334.png"
 
 }, {
 "key": "traffic_sign",
@@ -1458,7 +1458,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R335.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R335.png"
 
 }, {
 "key": "traffic_sign",
@@ -1466,7 +1466,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R336.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R336.png"
 
 }, {
 "key": "traffic_sign",
@@ -1474,7 +1474,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R337.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R337.png"
 
 }, {
 "key": "traffic_sign",
@@ -1482,7 +1482,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R338.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R338.png"
 
 }, {
 "key": "traffic_sign",
@@ -1490,7 +1490,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R339.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R339.png"
 
 }, {
 "key": "traffic_sign",
@@ -1498,7 +1498,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R340.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R340.png"
 
 }, {
 "key": "traffic_sign",
@@ -1506,7 +1506,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R342.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R342.png"
 
 }, {
 "key": "traffic_sign",
@@ -1514,7 +1514,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R343.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R343.png"
 
 }, {
 "key": "traffic_sign",
@@ -1522,7 +1522,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R344.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R344.png"
 
 }, {
 "key": "traffic_sign",
@@ -1530,7 +1530,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R345.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R345.png"
 
 }, {
 "key": "traffic_sign",
@@ -1538,7 +1538,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R346.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R346.png"
 
 }, {
 "key": "traffic_sign",
@@ -1546,7 +1546,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R347.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R347.png"
 
 }, {
 "key": "traffic_sign",
@@ -1554,7 +1554,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R348.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R348.png"
 
 }, {
 "key": "traffic_sign",
@@ -1562,7 +1562,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R349.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R349.png"
 
 }, {
 "key": "traffic_sign",
@@ -1570,7 +1570,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R350.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R350.png"
 
 }, {
 "key": "traffic_sign",
@@ -1578,7 +1578,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R351.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R351.png"
 
 }, {
 "key": "traffic_sign",
@@ -1586,7 +1586,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R352.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R352.png"
 
 }, {
 "key": "traffic_sign",
@@ -1594,7 +1594,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R353.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R353.png"
 
 }, {
 "key": "traffic_sign",
@@ -1602,7 +1602,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R354.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R354.png"
 
 }, {
 "key": "traffic_sign",
@@ -1610,7 +1610,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R4.1.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R4.1.png"
 
 }, {
 "key": "traffic_sign",
@@ -1618,7 +1618,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R4.2.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R4.2.png"
 
 }, {
 "key": "traffic_sign",
@@ -1626,7 +1626,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R4.3.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R4.3.png"
 
 }, {
 "key": "traffic_sign",
@@ -1634,7 +1634,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R401-600.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R401-600.png"
 
 }, {
 "key": "traffic_sign",
@@ -1642,7 +1642,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R401.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R401.png"
 
 }, {
 "key": "traffic_sign",
@@ -1650,7 +1650,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R402-600.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R402-600.png"
 
 }, {
 "key": "traffic_sign",
@@ -1658,7 +1658,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R402.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R402.png"
 
 }, {
 "key": "traffic_sign",
@@ -1666,7 +1666,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R403-600.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R403-600.png"
 
 }, {
 "key": "traffic_sign",
@@ -1674,7 +1674,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R403.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R403.png"
 
 }, {
 "key": "traffic_sign",
@@ -1682,7 +1682,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R5.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R5.png"
 
 }, {
 "key": "traffic_sign",
@@ -1690,7 +1690,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R501-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R501-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1698,7 +1698,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R501.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R501.png"
 
 }, {
 "key": "traffic_sign",
@@ -1706,7 +1706,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R502-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R502-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1714,7 +1714,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R502.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R502.png"
 
 }, {
 "key": "traffic_sign",
@@ -1722,7 +1722,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R503-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R503-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1730,7 +1730,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R503.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R503.png"
 
 }, {
 "key": "traffic_sign",
@@ -1738,7 +1738,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R504-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R504-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1746,7 +1746,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R504.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R504.png"
 
 }, {
 "key": "traffic_sign",
@@ -1754,7 +1754,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R505.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R505.png"
 
 }, {
 "key": "traffic_sign",
@@ -1762,7 +1762,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R506.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R506.png"
 
 }, {
 "key": "traffic_sign",
@@ -1770,7 +1770,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R511-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R511-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1778,7 +1778,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R511.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R511.png"
 
 }, {
 "key": "traffic_sign",
@@ -1786,7 +1786,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R512-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R512-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1794,7 +1794,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R512.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R512.png"
 
 }, {
 "key": "traffic_sign",
@@ -1802,7 +1802,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R520-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R520-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1810,7 +1810,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R520.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R520.png"
 
 }, {
 "key": "traffic_sign",
@@ -1818,7 +1818,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R521-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R521-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1826,7 +1826,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R521.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R521.png"
 
 }, {
 "key": "traffic_sign",
@@ -1834,7 +1834,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R522-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R522-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1842,7 +1842,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R522.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R522.png"
 
 }, {
 "key": "traffic_sign",
@@ -1850,7 +1850,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R523.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R523.png"
 
 }, {
 "key": "traffic_sign",
@@ -1858,7 +1858,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R532-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R532-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1866,7 +1866,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R532.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R532.png"
 
 }, {
 "key": "traffic_sign",
@@ -1874,7 +1874,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R533-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R533-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1882,7 +1882,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R533.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R533.png"
 
 }, {
 "key": "traffic_sign",
@@ -1890,7 +1890,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R534.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R534.png"
 
 }, {
 "key": "traffic_sign",
@@ -1898,7 +1898,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R535-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R535-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1906,7 +1906,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R535.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R535.png"
 
 }, {
 "key": "traffic_sign",
@@ -1914,7 +1914,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R540.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R540.png"
 
 }, {
 "key": "traffic_sign",
@@ -1922,7 +1922,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R560-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R560-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1930,7 +1930,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R560.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R560.png"
 
 }, {
 "key": "traffic_sign",
@@ -1938,7 +1938,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R561-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R561-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1946,7 +1946,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R561.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R561.png"
 
 }, {
 "key": "traffic_sign",
@@ -1954,7 +1954,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R562-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R562-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1962,7 +1962,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R562.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R562.png"
 
 }, {
 "key": "traffic_sign",
@@ -1970,7 +1970,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R563-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R563-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1978,7 +1978,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R563.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R563.png"
 
 }, {
 "key": "traffic_sign",
@@ -1986,7 +1986,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R564-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R564-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -1994,7 +1994,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R564.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R564.png"
 
 }, {
 "key": "traffic_sign",
@@ -2002,7 +2002,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R565-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R565-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2010,7 +2010,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R565.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R565.png"
 
 }, {
 "key": "traffic_sign",
@@ -2018,7 +2018,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R566-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R566-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2026,7 +2026,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R566.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R566.png"
 
 }, {
 "key": "traffic_sign",
@@ -2034,7 +2034,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R567-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R567-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2042,7 +2042,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R567.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R567.png"
 
 }, {
 "key": "traffic_sign",
@@ -2050,7 +2050,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R568-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R568-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2058,7 +2058,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R568.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R568.png"
 
 }, {
 "key": "traffic_sign",
@@ -2066,7 +2066,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R569-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R569-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2074,7 +2074,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R569.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R569.png"
 
 }, {
 "key": "traffic_sign",
@@ -2082,7 +2082,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R570-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R570-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2090,7 +2090,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R570.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R570.png"
 
 }, {
 "key": "traffic_sign",
@@ -2098,7 +2098,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R571-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R571-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2106,7 +2106,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R571.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R571.png"
 
 }, {
 "key": "traffic_sign",
@@ -2114,7 +2114,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R572-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R572-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2122,7 +2122,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R572.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R572.png"
 
 }, {
 "key": "traffic_sign",
@@ -2130,7 +2130,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R573-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R573-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2138,7 +2138,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R573.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R573.png"
 
 }, {
 "key": "traffic_sign",
@@ -2146,7 +2146,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R574-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R574-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2154,7 +2154,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R574.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R574.png"
 
 }, {
 "key": "traffic_sign",
@@ -2162,7 +2162,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R575-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R575-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2170,7 +2170,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R575.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R575.png"
 
 }, {
 "key": "traffic_sign",
@@ -2178,7 +2178,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R576-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R576-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2186,7 +2186,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R576.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R576.png"
 
 }, {
 "key": "traffic_sign",
@@ -2194,7 +2194,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R577-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R577-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2202,7 +2202,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R577.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R577.png"
 
 }, {
 "key": "traffic_sign",
@@ -2210,7 +2210,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R578-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R578-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2218,7 +2218,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R578.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R578.png"
 
 }, {
 "key": "traffic_sign",
@@ -2226,7 +2226,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R579-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R579-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2234,7 +2234,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R579.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R579.png"
 
 }, {
 "key": "traffic_sign",
@@ -2242,7 +2242,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R580-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R580-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2250,7 +2250,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R580.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R580.png"
 
 }, {
 "key": "traffic_sign",
@@ -2258,7 +2258,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R581-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R581-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2266,7 +2266,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R581.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R581.png"
 
 }, {
 "key": "traffic_sign",
@@ -2274,7 +2274,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R582-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R582-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2282,7 +2282,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R582.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R582.png"
 
 }, {
 "key": "traffic_sign",
@@ -2290,7 +2290,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R583-B.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R583-B.png"
 
 }, {
 "key": "traffic_sign",
@@ -2298,7 +2298,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R583.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R583.png"
 
 }, {
 "key": "traffic_sign",
@@ -2306,7 +2306,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_R6.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_R6.png"
 
 }, {
 "key": "traffic_sign",
@@ -2314,7 +2314,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W101.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W101.png"
 
 }, {
 "key": "traffic_sign",
@@ -2322,7 +2322,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W102.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W102.png"
 
 }, {
 "key": "traffic_sign",
@@ -2330,7 +2330,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W103.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W103.png"
 
 }, {
 "key": "traffic_sign",
@@ -2338,7 +2338,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W104.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W104.png"
 
 }, {
 "key": "traffic_sign",
@@ -2346,7 +2346,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W105.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W105.png"
 
 }, {
 "key": "traffic_sign",
@@ -2354,7 +2354,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W106.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W106.png"
 
 }, {
 "key": "traffic_sign",
@@ -2362,7 +2362,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W107.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W107.png"
 
 }, {
 "key": "traffic_sign",
@@ -2370,7 +2370,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W108.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W108.png"
 
 }, {
 "key": "traffic_sign",
@@ -2378,7 +2378,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W109.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W109.png"
 
 }, {
 "key": "traffic_sign",
@@ -2386,7 +2386,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W110.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W110.png"
 
 }, {
 "key": "traffic_sign",
@@ -2394,7 +2394,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W111.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W111.png"
 
 }, {
 "key": "traffic_sign",
@@ -2402,7 +2402,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W112.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W112.png"
 
 }, {
 "key": "traffic_sign",
@@ -2410,7 +2410,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W113.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W113.png"
 
 }, {
 "key": "traffic_sign",
@@ -2418,7 +2418,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W114.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W114.png"
 
 }, {
 "key": "traffic_sign",
@@ -2426,7 +2426,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W115.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W115.png"
 
 }, {
 "key": "traffic_sign",
@@ -2434,7 +2434,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W116.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W116.png"
 
 }, {
 "key": "traffic_sign",
@@ -2442,7 +2442,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W117.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W117.png"
 
 }, {
 "key": "traffic_sign",
@@ -2450,7 +2450,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W118.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W118.png"
 
 }, {
 "key": "traffic_sign",
@@ -2458,7 +2458,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W119.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W119.png"
 
 }, {
 "key": "traffic_sign",
@@ -2466,7 +2466,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W201.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W201.png"
 
 }, {
 "key": "traffic_sign",
@@ -2474,7 +2474,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W202.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W202.png"
 
 }, {
 "key": "traffic_sign",
@@ -2482,7 +2482,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W203.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W203.png"
 
 }, {
 "key": "traffic_sign",
@@ -2490,7 +2490,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W204.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W204.png"
 
 }, {
 "key": "traffic_sign",
@@ -2498,7 +2498,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W205.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W205.png"
 
 }, {
 "key": "traffic_sign",
@@ -2506,7 +2506,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W206.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W206.png"
 
 }, {
 "key": "traffic_sign",
@@ -2514,7 +2514,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W207.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W207.png"
 
 }, {
 "key": "traffic_sign",
@@ -2522,7 +2522,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W208.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W208.png"
 
 }, {
 "key": "traffic_sign",
@@ -2530,7 +2530,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W209.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W209.png"
 
 }, {
 "key": "traffic_sign",
@@ -2538,7 +2538,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W210.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W210.png"
 
 }, {
 "key": "traffic_sign",
@@ -2546,7 +2546,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W211.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W211.png"
 
 }, {
 "key": "traffic_sign",
@@ -2554,7 +2554,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W212.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W212.png"
 
 }, {
 "key": "traffic_sign",
@@ -2562,7 +2562,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W213.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W213.png"
 
 }, {
 "key": "traffic_sign",
@@ -2570,7 +2570,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W214.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W214.png"
 
 }, {
 "key": "traffic_sign",
@@ -2578,7 +2578,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W215.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W215.png"
 
 }, {
 "key": "traffic_sign",
@@ -2586,7 +2586,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W216.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W216.png"
 
 }, {
 "key": "traffic_sign",
@@ -2594,7 +2594,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W217.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W217.png"
 
 }, {
 "key": "traffic_sign",
@@ -2602,7 +2602,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W218.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W218.png"
 
 }, {
 "key": "traffic_sign",
@@ -2610,7 +2610,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W301.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W301.png"
 
 }, {
 "key": "traffic_sign",
@@ -2618,7 +2618,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W302.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W302.png"
 
 }, {
 "key": "traffic_sign",
@@ -2626,7 +2626,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W303.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W303.png"
 
 }, {
 "key": "traffic_sign",
@@ -2634,7 +2634,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W306.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W306.png"
 
 }, {
 "key": "traffic_sign",
@@ -2642,7 +2642,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W307.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W307.png"
 
 }, {
 "key": "traffic_sign",
@@ -2650,7 +2650,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W308.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W308.png"
 
 }, {
 "key": "traffic_sign",
@@ -2658,7 +2658,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W309.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W309.png"
 
 }, {
 "key": "traffic_sign",
@@ -2666,7 +2666,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W310.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W310.png"
 
 }, {
 "key": "traffic_sign",
@@ -2674,7 +2674,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W311.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W311.png"
 
 }, {
 "key": "traffic_sign",
@@ -2682,7 +2682,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W312.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W312.png"
 
 }, {
 "key": "traffic_sign",
@@ -2690,7 +2690,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W313.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W313.png"
 
 }, {
 "key": "traffic_sign",
@@ -2698,7 +2698,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W314.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W314.png"
 
 }, {
 "key": "traffic_sign",
@@ -2706,7 +2706,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W315.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W315.png"
 
 }, {
 "key": "traffic_sign",
@@ -2714,7 +2714,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W316.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W316.png"
 
 }, {
 "key": "traffic_sign",
@@ -2722,7 +2722,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W317.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W317.png"
 
 }, {
 "key": "traffic_sign",
@@ -2730,7 +2730,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W318.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W318.png"
 
 }, {
 "key": "traffic_sign",
@@ -2738,7 +2738,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W319.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W319.png"
 
 }, {
 "key": "traffic_sign",
@@ -2746,7 +2746,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W320.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W320.png"
 
 }, {
 "key": "traffic_sign",
@@ -2754,7 +2754,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W321.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W321.png"
 
 }, {
 "key": "traffic_sign",
@@ -2762,7 +2762,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W322.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W322.png"
 
 }, {
 "key": "traffic_sign",
@@ -2770,7 +2770,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W323.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W323.png"
 
 }, {
 "key": "traffic_sign",
@@ -2778,7 +2778,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W324.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W324.png"
 
 }, {
 "key": "traffic_sign",
@@ -2786,7 +2786,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W325.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W325.png"
 
 }, {
 "key": "traffic_sign",
@@ -2794,7 +2794,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W326.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W326.png"
 
 }, {
 "key": "traffic_sign",
@@ -2802,7 +2802,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W327.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W327.png"
 
 }, {
 "key": "traffic_sign",
@@ -2810,7 +2810,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W328.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W328.png"
 
 }, {
 "key": "traffic_sign",
@@ -2818,7 +2818,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W329.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W329.png"
 
 }, {
 "key": "traffic_sign",
@@ -2826,7 +2826,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W330.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W330.png"
 
 }, {
 "key": "traffic_sign",
@@ -2834,7 +2834,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W331.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W331.png"
 
 }, {
 "key": "traffic_sign",
@@ -2842,7 +2842,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W332.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W332.png"
 
 }, {
 "key": "traffic_sign",
@@ -2850,7 +2850,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W333.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W333.png"
 
 }, {
 "key": "traffic_sign",
@@ -2858,7 +2858,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W334.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W334.png"
 
 }, {
 "key": "traffic_sign",
@@ -2866,7 +2866,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W335.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W335.png"
 
 }, {
 "key": "traffic_sign",
@@ -2874,7 +2874,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W339.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W339.png"
 
 }, {
 "key": "traffic_sign",
@@ -2882,7 +2882,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W346.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W346.png"
 
 }, {
 "key": "traffic_sign",
@@ -2890,7 +2890,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W348.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W348.png"
 
 }, {
 "key": "traffic_sign",
@@ -2898,7 +2898,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W349.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W349.png"
 
 }, {
 "key": "traffic_sign",
@@ -2906,7 +2906,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W350.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W350.png"
 
 }, {
 "key": "traffic_sign",
@@ -2914,7 +2914,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W351.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W351.png"
 
 }, {
 "key": "traffic_sign",
@@ -2922,7 +2922,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W352.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W352.png"
 
 }, {
 "key": "traffic_sign",
@@ -2930,7 +2930,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W354.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W354.png"
 
 }, {
 "key": "traffic_sign",
@@ -2938,7 +2938,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W355.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W355.png"
 
 }, {
 "key": "traffic_sign",
@@ -2946,7 +2946,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W356.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W356.png"
 
 }, {
 "key": "traffic_sign",
@@ -2954,7 +2954,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W357.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W357.png"
 
 }, {
 "key": "traffic_sign",
@@ -2962,7 +2962,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W358.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W358.png"
 
 }, {
 "key": "traffic_sign",
@@ -2970,7 +2970,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W359.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W359.png"
 
 }, {
 "key": "traffic_sign",
@@ -2978,7 +2978,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W360.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W360.png"
 
 }, {
 "key": "traffic_sign",
@@ -2986,7 +2986,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W361.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W361.png"
 
 }, {
 "key": "traffic_sign",
@@ -2994,7 +2994,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W362.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W362.png"
 
 }, {
 "key": "traffic_sign",
@@ -3002,7 +3002,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W363.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W363.png"
 
 }, {
 "key": "traffic_sign",
@@ -3010,7 +3010,7 @@
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
 "doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR_OR/RS/ ZA_W365.png"
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_AFR/ZA/ZA_W365.png"
 
 		}, {
 		
