@@ -3,7 +3,7 @@
 	"data_url":"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_pac.json",
 	"project":{
 		"name":"Traffic_signs_PAC",
-		"description":"StyleandpresetinJOSMtomakeeasiertheuseandintroductionoftrafficsignsofthePacificZoneinOpenStreetMapviaJOSM",
+		"description":"Style and preset in JOSM to make easier the use and introduction of traffic signs of the Pacific Zone in OpenStreetMap via JOSM",
 		"project_url":"https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging",
 		"doc_url":"https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging#Tools",
 		"icon_url":"https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/ES/ES_road_beacon_big.png",
@@ -17,7 +17,7 @@
 			"key":"aerialway",
 			"value":"cable_car",
 			"object_types":["way","area","node","relation"],
-			"description":"UsedinSearchresults,Nearestcommand(searchwithemoji)andInlinebot",
+			"description":"Test",
 			"doc_url":"http://wiki.openstreetmap.org/wiki/Tag:aerialway%3Dcable_car",
 			"icon_url":"http://emojipedia-us.s3.amazonaws.com/cache/53/db/53db31a71187838c69baff5576dfa27b.png"
 },
