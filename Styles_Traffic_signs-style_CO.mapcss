@@ -6,7 +6,7 @@ meta
 	title: "Traffic Signs_CO";
 	version: '5.2023-07-20';
 	author: "yopaseopor";
-	icon: "CO/CO_.svg";
+	icon: "CO/CO_.png";
 	description: "Display all the signs included in OSM database for Colombia. Specially recommended with roadsigns plugin and traffic_signs presets.";
     link: "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging#Traffic_signs_JOSM_style";
 	/* Based on Speedlimit Signs from Martin Koppenhoefer. Code conversion from xml to mapcss by Xavier Barnada and Don-Vip. Tested by stoecker. Method of List of traffic signs by Esther OSMCAT.  Images from Wikimedia Commons and OSM Wiki  */
