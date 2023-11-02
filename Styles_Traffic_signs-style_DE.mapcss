@@ -2,27 +2,27 @@
 meta
 {
 	title: "Traffic Signs_DE";
-	version: '5.2020-10-09';
+	version: '6.2023-11-01';
 	author: "yopaseopor";
 	icon: "DE/DE_.svg";
 	description: "Display all the signs included in OSM database for Germany. Specially recommended with roadsigns plugin and traffic_signs presets.";
     link: "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging#Traffic_signs_JOSM_style";
-	/* Based on Speedlimit Signs from Martin Koppenhoefer. Code conversion from xml to mapcss by Xavier Barnada and Don-Vip. Tested by stoecker. Method of List of traffic signs by Esther OSMCAT.  Images from Wikimedia Commons and OSM Wiki  */
+	/* Based on Speedlimit Signs from Martin Koppenhoefer. Code conversion from xml to mapcss by Xavier Barnada and Don-Vip. Tested by stoecker. Method of List of traffic signs by Lanxana.  Images from Wikimedia Commons and OSM Wiki  */
 }
 meta[lang=ca]
 {
 title: "Senyals Trànsit_DE";
-description: "Mostra els senyals de trànsit introduits a OSM d'Alemanya.Especialment recomanat amb el complement roadsigns preset Espanya i el preset Traffic_signs de JOSM.";
+description: "Mostra els senyals de trànsit introduits a OSM d'Alemanya. Especialment recomanat amb el complement roadsigns i el preset Traffic_signs de JOSM.";
 }
 meta[lang=de]
 {
-title: "Verkehrszeichen_EUR_OC";
+title: "Verkehrszeichen_DE";
 description: "Zeigt alle in OSM enthaltenen Verkehrszeichen an. Inbesondere zusammen mit dem RoadSigns-Plugin empfohlen.";
 }
 meta[lang=es]
 {
-title: "Señales Tráfico_EUR_OC";
-description: "Muestra las señales de tráfico introducidas en OSM en toda Alemania.Especialmente recomendado con el plugin roadsigns preset España y preset Traffic_signs de JOSM.";
+title: "Señales Tráfico_DE";
+description: "Muestra las señales de tráfico introducidas en OSM en toda Alemania. Especialmente recomendado con el plugin roadsigns y preset Traffic_signs de JOSM.";
 }
 
 
