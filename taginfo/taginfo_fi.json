@@ -6,19 +6,12 @@
    		"description": "Style and preset in JOSM to make easier the use and introduction of Finland traffic signs in OpenStreetMap via JOSM",
    		"project_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging",
    		"doc_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging/Tools#Taginfo_project",
-   		"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_.png",
+   		"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/FI/FI_.png",
    		"contact_name": "yopaseopor",
    		"contact_email": "yopaseopor@gmail.com"
    	},
    	"tags": [{
 "key": "traffic_sign",
-"value": "FI:",
-"object_types": ["way", "area", "node", "relation"],
-"description": "",
-"doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/FI/FI_.png"
-}, {
-"key": "traffic_sign",
 "value": "FI:111",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
@@ -2063,13 +2056,6 @@
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/FI/FI_880.png"
 }, {
 "key": "traffic_sign:2",
-"value": "FI:",
-"object_types": ["way", "area", "node", "relation"],
-"description": "",
-"doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/FI/FI_.png"
-}, {
-"key": "traffic_sign:2",
 "value": "FI:111",
 "object_types": ["way", "area", "node", "relation"],
 "description": "",
@@ -4112,13 +4098,6 @@
 "description": "",
 "doc_url": "",
 "icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/FI/FI_880.png"
-}, {
-"key": "traffic_sign:3",
-"value": "FI:",
-"object_types": ["way", "area", "node", "relation"],
-"description": "",
-"doc_url": "",
-"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/FI/FI_.png"
 }, {
 "key": "traffic_sign:3",
 "value": "FI:111",
