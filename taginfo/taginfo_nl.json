@@ -1,0 +1,3992 @@
+   {
+   	"data_format": 1,
+   	"data_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_nl.json",
+   	"project": {
+   		"name": "Traffic_signs_NL",
+   		"description": "Style and preset in JOSM to make easier the use and introduction of the Netherlands traffic signs in OpenStreetMap via JOSM",
+   		"project_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging",
+   		"doc_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging/Tools#Taginfo_project",
+   		"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_.png",
+   		"contact_name": "yopaseopor",
+   		"contact_email": "yopaseopor@gmail.com"
+   	},
+   	"tags": [{
+"key": "traffic_sign",
+"value": "NL:",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:A1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:A1:30:ZB",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A1_30_ZB.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:A2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:A3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:A4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:A5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B6:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B6_mb.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:B7:(old)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B7_(old).png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C10.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C11.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C12.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C13.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C14.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C15.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C16.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C17.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C18.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C19",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C19.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C1:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C1_mb.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C20",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C20.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C21",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C21.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C22",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C22a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22a.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C22b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22b.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C23-01",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-01.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C23-02",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-02.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C23-03",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-03.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C2:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C2_mb.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C4l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4l.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C4r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4r.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C7a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7a.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C7b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7b.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C8.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:C9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C9.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D5l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5l.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D5r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5r.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D6l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6l.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D6r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6r.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:D7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E10.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E11.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E12.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E13.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E1:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E1_mb.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E2:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E2_mb.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E8.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:E9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E9.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F10a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10a.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F10:(v1)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10_(v1).png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F10:(v2)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10_(v2).png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F8.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:F9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F9.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G10.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G11.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G12a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12a.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G12b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12b.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G13.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G14.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G8.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:G9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G9.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:H1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_H1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:H2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_H2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J10.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J11.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J12.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J13.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J14.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J15.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J16.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J17.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J18.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J19",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J19.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J20",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J20.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J21",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J21.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J22",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J22.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J23",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J23.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J24",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J24.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J25",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J25.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J26",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J26.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J27",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J27.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J28",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J28.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J29",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J29.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J30",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J30.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J31",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J31.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J32",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J32.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J33",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J33.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J34",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J34.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J35",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J35.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J36",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J36.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J37",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J37:(old)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37_(old).png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J37:zonder:onderbord",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37_zonder_onderbord.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J38",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J38.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J39",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J39.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J8.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:J9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J9.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K10.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K11.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K12.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K13.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K14.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K2:2010",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K2_2010.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K4:2010",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K4_2010.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K8.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:K9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K9.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L1.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L10.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L11.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L12.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L13.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L14.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L15.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L16.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L17.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L18.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L19l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L19l.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L19r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L19r.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L2.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L3a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3a.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L3b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3b.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L3c",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3c.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L3:2011:bushalte",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3_2011_bushalte.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L4.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L5.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L6.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L7.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L8.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L9l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9l.png"
+}, {
+"key": "traffic_sign",
+"value": "NL:L9r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9r.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:A1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:A1:30:ZB",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A1_30_ZB.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:A2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:A3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:A4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:A5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B6:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B6_mb.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:B7:(old)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B7_(old).png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C10.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C11.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C12.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C13.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C14.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C15.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C16.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C17.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C18.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C19",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C19.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C1:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C1_mb.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C20",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C20.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C21",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C21.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C22",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C22a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22a.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C22b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22b.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C23-01",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-01.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C23-02",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-02.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C23-03",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-03.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C2:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C2_mb.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C4l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4l.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C4r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4r.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C7a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7a.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C7b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7b.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C8.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:C9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C9.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D5l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5l.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D5r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5r.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D6l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6l.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D6r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6r.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:D7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E10.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E11.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E12.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E13.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E1:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E1_mb.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E2:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E2_mb.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E8.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:E9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E9.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F10a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10a.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F10:(v1)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10_(v1).png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F10:(v2)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10_(v2).png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F8.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:F9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F9.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G10.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G11.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G12a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12a.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G12b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12b.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G13.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G14.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G8.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:G9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G9.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:H1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_H1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:H2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_H2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J10.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J11.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J12.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J13.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J14.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J15.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J16.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J17.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J18.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J19",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J19.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J20",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J20.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J21",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J21.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J22",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J22.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J23",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J23.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J24",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J24.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J25",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J25.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J26",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J26.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J27",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J27.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J28",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J28.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J29",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J29.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J30",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J30.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J31",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J31.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J32",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J32.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J33",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J33.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J34",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J34.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J35",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J35.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J36",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J36.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J37",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J37:(old)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37_(old).png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J37:zonder:onderbord",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37_zonder_onderbord.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J38",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J38.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J39",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J39.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J8.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:J9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J9.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K10.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K11.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K12.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K13.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K14.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K2:2010",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K2_2010.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K4:2010",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K4_2010.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K8.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:K9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K9.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L1.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L10.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L11.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L12.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L13.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L14.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L15.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L16.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L17.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L18.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L19l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L19l.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L19r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L19r.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L2.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L3a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3a.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L3b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3b.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L3c",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3c.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L3:2011:bushalte",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3_2011_bushalte.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L4.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L5.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L6.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L7.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L8.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L9l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9l.png"
+}, {
+"key": "traffic_sign:2",
+"value": "NL:L9r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9r.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:A1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:A1:30:ZB",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A1_30_ZB.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:A2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:A3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:A4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:A5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_A5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B6:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B6_mb.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:B7:(old)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_B7_(old).png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C10.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C11.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C12.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C13.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C14.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C15.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C16.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C17.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C18.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C19",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C19.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C1:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C1_mb.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C20",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C20.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C21",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C21.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C22",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C22a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22a.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C22b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C22b.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C23-01",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-01.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C23-02",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-02.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C23-03",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C23-03.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C2:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C2_mb.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C4l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4l.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C4r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C4r.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C7a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7a.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C7b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C7b.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C8.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:C9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_C9.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D5l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5l.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D5r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D5r.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D6l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6l.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D6r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D6r.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:D7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_D7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E10.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E11.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E12.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E13.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E1:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E1_mb.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E2:mb",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E2_mb.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E8.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:E9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_E9.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F10a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10a.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F10:(v1)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10_(v1).png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F10:(v2)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F10_(v2).png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F8.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:F9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_F9.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G10.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G11.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G12a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12a.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G12b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G12b.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G13.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G14.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G8.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:G9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_G9.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:H1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_H1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:H2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_H2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J10.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J11.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J12.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J13.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J14.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J15.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J16.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J17.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J18.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J19",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J19.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J20",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J20.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J21",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J21.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J22",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J22.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J23",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J23.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J24",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J24.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J25",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J25.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J26",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J26.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J27",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J27.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J28",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J28.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J29",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J29.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J30",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J30.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J31",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J31.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J32",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J32.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J33",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J33.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J34",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J34.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J35",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J35.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J36",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J36.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J37",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J37:(old)",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37_(old).png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J37:zonder:onderbord",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J37_zonder_onderbord.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J38",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J38.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J39",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J39.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J8.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:J9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_J9.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K10.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K11.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K12.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K13.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K14.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K2:2010",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K2_2010.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K4:2010",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K4_2010.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K8.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:K9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_K9.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L1.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L10.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L11.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L12.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L13.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L14.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L15.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L16.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L17.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L18.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L19l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L19l.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L19r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L19r.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L2.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L3a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3a.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L3b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3b.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L3c",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3c.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L3:2011:bushalte",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L3_2011_bushalte.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L4.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L5.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L6.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L7.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L8.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L9l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9l.png"
+}, {
+"key": "traffic_sign:3",
+"value": "NL:L9r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/NL/NL_L9r.png"
+}, {
+   			"key": "traffic_sign:forward",
+   			"value": "SE:X6-1",
+   			"object_types": ["way", "area", "node", "relation"],
+   			"description": "",
+   			"doc_url": "",
+   			"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/SE/SE_X6-1.png"
+   		}
+
+   	]
+   }
