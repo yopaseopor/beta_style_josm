@@ -41,7 +41,7 @@ icon-image:"FI/FI_.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -204,7 +204,7 @@ icon-image:"FI/FI_111.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:111"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -367,7 +367,7 @@ icon-image:"FI/FI_112.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:112"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -530,7 +530,7 @@ icon-image:"FI/FI_113.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:113"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -693,7 +693,7 @@ icon-image:"FI/FI_114.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:114"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -856,7 +856,7 @@ icon-image:"FI/FI_115.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:115"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -1019,7 +1019,7 @@ icon-image:"FI/FI_116.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:116"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -1182,7 +1182,7 @@ icon-image:"FI/FI_121.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:121"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -1345,7 +1345,7 @@ icon-image:"FI/FI_122.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:122"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -1508,7 +1508,7 @@ icon-image:"FI/FI_131.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:131"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -1671,7 +1671,7 @@ icon-image:"FI/FI_132.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:132"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -1834,7 +1834,7 @@ icon-image:"FI/FI_133.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:133"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -1997,7 +1997,7 @@ icon-image:"FI/FI_141.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:141"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -2160,7 +2160,7 @@ icon-image:"FI/FI_141a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:141a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -2323,7 +2323,7 @@ icon-image:"FI/FI_142.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:142"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -2486,7 +2486,7 @@ icon-image:"FI/FI_143.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:143"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -2649,7 +2649,7 @@ icon-image:"FI/FI_144.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:144"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -2812,7 +2812,7 @@ icon-image:"FI/FI_147.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:147"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -2975,7 +2975,7 @@ icon-image:"FI/FI_151.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:151"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -3138,7 +3138,7 @@ icon-image:"FI/FI_152.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:152"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -3301,7 +3301,7 @@ icon-image:"FI/FI_153.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:153"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -3464,7 +3464,7 @@ icon-image:"FI/FI_154.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:154"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -3627,7 +3627,7 @@ icon-image:"FI/FI_155.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:155"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -3790,7 +3790,7 @@ icon-image:"FI/FI_156.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:156"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -3953,7 +3953,7 @@ icon-image:"FI/FI_161.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:161"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -4116,7 +4116,7 @@ icon-image:"FI/FI_162.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:162"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -4279,7 +4279,7 @@ icon-image:"FI/FI_163-L.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:163-L"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -4442,7 +4442,7 @@ icon-image:"FI/FI_163-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:163-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -4605,7 +4605,7 @@ icon-image:"FI/FI_163l.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:163l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -4768,7 +4768,7 @@ icon-image:"FI/FI_163r.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:163r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -4931,7 +4931,7 @@ icon-image:"FI/FI_164-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:164-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -5094,7 +5094,7 @@ icon-image:"FI/FI_164l.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:164l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -5257,7 +5257,7 @@ icon-image:"FI/FI_164r.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:164r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -5420,7 +5420,7 @@ icon-image:"FI/FI_165.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:165"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -5583,7 +5583,7 @@ icon-image:"FI/FI_166.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:166"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -5746,7 +5746,7 @@ icon-image:"FI/FI_167.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:167"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -5909,7 +5909,7 @@ icon-image:"FI/FI_171.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:171"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -6072,7 +6072,7 @@ icon-image:"FI/FI_172.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:172"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -6235,7 +6235,7 @@ icon-image:"FI/FI_173.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:173"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -6398,7 +6398,7 @@ icon-image:"FI/FI_176.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:176"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -6561,7 +6561,7 @@ icon-image:"FI/FI_177.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:177"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -6724,7 +6724,7 @@ icon-image:"FI/FI_181.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:181"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -6887,7 +6887,7 @@ icon-image:"FI/FI_182.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:182"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -7050,7 +7050,7 @@ icon-image:"FI/FI_183.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:183"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -7213,7 +7213,7 @@ icon-image:"FI/FI_189.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:189"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -7376,7 +7376,7 @@ icon-image:"FI/FI_211.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:211"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -7539,7 +7539,7 @@ icon-image:"FI/FI_212.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:212"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -7702,7 +7702,7 @@ icon-image:"FI/FI_221.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:221"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -7865,7 +7865,7 @@ icon-image:"FI/FI_222.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:222"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -8028,7 +8028,7 @@ icon-image:"FI/FI_231.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:231"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -8191,7 +8191,7 @@ icon-image:"FI/FI_232.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:232"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -8354,7 +8354,7 @@ icon-image:"FI/FI_311.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:311"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -8517,7 +8517,7 @@ icon-image:"FI/FI_312.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:312"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -8680,7 +8680,7 @@ icon-image:"FI/FI_313.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:313"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -8843,7 +8843,7 @@ icon-image:"FI/FI_314.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:314"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -9006,7 +9006,7 @@ icon-image:"FI/FI_315.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:315"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -9169,7 +9169,7 @@ icon-image:"FI/FI_316.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:316"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -9332,7 +9332,7 @@ icon-image:"FI/FI_317.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:317"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -9495,7 +9495,7 @@ icon-image:"FI/FI_318.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:318"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -9658,7 +9658,7 @@ icon-image:"FI/FI_319.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:319"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -9821,7 +9821,7 @@ icon-image:"FI/FI_321.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:321"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -9984,7 +9984,7 @@ icon-image:"FI/FI_322.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:322"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -10147,7 +10147,7 @@ icon-image:"FI/FI_323.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:323"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -10310,7 +10310,7 @@ icon-image:"FI/FI_324.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:324"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -10473,7 +10473,7 @@ icon-image:"FI/FI_325.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:325"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -10636,7 +10636,7 @@ icon-image:"FI/FI_331.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:331"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -10799,7 +10799,7 @@ icon-image:"FI/FI_332.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:332"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -10962,7 +10962,7 @@ icon-image:"FI/FI_333.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:333"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -11125,7 +11125,7 @@ icon-image:"FI/FI_334.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:334"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -11288,7 +11288,7 @@ icon-image:"FI/FI_341.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:341"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -11451,7 +11451,7 @@ icon-image:"FI/FI_342.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:342"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -11614,7 +11614,7 @@ icon-image:"FI/FI_343.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:343"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -11777,7 +11777,7 @@ icon-image:"FI/FI_344.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:344"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -11940,7 +11940,7 @@ icon-image:"FI/FI_345.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:345"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -12103,7 +12103,7 @@ icon-image:"FI/FI_346.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:346"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -12266,7 +12266,7 @@ icon-image:"FI/FI_347.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:347"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -12429,7 +12429,7 @@ icon-image:"FI/FI_351.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:351"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -12592,7 +12592,7 @@ icon-image:"FI/FI_352.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:352"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -12755,7 +12755,7 @@ icon-image:"FI/FI_353.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:353"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -12918,7 +12918,7 @@ icon-image:"FI/FI_354.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:354"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -13081,7 +13081,7 @@ icon-image:"FI/FI_361_(50).png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:361:(50)"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -13244,7 +13244,7 @@ icon-image:"FI/FI_361_(60).png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:361:(60)"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -13407,7 +13407,7 @@ icon-image:"FI/FI_362_(60).png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:362:(60)"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -13570,7 +13570,7 @@ icon-image:"FI/FI_363_(40).png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:363:(40)"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -13733,7 +13733,7 @@ icon-image:"FI/FI_364_(40).png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:364:(40)"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -13896,7 +13896,7 @@ icon-image:"FI/FI_365.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:365"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -14059,7 +14059,7 @@ icon-image:"FI/FI_371.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:371"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -14222,7 +14222,7 @@ icon-image:"FI/FI_372.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:372"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -14385,7 +14385,7 @@ icon-image:"FI/FI_373.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:373"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -14548,7 +14548,7 @@ icon-image:"FI/FI_374.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:374"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -14711,7 +14711,7 @@ icon-image:"FI/FI_375.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:375"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -14874,7 +14874,7 @@ icon-image:"FI/FI_376.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:376"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -15037,7 +15037,7 @@ icon-image:"FI/FI_381.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:381"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -15200,7 +15200,7 @@ icon-image:"FI/FI_382.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:382"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -15363,7 +15363,7 @@ icon-image:"FI/FI_391.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:391"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -15526,7 +15526,7 @@ icon-image:"FI/FI_392.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:392"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -15689,7 +15689,7 @@ icon-image:"FI/FI_393.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:393"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -15852,7 +15852,7 @@ icon-image:"FI/FI_411-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:411-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -16015,7 +16015,7 @@ icon-image:"FI/FI_411l.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:411l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -16178,7 +16178,7 @@ icon-image:"FI/FI_411r.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:411r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -16341,7 +16341,7 @@ icon-image:"FI/FI_412.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:412"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -16504,7 +16504,7 @@ icon-image:"FI/FI_413-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:413-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -16667,7 +16667,7 @@ icon-image:"FI/FI_413l.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:413l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -16830,7 +16830,7 @@ icon-image:"FI/FI_413r.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:413r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -16993,7 +16993,7 @@ icon-image:"FI/FI_414-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:414-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -17156,7 +17156,7 @@ icon-image:"FI/FI_414l.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:414l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -17319,7 +17319,7 @@ icon-image:"FI/FI_414r.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:414r"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -17482,7 +17482,7 @@ icon-image:"FI/FI_415.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:415"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -17645,7 +17645,7 @@ icon-image:"FI/FI_416.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:416"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -17808,7 +17808,7 @@ icon-image:"FI/FI_417.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:417"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -17971,7 +17971,7 @@ icon-image:"FI/FI_417l.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:417l"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -18134,7 +18134,7 @@ icon-image:"FI/FI_418.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:418"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -18297,7 +18297,7 @@ icon-image:"FI/FI_421.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:421"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -18460,7 +18460,7 @@ icon-image:"FI/FI_422.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:422"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -18623,7 +18623,7 @@ icon-image:"FI/FI_423.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:423"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -18786,7 +18786,7 @@ icon-image:"FI/FI_424.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:424"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -18949,7 +18949,7 @@ icon-image:"FI/FI_425.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:425"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -19112,7 +19112,7 @@ icon-image:"FI/FI_426.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:426"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -19275,7 +19275,7 @@ icon-image:"FI/FI_427.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:427"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -19438,7 +19438,7 @@ icon-image:"FI/FI_511.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:511"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -19601,7 +19601,7 @@ icon-image:"FI/FI_520a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:520a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -19764,7 +19764,7 @@ icon-image:"FI/FI_520b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:520b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -19927,7 +19927,7 @@ icon-image:"FI/FI_521.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:521"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -20090,7 +20090,7 @@ icon-image:"FI/FI_521a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:521a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -20253,7 +20253,7 @@ icon-image:"FI/FI_521b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:521b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -20416,7 +20416,7 @@ icon-image:"FI/FI_521c.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:521c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -20579,7 +20579,7 @@ icon-image:"FI/FI_522.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:522"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -20742,7 +20742,7 @@ icon-image:"FI/FI_531.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:531"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -20905,7 +20905,7 @@ icon-image:"FI/FI_532.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:532"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -21068,7 +21068,7 @@ icon-image:"FI/FI_533.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:533"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -21231,7 +21231,7 @@ icon-image:"FI/FI_534.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:534"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -21394,7 +21394,7 @@ icon-image:"FI/FI_541a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:541a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -21557,7 +21557,7 @@ icon-image:"FI/FI_541b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:541b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -21720,7 +21720,7 @@ icon-image:"FI/FI_542a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:542a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -21883,7 +21883,7 @@ icon-image:"FI/FI_542b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:542b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -22046,7 +22046,7 @@ icon-image:"FI/FI_543a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:543a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -22209,7 +22209,7 @@ icon-image:"FI/FI_543b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:543b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -22372,7 +22372,7 @@ icon-image:"FI/FI_544a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:544a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -22535,7 +22535,7 @@ icon-image:"FI/FI_544b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:544b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -22698,7 +22698,7 @@ icon-image:"FI/FI_551-L.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:551-L"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -22861,7 +22861,7 @@ icon-image:"FI/FI_551.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:551"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -23024,7 +23024,7 @@ icon-image:"FI/FI_561.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:561"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -23187,7 +23187,7 @@ icon-image:"FI/FI_562.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:562"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -23350,7 +23350,7 @@ icon-image:"FI/FI_563.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:563"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -23513,7 +23513,7 @@ icon-image:"FI/FI_564.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:564"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -23676,7 +23676,7 @@ icon-image:"FI/FI_565.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:565"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -23839,7 +23839,7 @@ icon-image:"FI/FI_566.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:566"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -24002,7 +24002,7 @@ icon-image:"FI/FI_567.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:567"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -24165,7 +24165,7 @@ icon-image:"FI/FI_571.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:571"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -24328,7 +24328,7 @@ icon-image:"FI/FI_572.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:572"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -24491,7 +24491,7 @@ icon-image:"FI/FI_573.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:573"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -24654,7 +24654,7 @@ icon-image:"FI/FI_574.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:574"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -24817,7 +24817,7 @@ icon-image:"FI/FI_575.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:575"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -24980,7 +24980,7 @@ icon-image:"FI/FI_576.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:576"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -25143,7 +25143,7 @@ icon-image:"FI/FI_611.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:611"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -25306,7 +25306,7 @@ icon-image:"FI/FI_612.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:612"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -25469,7 +25469,7 @@ icon-image:"FI/FI_613.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:613"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -25632,7 +25632,7 @@ icon-image:"FI/FI_614.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:614"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -25795,7 +25795,7 @@ icon-image:"FI/FI_615.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:615"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -25958,7 +25958,7 @@ icon-image:"FI/FI_616.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:616"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -26121,7 +26121,7 @@ icon-image:"FI/FI_621.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:621"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -26284,7 +26284,7 @@ icon-image:"FI/FI_622.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:622"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -26447,7 +26447,7 @@ icon-image:"FI/FI_623.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:623"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -26610,7 +26610,7 @@ icon-image:"FI/FI_631.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:631"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -26773,7 +26773,7 @@ icon-image:"FI/FI_632.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:632"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -26936,7 +26936,7 @@ icon-image:"FI/FI_633.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:633"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -27099,7 +27099,7 @@ icon-image:"FI/FI_641.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:641"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -27262,7 +27262,7 @@ icon-image:"FI/FI_642.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:642"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -27425,7 +27425,7 @@ icon-image:"FI/FI_643.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:643"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -27588,7 +27588,7 @@ icon-image:"FI/FI_644.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:644"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -27751,7 +27751,7 @@ icon-image:"FI/FI_644a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:644a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -27914,7 +27914,7 @@ icon-image:"FI/FI_645.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:645"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -28077,7 +28077,7 @@ icon-image:"FI/FI_646.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:646"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -28240,7 +28240,7 @@ icon-image:"FI/FI_647.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:647"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -28403,7 +28403,7 @@ icon-image:"FI/FI_648.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:648"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -28566,7 +28566,7 @@ icon-image:"FI/FI_649.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:649"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -28729,7 +28729,7 @@ icon-image:"FI/FI_650.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:650"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -28892,7 +28892,7 @@ icon-image:"FI/FI_651.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:651"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -29055,7 +29055,7 @@ icon-image:"FI/FI_652-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:652-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -29218,7 +29218,7 @@ icon-image:"FI/FI_652.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:652"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -29381,7 +29381,7 @@ icon-image:"FI/FI_653_(70).png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:653:(70)"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -29544,7 +29544,7 @@ icon-image:"FI/FI_661.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:661"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -29707,7 +29707,7 @@ icon-image:"FI/FI_662.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:662"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -29870,7 +29870,7 @@ icon-image:"FI/FI_663.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:663"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -30033,7 +30033,7 @@ icon-image:"FI/FI_664.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:664"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -30196,7 +30196,7 @@ icon-image:"FI/FI_665.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:665"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -30359,7 +30359,7 @@ icon-image:"FI/FI_665a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:665a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -30522,7 +30522,7 @@ icon-image:"FI/FI_666.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:666"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -30685,7 +30685,7 @@ icon-image:"FI/FI_667.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:667"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -30848,7 +30848,7 @@ icon-image:"FI/FI_671.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:671"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -31011,7 +31011,7 @@ icon-image:"FI/FI_672.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:672"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -31174,7 +31174,7 @@ icon-image:"FI/FI_673-L.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:673-L"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -31337,7 +31337,7 @@ icon-image:"FI/FI_673.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:673"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -31500,7 +31500,7 @@ icon-image:"FI/FI_674.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:674"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -31663,7 +31663,7 @@ icon-image:"FI/FI_675.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:675"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -31826,7 +31826,7 @@ icon-image:"FI/FI_676.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:676"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -31989,7 +31989,7 @@ icon-image:"FI/FI_677.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:677"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -32152,7 +32152,7 @@ icon-image:"FI/FI_678.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:678"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -32315,7 +32315,7 @@ icon-image:"FI/FI_679.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:679"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -32478,7 +32478,7 @@ icon-image:"FI/FI_681.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:681"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -32641,7 +32641,7 @@ icon-image:"FI/FI_682.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:682"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -32804,7 +32804,7 @@ icon-image:"FI/FI_683.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:683"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -32967,7 +32967,7 @@ icon-image:"FI/FI_684.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:684"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -33130,7 +33130,7 @@ icon-image:"FI/FI_685.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:685"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -33293,7 +33293,7 @@ icon-image:"FI/FI_686.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:686"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -33456,7 +33456,7 @@ icon-image:"FI/FI_690-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:690-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -33619,7 +33619,7 @@ icon-image:"FI/FI_690.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:690"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -33782,7 +33782,7 @@ icon-image:"FI/FI_691-L.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:691-L"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -33945,7 +33945,7 @@ icon-image:"FI/FI_691.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:691"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -34108,7 +34108,7 @@ icon-image:"FI/FI_701.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:701"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -34271,7 +34271,7 @@ icon-image:"FI/FI_702.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:702"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -34434,7 +34434,7 @@ icon-image:"FI/FI_703.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:703"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -34597,7 +34597,7 @@ icon-image:"FI/FI_704.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:704"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -34760,7 +34760,7 @@ icon-image:"FI/FI_704a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:704a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -34923,7 +34923,7 @@ icon-image:"FI/FI_710.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:710"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -35086,7 +35086,7 @@ icon-image:"FI/FI_711.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:711"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -35249,7 +35249,7 @@ icon-image:"FI/FI_712.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:712"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -35412,7 +35412,7 @@ icon-image:"FI/FI_715.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:715"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -35575,7 +35575,7 @@ icon-image:"FI/FI_721.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:721"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -35738,7 +35738,7 @@ icon-image:"FI/FI_722.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:722"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -35901,7 +35901,7 @@ icon-image:"FI/FI_723.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:723"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -36064,7 +36064,7 @@ icon-image:"FI/FI_724.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:724"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -36227,7 +36227,7 @@ icon-image:"FI/FI_725.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:725"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -36390,7 +36390,7 @@ icon-image:"FI/FI_726.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:726"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -36553,7 +36553,7 @@ icon-image:"FI/FI_731.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:731"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -36716,7 +36716,7 @@ icon-image:"FI/FI_733.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:733"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -36879,7 +36879,7 @@ icon-image:"FI/FI_734.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:734"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -37042,7 +37042,7 @@ icon-image:"FI/FI_741.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:741"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -37205,7 +37205,7 @@ icon-image:"FI/FI_742.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:742"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -37368,7 +37368,7 @@ icon-image:"FI/FI_771a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:771a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -37531,7 +37531,7 @@ icon-image:"FI/FI_771b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:771b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -37694,7 +37694,7 @@ icon-image:"FI/FI_772a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:772a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -37857,7 +37857,7 @@ icon-image:"FI/FI_772b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:772b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -38020,7 +38020,7 @@ icon-image:"FI/FI_772c.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:772c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -38183,7 +38183,7 @@ icon-image:"FI/FI_772d.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:772d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -38346,7 +38346,7 @@ icon-image:"FI/FI_772e.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:772e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -38509,7 +38509,7 @@ icon-image:"FI/FI_772f.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:772f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -38672,7 +38672,7 @@ icon-image:"FI/FI_773a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:773a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -38835,7 +38835,7 @@ icon-image:"FI/FI_773b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:773b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -38998,7 +38998,7 @@ icon-image:"FI/FI_773c.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:773c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -39161,7 +39161,7 @@ icon-image:"FI/FI_773d.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:773d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -39324,7 +39324,7 @@ icon-image:"FI/FI_773e.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:773e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -39487,7 +39487,7 @@ icon-image:"FI/FI_774a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:774a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -39650,7 +39650,7 @@ icon-image:"FI/FI_774b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:774b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -39813,7 +39813,7 @@ icon-image:"FI/FI_774c.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:774c"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -39976,7 +39976,7 @@ icon-image:"FI/FI_774d.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:774d"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -40139,7 +40139,7 @@ icon-image:"FI/FI_774e.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:774e"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -40302,7 +40302,7 @@ icon-image:"FI/FI_774f.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:774f"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -40465,7 +40465,7 @@ icon-image:"FI/FI_791.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:791"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -40628,7 +40628,7 @@ icon-image:"FI/FI_792.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:792"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -40791,7 +40791,7 @@ icon-image:"FI/FI_811-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:811-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -40954,7 +40954,7 @@ icon-image:"FI/FI_812-L.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:812-L"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -41117,7 +41117,7 @@ icon-image:"FI/FI_813-L.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:813-L"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -41280,7 +41280,7 @@ icon-image:"FI/FI_814.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:814"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -41443,7 +41443,7 @@ icon-image:"FI/FI_815.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:815"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -41606,7 +41606,7 @@ icon-image:"FI/FI_816.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:816"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -41769,7 +41769,7 @@ icon-image:"FI/FI_821.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:821"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -41932,7 +41932,7 @@ icon-image:"FI/FI_822.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:822"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -42095,7 +42095,7 @@ icon-image:"FI/FI_823.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:823"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -42258,7 +42258,7 @@ icon-image:"FI/FI_824.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:824"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -42421,7 +42421,7 @@ icon-image:"FI/FI_825.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:825"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -42584,7 +42584,7 @@ icon-image:"FI/FI_826-R.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:826-R"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -42747,7 +42747,7 @@ icon-image:"FI/FI_827.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:827"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -42910,7 +42910,7 @@ icon-image:"FI/FI_828.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:828"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -43073,7 +43073,7 @@ icon-image:"FI/FI_831.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:831"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -43236,7 +43236,7 @@ icon-image:"FI/FI_832.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:832"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -43399,7 +43399,7 @@ icon-image:"FI/FI_833.1.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:833.1"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -43562,7 +43562,7 @@ icon-image:"FI/FI_833.2.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:833.2"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -43725,7 +43725,7 @@ icon-image:"FI/FI_834.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:834"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -43888,7 +43888,7 @@ icon-image:"FI/FI_835.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:835"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -44051,7 +44051,7 @@ icon-image:"FI/FI_836.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:836"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -44214,7 +44214,7 @@ icon-image:"FI/FI_841.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:841"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -44377,7 +44377,7 @@ icon-image:"FI/FI_842.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:842"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -44540,7 +44540,7 @@ icon-image:"FI/FI_843.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:843"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -44703,7 +44703,7 @@ icon-image:"FI/FI_844.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:844"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -44866,7 +44866,7 @@ icon-image:"FI/FI_845.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:845"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -45029,7 +45029,7 @@ icon-image:"FI/FI_848.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:848"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -45192,7 +45192,7 @@ icon-image:"FI/FI_849.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:849"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -45355,7 +45355,7 @@ icon-image:"FI/FI_851.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:851"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -45518,7 +45518,7 @@ icon-image:"FI/FI_852.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:852"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -45681,7 +45681,7 @@ icon-image:"FI/FI_853.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:853"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -45844,7 +45844,7 @@ icon-image:"FI/FI_854.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:854"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -46007,7 +46007,7 @@ icon-image:"FI/FI_855a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:855a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -46170,7 +46170,7 @@ icon-image:"FI/FI_855b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:855b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -46333,7 +46333,7 @@ icon-image:"FI/FI_856a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:856a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -46496,7 +46496,7 @@ icon-image:"FI/FI_856b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:856b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -46659,7 +46659,7 @@ icon-image:"FI/FI_861a.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:861a"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -46822,7 +46822,7 @@ icon-image:"FI/FI_861b.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:861b"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -46985,7 +46985,7 @@ icon-image:"FI/FI_862.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:862"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -47148,7 +47148,7 @@ icon-image:"FI/FI_863.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:863"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -47311,7 +47311,7 @@ icon-image:"FI/FI_871.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:871"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -47474,7 +47474,7 @@ icon-image:"FI/FI_872.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:872"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -47637,7 +47637,7 @@ icon-image:"FI/FI_880.png" ;
 
 /*--traffic_sign right--*/
 
-node["traffic_sign"=""]["side"="right"]{
+node["traffic_sign"="FI:880"]["side"="right"]{
 icon-offset-x:"20" ;
 icon-offset-y:"0" ;
 icon-width:"20" ;
@@ -47778,10 +47778,4 @@ icon-offset-y:"40" ;
 icon-width:"20" ;
 icon-image:"FI/FI_880.png" ;
 }
-
-
-
-
-
-
 
