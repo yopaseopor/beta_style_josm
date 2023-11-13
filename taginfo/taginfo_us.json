@@ -1,0 +1,1934 @@
+   {
+   	"data_format": 1,
+   	"data_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/taginfo/taginfo_us.json",
+   	"project": {
+   		"name": "Traffic_signs_US",
+   		"description": "Style and preset in JOSM to make easier the use and introduction of the United States traffic signs in OpenStreetMap via JOSM",
+   		"project_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging",
+   		"doc_url": "https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging/Tools#Taginfo_project",
+   		"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_.png",
+   		"contact_name": "yopaseopor",
+   		"contact_email": "yopaseopor@gmail.com"
+   	},
+   	"tags": [{
+"key": "traffic_sign",
+"value": "US:20W",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_20W.png"
+}, {
+"key": "traffic_sign",
+"value": "US:D-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_D-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:D-3a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_D-3a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:D2-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_D2-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:D5-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_D5-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:D8-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_D8-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:D8-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_D8-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:D8-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_D8-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:E5-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_E5-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:E5-1a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_E5-1a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:E5-1a:E13-1P",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_E5-1a_E13-1P.png"
+}, {
+"key": "traffic_sign",
+"value": "US:M1-10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_M1-10.png"
+}, {
+"key": "traffic_sign",
+"value": "US:M1-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_M1-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:M1-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_M1-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:M1-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_M1-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:M1-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_M1-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R1-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R1-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R1-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R1-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R1-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R1-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R1-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R1-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R1-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R1-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R1-6a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R1-6a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R10-15r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R10-15r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R10-22",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R10-22.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R10-3b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R10-3b.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R10-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R10-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R11-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R11-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R11-3a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R11-3a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R11-3b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R11-3b.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R12-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R12-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R12-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R12-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R12-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R12-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R12-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R12-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R14-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R14-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R14-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R14-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R14-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R14-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R14-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R14-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R14-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R14-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R15-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R15-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R16-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R16-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R16-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R16-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R16-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R16-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R16-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R16-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R16-9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R16-9.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-1m",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-1m.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-2m",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-2m.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-3m",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-3m.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R2-4m",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R2-4m.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-10.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-17.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-18.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-27",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-27.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-2a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-2a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-44",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-44.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-44a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-44a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-48",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-48.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R3-8b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R3-8b.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-10.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-11.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-12.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-13.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-14.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-16",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-16.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-17.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-18.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-7.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-7a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-7a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-7b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-7b.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-7c",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-7c.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-8a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-8a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-8b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-8b.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-8c",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-8c.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R4-9",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R4-9.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-10a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-10a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-11.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-1a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-1a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-1b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-1b.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-7.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R5-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R5-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-1l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-1l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-1r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-1r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-2l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-2l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-2r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-2r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-4l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-4l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R6-4r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R6-4r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R7-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R7-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R7-107",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R7-107.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R7-108",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R7-108.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R7-20",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R7-20.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R7-201a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R7-201a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R7-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R7-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R7-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R7-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R8-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R8-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R8-10a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R8-10a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R8-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R8-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R8-3bp",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R8-3bp.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R8-3ep",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R8-3ep.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R8-3fp",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R8-3fp.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R8-3gp",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R8-3gp.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-10.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-13.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-14",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-14.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:R9-7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_R9-7.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S1-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S1-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S1-1o",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S1-1o.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S3-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S3-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S3-1o",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S3-1o.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S3-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S3-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S3-2o",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S3-2o.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S4-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S4-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S5-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S5-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:S5-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_S5-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-10.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-10c",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-10c.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-10cl",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-10cl.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-10cr",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-10cr.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-10l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-10l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-10r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-10r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-11.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-11l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-11l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-11r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-11r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-13.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-13l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-13l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-13r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-13r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-15",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-15.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-15l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-15l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-15r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-15r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-1l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-1l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-1r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-1r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-2a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-2a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-2al",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-2al.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-2ar",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-2ar.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-2l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-2l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-2r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-2r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-3l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-3l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-3r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-3r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-4l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-4l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-4r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-4r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-5l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-5l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-5r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-5r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-6l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-6l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-6r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-6r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-8l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-8l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W1-8r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W1-8r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-12",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-12.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-12l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-12l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-12r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-12r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-3l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-3l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-3r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-3r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W10-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W10-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-11",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-11.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-17",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-17.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-18",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-18.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-19",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-19.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W11-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W11-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W12-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W12-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W12-2a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W12-2a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W12-2m",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W12-2m.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W13-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W13-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W13-1m",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W13-1m.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W13-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W13-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W13-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W13-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W13-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W13-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W14-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W14-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W14-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W14-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W14-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W14-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W15-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W15-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W17-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W17-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W19-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W19-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W19-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W19-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W19-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W19-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W19-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W19-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W19-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W19-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-2l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-2l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-2r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-2r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-3l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-3l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-3r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-3r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-6a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-6a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-7",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-7.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W2-7l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W2-7l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W25-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W25-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W25-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W25-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W3-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W3-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W3-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W3-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W3-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W3-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W3-4",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W3-4.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W3-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W3-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W3-5a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W3-5a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-1l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-1l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-1r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-1r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-2l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-2l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-2r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-2r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-3l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-3l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-3r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-3r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-5l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-5l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-5r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-5r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-6l",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-6l.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W4-6r",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W4-6r.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W5-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W5-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W5-2a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W5-2a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W5-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W5-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W5-4a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W5-4a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W6-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W6-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W6-1a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W6-1a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W6-1b",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W6-1b.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W6-3",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W6-3.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W7-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W7-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W7-1a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W7-1a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W7-1a2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W7-1a2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-10",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-10.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-13",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-13.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-2",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-2.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-3a",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-3a.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-5",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-5.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-6",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-6.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W8-8",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W8-8.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W9-1",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W9-1.png"
+}, {
+"key": "traffic_sign",
+"value": "US:W9-2L",
+"object_types": ["way", "area", "node", "relation"],
+"description": "",
+"doc_url": "",
+"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/US/US_W9-2L.png"
+}, {
+   			"key": "traffic_sign:forward",
+   			"value": "SE:X6-1",
+   			"object_types": ["way", "area", "node", "relation"],
+   			"description": "",
+   			"doc_url": "",
+   			"icon_url": "https://raw.githubusercontent.com/yopaseopor/beta_style_josm/master/traffic_signs_EUR/SE/SE_X6-1.png"
+   		}
+
+   	]
+   }
