@@ -109,7 +109,7 @@ IT_II.371.png
 IT_II.372.png
 IT_II.373.png
 IT_II.374.png
-IT_II.38.png
+IT_II.36.png
 IT_II.4.png
 IT_II.40.png
 IT_II.41.png
