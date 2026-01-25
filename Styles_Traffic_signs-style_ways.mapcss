@@ -22,6 +22,54 @@ description: "Muestra las señales de tráfico introducidas en OSM con valores p
 
 /*--traffic_sign--*/
 
+node["highway"="traffic_sign"]{
+icon-offset-x:"0" ;
+icon-offset-y:"0" ;
+icon-width:"20" ;
+icon-image:"_ALL/all_real_place_highway.svg" ;
+}
+
+/*--traffic_sign:2--*/
+
+node["man_made"="pole"]{
+icon-offset-x:"0" ;
+icon-offset-y:"0" ;
+icon-width:"20" ;
+icon-image:"_ALL/all_man_made_pole.svg" ;
+}
+
+
+
+/*--traffic_sign:3 left--*/
+
+node["hazard"="cattle"]["layer"="3"]{
+icon-offset-x:"-2" ;
+icon-offset-y:"60" ;
+icon-width:"20" ;
+icon-image:"_ALL/ALL_hazard_cattle.svg" ;
+}
+
+/*--traffic_sign:4--*/
+
+node["hazard"="cattle"]["layer"="4"]{
+icon-offset-x:"-2" ;
+icon-offset-y:"80" ;
+icon-width:"20" ;
+icon-image:"_ALL/ALL_hazard_cattle.svg" ;
+}
+
+/*--traffic_sign:5--*/
+
+node["hazard"="cattle"]["layer"="5"]{
+icon-offset-x:"-2" ;
+icon-offset-y:"100" ;
+icon-width:"20" ;
+icon-image:"_ALL/ALL_hazard_cattle.svg" ;
+}
+
+/*--^^^^^^^^^^^^^^--*/
+/*--traffic_sign--*/
+
 node["hazard"="cattle"]["layer"="1"]{
 icon-offset-x:"-2" ;
 icon-offset-y:"0" ;
